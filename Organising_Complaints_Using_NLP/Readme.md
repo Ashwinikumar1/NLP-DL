@@ -20,9 +20,11 @@ Insights 1 : Complaints Narrative is available for only 114K complaints and hist
 Insights 2: Complaints corresponds to 12 different product across various categories from Debt to Virtual Currency.For deatils of compalints by product refer below
 
 ![image](https://github.com/Ashwinikumar1/NLP-DL/blob/master/Organising_Complaints_Using_NLP/Output/complaints_product.png)
+
 ![image](https://github.com/Ashwinikumar1/NLP-DL/blob/master/Organising_Complaints_Using_NLP/Output/Disputed_CrossTab_Compalints.png)
 
 Insights 3: Companies with maximum number of complaints are as follows
+
 ![image](https://github.com/Ashwinikumar1/NLP-DL/blob/master/Organising_Complaints_Using_NLP/Output/top_25_companies_by_freq.png)
 
 ### WordCloud for top 5 prdocuts by frequency
