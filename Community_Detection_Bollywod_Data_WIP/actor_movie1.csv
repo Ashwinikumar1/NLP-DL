@@ -1,0 +1,5100 @@
+,actors,movies
+0,govinda,Albela
+1,aishwarya rai bachchan,Albela
+2,jackie shroff,Albela
+3,namrata shirodkar,Albela
+4,aamir khan,Lagaan: Once Upon a Time in India
+5,gracy singh,Lagaan: Once Upon a Time in India
+6,rachel shelley,Lagaan: Once Upon a Time in India
+7,paul blackthorne,Lagaan: Once Upon a Time in India
+8,akshay kumar,Meri Biwi Ka Jawab Nahin
+9,sridevi,Meri Biwi Ka Jawab Nahin
+10,gulshan grover,Meri Biwi Ka Jawab Nahin
+11,laxmikant berde,Meri Biwi Ka Jawab Nahin
+12,shah rukh khan,Hum Tumhare Hain Sanam
+13,madhuri dixit,Hum Tumhare Hain Sanam
+14,salman khan,Hum Tumhare Hain Sanam
+15,atul agnihotri,Hum Tumhare Hain Sanam
+16,shah rukh khan,One 2 Ka 4
+17,juhi chawla,One 2 Ka 4
+18,jackie shroff,One 2 Ka 4
+19,nirmal pandey,One 2 Ka 4
+20,shah rukh khan,Devdas
+21,madhuri dixit,Devdas
+22,aishwarya rai bachchan,Devdas
+23,jackie shroff,Devdas
+24,hrithik roshan,Aap Mujhe Achche Lagne Lage
+25,ameesha patel,Aap Mujhe Achche Lagne Lage
+26,kiran kumar,Aap Mujhe Achche Lagne Lage
+27,mukesh tiwari,Aap Mujhe Achche Lagne Lage
+28,amitabh bachchan,Kabhi Khushi Kabhie Gham...
+29,jaya bhaduri,Kabhi Khushi Kabhie Gham...
+30,shah rukh khan,Kabhi Khushi Kabhie Gham...
+31,kajol,Kabhi Khushi Kabhie Gham...
+32,saif ali khan,Na Tum Jaano Na Hum
+33,hrithik roshan,Na Tum Jaano Na Hum
+34,esha deol,Na Tum Jaano Na Hum
+35,alok nath,Na Tum Jaano Na Hum
+36,jackie shroff,Yaadein...
+37,hrithik roshan,Yaadein...
+38,kareena kapoor,Yaadein...
+39,amrish puri,Yaadein...
+40,karisma kapoor,Zubeidaa
+41,rekha,Zubeidaa
+42,manoj bajpayee,Zubeidaa
+43,rajit kapoor,Zubeidaa
+44,preity zinta,Chori Chori Chupke Chupke
+45,salman khan,Chori Chori Chupke Chupke
+46,rani mukerji,Chori Chori Chupke Chupke
+47,amrish puri,Chori Chori Chupke Chupke
+48,hrithik roshan,Main Prem Ki Diwani Hoon
+49,kareena kapoor,Main Prem Ki Diwani Hoon
+50,abhishek bachchan,Main Prem Ki Diwani Hoon
+51,johnny lever,Main Prem Ki Diwani Hoon
+52,sunil shetty,Officer
+53,raveena tandon,Officer
+54,danny denzongpa,Officer
+55,sadashiv amrapurkar,Officer
+56,tabu,Chandni Bar
+57,atul kulkarni,Chandni Bar
+58,rajpal yadav,Chandni Bar
+59,shri vallabh vyas,Chandni Bar
+60,kajol,Kuch Khatti Kuch Meethi
+61,rishi kapoor,Kuch Khatti Kuch Meethi
+62,rati agnihotri,Kuch Khatti Kuch Meethi
+63,sunil shetty,Kuch Khatti Kuch Meethi
+64,dev anand,Censor
+65,hema malini,Censor
+66,shammi kapoor,Censor
+67,rekha,Censor
+68,sunny deol,Farz
+69,preity zinta,Farz
+70,jackie shroff,Farz
+71,om puri,Farz
+72,rekha,Mujhe Meri Biwi Se Bachaao
+73,naseeruddin shah,Mujhe Meri Biwi Se Bachaao
+74,arshad warsi,Mujhe Meri Biwi Se Bachaao
+75,suman ranganathan,Mujhe Meri Biwi Se Bachaao
+76,rani mukerji,Mujhse Dosti Karoge!
+77,hrithik roshan,Mujhse Dosti Karoge!
+78,kareena kapoor,Mujhse Dosti Karoge!
+79,uday chopra,Mujhse Dosti Karoge!
+80,raveena tandon,Daman: A Victim of Marital Violence
+81,sayaji shinde,Daman: A Victim of Marital Violence
+82,sanjay suri,Daman: A Victim of Marital Violence
+83,raima sen,Daman: A Victim of Marital Violence
+84,bobby deol,Aashiq
+85,rahul dev,Aashiq
+86,dinesh hingoo,Aashiq
+87,vrajesh hirjee,Aashiq
+88,sadashiv amrapurkar,Dil Ne Phir Yaad Kiya
+89,vinay anand,Dil Ne Phir Yaad Kiya
+90,pooja batra,Dil Ne Phir Yaad Kiya
+91,govinda,Dil Ne Phir Yaad Kiya
+92,rani mukerji,Pyaar Diwana Hota Hai
+93,govinda,Pyaar Diwana Hota Hai
+94,om puri,Pyaar Diwana Hota Hai
+95,laxmikant berde,Pyaar Diwana Hota Hai
+96,jackie shroff,Grahan
+97,manisha koirala,Grahan
+98,anupama verma,Grahan
+99,prasad purandhare,Grahan
+100,neha,Rahul
+101,rajeshwari sachdev,Rahul
+102,gulshan grover,Rahul
+103,nina kulkarni,Rahul
+104,akshay kumar,Ajnabee
+105,bobby deol,Ajnabee
+106,kareena kapoor,Ajnabee
+107,bipasha basu,Ajnabee
+108,sanjay dutt,Jodi No.1
+109,govinda,Jodi No.1
+110,twinkle khanna,Jodi No.1
+111,monica bedi,Jodi No.1
+112,tinnu anand,Chhupa Rustam: A Musical Thriller
+113,raj babbar,Chhupa Rustam: A Musical Thriller
+114,laxmikant berde,Chhupa Rustam: A Musical Thriller
+115,avtar gill,Chhupa Rustam: A Musical Thriller
+116,jimi mistry,The Guru
+117,heather graham,The Guru
+118,marisa tomei,The Guru
+119,michael mckean,The Guru
+120,fardeen khan,Pyaar Tune Kya Kiya...
+121,ravi baswani,Pyaar Tune Kya Kiya...
+122,kannu gill,Pyaar Tune Kya Kiya...
+123,sonali kulkarni,Pyaar Tune Kya Kiya...
+124,rani mukerji,Bas Itna Sa Khwaab Hai...
+125,abhishek bachchan,Bas Itna Sa Khwaab Hai...
+126,sushmita sen,Bas Itna Sa Khwaab Hai...
+127,jackie shroff,Bas Itna Sa Khwaab Hai...
+128,sunny deol,Gadar: Ek Prem Katha
+129,ameesha patel,Gadar: Ek Prem Katha
+130,amrish puri,Gadar: Ek Prem Katha
+131,lillete dubey,Gadar: Ek Prem Katha
+132,tusshar kapoor,Mujhe Kucch Kehna Hai
+133,kareena kapoor,Mujhe Kucch Kehna Hai
+134,amrish puri,Mujhe Kucch Kehna Hai
+135,rinke khanna,Mujhe Kucch Kehna Hai
+136,karan nath,Paagalpan
+137,aarti agarwal,Paagalpan
+138,vilas ujawane,Paagalpan
+139,bharat dabholkar,Paagalpan
+140,saif ali khan,Love Ke Liye Kuch Bhi Karega
+141,fardeen khan,Love Ke Liye Kuch Bhi Karega
+142,aftab shivdasani,Love Ke Liye Kuch Bhi Karega
+143,sonali bendre,Love Ke Liye Kuch Bhi Karega
+144,puru rajkumar,Uljhan
+145,dipti bhatnagar,Uljhan
+146,kanchan,Uljhan
+147,laxmikant berde,Uljhan
+148,amitabh bachchan,Aks
+149,raveena tandon,Aks
+150,manoj bajpayee,Aks
+151,nandita das,Aks
+152,priyanshu chatterjee,Tum Bin...: Love Will Find a Way
+153,himanshu malik,Tum Bin...: Love Will Find a Way
+154,sandali sinha,Tum Bin...: Love Will Find a Way
+155,raqesh vashisth,Tum Bin...: Love Will Find a Way
+156,anil kapoor,Nayak: The Real Hero
+157,rani mukerji,Nayak: The Real Hero
+158,amrish puri,Nayak: The Real Hero
+159,johnny lever,Nayak: The Real Hero
+160,aamir khan,Dil Chahta Hai
+161,saif ali khan,Dil Chahta Hai
+162,akshaye khanna,Dil Chahta Hai
+163,preity zinta,Dil Chahta Hai
+164,fardeen khan,Hum Ho Gaye Aap Ke
+165,reema sen,Hum Ho Gaye Aap Ke
+166,apoorva agnihotri,Hum Ho Gaye Aap Ke
+167,suman ranganathan,Hum Ho Gaye Aap Ke
+168,ajay devgn,Yeh Raaste Hain Pyaar Ke
+169,madhuri dixit,Yeh Raaste Hain Pyaar Ke
+170,preity zinta,Yeh Raaste Hain Pyaar Ke
+171,vikram gokhale,Yeh Raaste Hain Pyaar Ke
+172,rekha,Lajja
+173,anil kapoor,Lajja
+174,jackie shroff,Lajja
+175,madhuri dixit,Lajja
+176,amitabh bachchan,Kaante
+177,sanjay dutt,Kaante
+178,sunil shetty,Kaante
+179,mahesh manjrekar,Kaante
+180,sudhir dalvi,Shirdi Sai Baba
+181,dharmendra,Shirdi Sai Baba
+182,vikram gokhale,Shirdi Sai Baba
+183,rohini hattangadi,Shirdi Sai Baba
+184,neeru bajwa,Bollywood Bound
+185,ruby bhatia,Bollywood Bound
+186,vekeana dhillon,Bollywood Bound
+187,vikram dhillon,Bollywood Bound
+188,ajay devgn,Company
+189,mohanlal,Company
+190,manisha koirala,Company
+191,seema biswas,Company
+192,sunil shetty,Ittefaq
+193,mukul dev,Ittefaq
+194,pooja batra,Ittefaq
+195,anupama verma,Ittefaq
+196,sunil shetty,Yeh Teraa Ghar Yeh Meraa Ghar
+197,mahima chaudhry,Yeh Teraa Ghar Yeh Meraa Ghar
+198,paresh rawal,Yeh Teraa Ghar Yeh Meraa Ghar
+199,saurabh shukla,Yeh Teraa Ghar Yeh Meraa Ghar
+200,ameesha patel,Yeh Zindagi Ka Safar
+201,jimmy shergill,Yeh Zindagi Ka Safar
+202,nafisa ali,Yeh Zindagi Ka Safar
+203,gulshan grover,Yeh Zindagi Ka Safar
+204,madhavan,Rehnaa Hai Terre Dil Mein
+205,saif ali khan,Rehnaa Hai Terre Dil Mein
+206,dia mirza,Rehnaa Hai Terre Dil Mein
+207,vrajesh hirjee,Rehnaa Hai Terre Dil Mein
+208,malaika arora,Indian
+209,raj babbar,Indian
+210,rana jung bahadur,Indian
+211,balwant bansal,Indian
+212,arjun rampal,Deewaanapan
+213,dia mirza,Deewaanapan
+214,vinod khanna,Deewaanapan
+215,om puri,Deewaanapan
+216,arjun rampal,Moksha: Salvation
+217,manisha koirala,Moksha: Salvation
+218,kalpana pandit,Moksha: Salvation
+219,suresh oberoi,Moksha: Salvation
+220,ajay devgn,Tera Mera Saath Rahen
+221,sonali bendre,Tera Mera Saath Rahen
+222,namrata shirodkar,Tera Mera Saath Rahen
+223,prem chopra,Tera Mera Saath Rahen
+224,anand raj anand,Ehsaas: The Feeling
+225,sunidhi chauhan,Ehsaas: The Feeling
+226,nagesh haldankar,Ehsaas: The Feeling
+227,shakti kapoor,Ehsaas: The Feeling
+228,shailendra gaur,Veer Savarkar
+229,pankaj berry,Veer Savarkar
+230,tom alter,Veer Savarkar
+231,hemant birje,Veer Savarkar
+232,govinda,Aamdani Atthanni Kharcha Rupaiya
+233,juhi chawla,Aamdani Atthanni Kharcha Rupaiya
+234,tabu,Aamdani Atthanni Kharcha Rupaiya
+235,chandrachur singh,Aamdani Atthanni Kharcha Rupaiya
+236,sanjay dutt,Pitaah
+237,nandita das,Pitaah
+238,sachin khedekar,Pitaah
+239,tanvi hegde,Pitaah
+240,amitabh bachchan,Aankhen
+241,akshay kumar,Aankhen
+242,sushmita sen,Aankhen
+243,arjun rampal,Aankhen
+244,jaya bhaduri,Koi Mere Dil Se Poochhe
+245,aftab shivdasani,Koi Mere Dil Se Poochhe
+246,sanjay kapoor,Koi Mere Dil Se Poochhe
+247,juliet alburque,Koi Mere Dil Se Poochhe
+248,sharman joshi,Style
+249,sahil khan,Style
+250,riya sen,Style
+251,shillpi sharma,Style
+252,sunny deol,Maa Tujhhe Salaam
+253,tabu,Maa Tujhhe Salaam
+254,arbaaz khan,Maa Tujhhe Salaam
+255,tinnu verma,Maa Tujhhe Salaam
+256,jividha sharma,Yeh Dil Aashiqanaa
+257,mohan azaad,Yeh Dil Aashiqanaa
+258,arun bakshi,Yeh Dil Aashiqanaa
+259,rajat bedi,Yeh Dil Aashiqanaa
+260,tabu,Filhaal...
+261,sushmita sen,Filhaal...
+262,sanjay suri,Filhaal...
+263,palash sen,Filhaal...
+264,akshay kumar,Haan Maine Bhi Pyaar Kiya
+265,karisma kapoor,Haan Maine Bhi Pyaar Kiya
+266,abhishek bachchan,Haan Maine Bhi Pyaar Kiya
+267,kader khan,Haan Maine Bhi Pyaar Kiya
+268,akanksha malhotra,Yeh Mohabbat Hai
+269,rahul bhat,Yeh Mohabbat Hai
+270,nasir khan,Yeh Mohabbat Hai
+271,pinky campbell,Yeh Mohabbat Hai
+272,salman khan,Tumko Na Bhool Paayenge
+273,sushmita sen,Tumko Na Bhool Paayenge
+274,dia mirza,Tumko Na Bhool Paayenge
+275,sharat saxena,Tumko Na Bhool Paayenge
+276,vinod khanna,Kranti
+277,bobby deol,Kranti
+278,ameesha patel,Kranti
+279,rati agnihotri,Kranti
+280,manisha koirala,Escape from Taliban
+281,nawab shah,Escape from Taliban
+282,vineeta malik,Escape from Taliban
+283,prithvi zutshi,Escape from Taliban
+284,jackie shroff,Kya Yehi Pyaar Hai
+285,aftab shivdasani,Kya Yehi Pyaar Hai
+286,ameesha patel,Kya Yehi Pyaar Hai
+287,anupama verma,Kya Yehi Pyaar Hai
+288,fardeen khan,Kitne Door... Kitne Paas
+289,amrita arora,Kitne Door... Kitne Paas
+290,satish shah,Kitne Door... Kitne Paas
+291,tiku talsania,Kitne Door... Kitne Paas
+292,nana patekar,Vadh
+293,anupama verma,Vadh
+294,puru rajkumar,Vadh
+295,nakhul,Vadh
+296,danny denzongpa,16-Dec
+297,gulshan grover,16-Dec
+298,milind soman,16-Dec
+299,dipannita sharma,16-Dec
+300,vivek oberoi,Dum
+301,dia mirza,Dum
+302,atul kulkarni,Dum
+303,mukesh rishi,Dum
+304,j.d. chakravarthi,Durga
+305,snehal dabi,Durga
+306,jayaprakash,Durga
+307,priyanka,Durga
+308,arjun rampal,Humko Tumse Pyaar Hai
+309,ameesha patel,Humko Tumse Pyaar Hai
+310,bobby deol,Humko Tumse Pyaar Hai
+311,achint kaur,Humko Tumse Pyaar Hai
+312,manoj bajpayee,Road
+313,vivek oberoi,Road
+314,antara mali,Road
+315,sayaji shinde,Road
+316,vinay anand,Angaar: The Fire
+317,rana jung bahadur,Angaar: The Fire
+318,rajat bedi,Angaar: The Fire
+319,sanober kabir,Angaar: The Fire
+320,om puri,Ansh: The Deadly Part
+321,ashutosh rana,Ansh: The Deadly Part
+322,abbas,Ansh: The Deadly Part
+323,sharbani mukherji,Ansh: The Deadly Part
+324,nandita das,Lal Salaam
+325,sharad s. kapoor,Lal Salaam
+326,makrand deshpande,Lal Salaam
+327,vijay raaz,Lal Salaam
+328,krishna abhishek,Yeh Kaisi Mohabbat
+329,viveka babajee,Yeh Kaisi Mohabbat
+330,sheeba bhakri,Yeh Kaisi Mohabbat
+331,deeksha,Yeh Kaisi Mohabbat
+332,naseeruddin shah,Kasam
+333,sunny deol,Kasam
+334,chunky pandey,Kasam
+335,neelam,Kasam
+336,akshay kumar,Awara Paagal Deewana
+337,sunil shetty,Awara Paagal Deewana
+338,aftab shivdasani,Awara Paagal Deewana
+339,preeti jhangiani,Awara Paagal Deewana
+340,ajay devgn,The Legend of Bhagat Singh
+341,sushant singh,The Legend of Bhagat Singh
+342,d. santosh,The Legend of Bhagat Singh
+343,akhilendra mishra,The Legend of Bhagat Singh
+344,arya babbar,Ab Ke Baras
+345,amrita rao,Ab Ke Baras
+346,ashutosh rana,Ab Ke Baras
+347,shakti kapoor,Ab Ke Baras
+348,uday chopra,Mere Yaar Ki Shaadi Hai
+349,tulip joshi,Mere Yaar Ki Shaadi Hai
+350,jimmy shergill,Mere Yaar Ki Shaadi Hai
+351,bipasha basu,Mere Yaar Ki Shaadi Hai
+352,amitabh bachchan,Lakshya
+353,hrithik roshan,Lakshya
+354,preity zinta,Lakshya
+355,sharad s. kapoor,Lakshya
+356,bobby deol,23rd March 1931: Shaheed
+357,sunny deol,23rd March 1931: Shaheed
+358,amrita singh,23rd March 1931: Shaheed
+359,rahul dev,23rd March 1931: Shaheed
+360,anil kapoor,Badhaai Ho Badhaai
+361,anang desai,Badhaai Ho Badhaai
+362,rohini hattangadi,Badhaai Ho Badhaai
+363,vinay jain,Badhaai Ho Badhaai
+364,bobby deol,Humraaz
+365,akshaye khanna,Humraaz
+366,ameesha patel,Humraaz
+367,johnny lever,Humraaz
+368,sohail khan,Maine Dil Tujhko Diya
+369,sameera reddy,Maine Dil Tujhko Diya
+370,sanjay dutt,Maine Dil Tujhko Diya
+371,kabir bedi,Maine Dil Tujhko Diya
+372,ajay devgn,Chori Chori
+373,sonali bendre,Chori Chori
+374,rani mukerji,Chori Chori
+375,kamini kaushal,Chori Chori
+376,akshay kumar,Jaani Dushman: Ek Anokhi Kahani
+377,atul agnihotri,Jaani Dushman: Ek Anokhi Kahani
+378,raj babbar,Jaani Dushman: Ek Anokhi Kahani
+379,rajat bedi,Jaani Dushman: Ek Anokhi Kahani
+380,vikram gokhale,Kuch Tum Kaho Kuch Hum Kahein
+381,dinesh hingoo,Kuch Tum Kaho Kuch Hum Kahein
+382,adi irani,Kuch Tum Kaho Kuch Hum Kahein
+383,farida jalal,Kuch Tum Kaho Kuch Hum Kahein
+384,rajesh khanna,Kyaa Dil Ne Kahaa
+385,tusshar kapoor,Kyaa Dil Ne Kahaa
+386,esha deol,Kyaa Dil Ne Kahaa
+387,raj babbar,Kyaa Dil Ne Kahaa
+388,waheeda rehman,Om Jai Jagadish
+389,anil kapoor,Om Jai Jagadish
+390,fardeen khan,Om Jai Jagadish
+391,abhishek bachchan,Om Jai Jagadish
+392,zulfi sayed,Taj Mahal: An Eternal Love Story
+393,sonya jehan,Taj Mahal: An Eternal Love Story
+394,kabir bedi,Taj Mahal: An Eternal Love Story
+395,arbaaz khan,Taj Mahal: An Eternal Love Story
+396,rishi kapoor,Yeh Hai Jalwa
+397,salman khan,Yeh Hai Jalwa
+398,ameesha patel,Yeh Hai Jalwa
+399,rati agnihotri,Yeh Hai Jalwa
+400,shahid kapoor,Dil Maange More!!!
+401,smita jaykar,Dil Maange More!!!
+402,ayesha takia,Dil Maange More!!!
+403,tulip joshi,Dil Maange More!!!
+404,arjun rampal,Dil Hai Tumhaara
+405,preity zinta,Dil Hai Tumhaara
+406,mahima chaudhry,Dil Hai Tumhaara
+407,jimmy shergill,Dil Hai Tumhaara
+408,sanjay kapoor,Soch
+409,raveena tandon,Soch
+410,aditi govitrikar,Soch
+411,arbaaz khan,Soch
+412,amitabh bachchan,Boom
+413,jackie shroff,Boom
+414,gulshan grover,Boom
+415,padma lakshmi,Boom
+416,arjun rampal,Dil Ka Rishta
+417,aishwarya rai bachchan,Dil Ka Rishta
+418,priyanshu chatterjee,Dil Ka Rishta
+419,rakhee gulzar,Dil Ka Rishta
+420,raveena tandon,Pran Jaaye Par Shaan Na Jaaye
+421,namrata shirodkar,Pran Jaaye Par Shaan Na Jaaye
+422,rinke khanna,Pran Jaaye Par Shaan Na Jaaye
+423,divya dutta,Pran Jaaye Par Shaan Na Jaaye
+424,vivek oberoi,Saathiya
+425,rani mukerji,Saathiya
+426,tanuja,Saathiya
+427,satish shah,Saathiya
+428,bobby deol,Chor Machaaye Shor
+429,om puri,Chor Machaaye Shor
+430,paresh rawal,Chor Machaaye Shor
+431,shekhar suman,Chor Machaaye Shor
+432,bipasha basu,Gunaah
+433,dino morea,Gunaah
+434,ashutosh rana,Gunaah
+435,banjara,Gunaah
+436,govinda,Akhiyon Se Goli Maare
+437,raveena tandon,Akhiyon Se Goli Maare
+438,kader khan,Akhiyon Se Goli Maare
+439,shakti kapoor,Akhiyon Se Goli Maare
+440,kay kay menon,Chhal
+441,jaya seal,Chhal
+442,naved aslam,Chhal
+443,shri vallabh vyas,Chhal
+444,saroj bhargava,Ek Chhotisi Love Story
+445,manisha koirala,Ek Chhotisi Love Story
+446,aditya seal,Ek Chhotisi Love Story
+447,ranvir shorey,Ek Chhotisi Love Story
+448,karisma kapoor,Shakthi: The Power
+449,nana patekar,Shakthi: The Power
+450,sanjay kapoor,Shakthi: The Power
+451,jai gidwani,Shakthi: The Power
+452,amitabh bachchan,Armaan
+453,anil kapoor,Armaan
+454,preity zinta,Armaan
+455,gracy singh,Armaan
+456,lucky ali,Sur: The Melody of Life
+457,simone singh,Sur: The Melody of Life
+458,achint kaur,Sur: The Melody of Life
+459,ehsan khan,Sur: The Melody of Life
+460,madhavan,Dil Vil Pyar Vyar
+461,jimmy shergill,Dil Vil Pyar Vyar
+462,sanjay suri,Dil Vil Pyar Vyar
+463,namrata shirodkar,Dil Vil Pyar Vyar
+464,aftab shivdasani,Pyaasa
+465,anang desai,Pyaasa
+466,dinesh hingoo,Pyaasa
+467,smita jaykar,Pyaasa
+468,amitabh bachchan,Baghban
+469,hema malini,Baghban
+470,aman verma,Baghban
+471,samir soni,Baghban
+472,sanjay dutt,Hathyar: Face to Face with Reality
+473,shilpa shetty,Hathyar: Face to Face with Reality
+474,sharad s. kapoor,Hathyar: Face to Face with Reality
+475,shakti kapoor,Hathyar: Face to Face with Reality
+476,vijayendra ghatge,Jeena Sirf Merre Liye
+477,kareena kapoor,Jeena Sirf Merre Liye
+478,tusshar kapoor,Jeena Sirf Merre Liye
+479,kader khan,Jeena Sirf Merre Liye
+480,ajay devgn,Deewangee
+481,akshaye khanna,Deewangee
+482,urmila matondkar,Deewangee
+483,farida jalal,Deewangee
+484,sunil shetty,Ek Hindustani
+485,raveena tandon,Ek Hindustani
+486,mohan joshi,Ek Hindustani
+487,mohnish bahl,Ek Hindustani
+488,rakhee gulzar,Talaash: The Hunt Begins...
+489,akshay kumar,Talaash: The Hunt Begins...
+490,kareena kapoor,Talaash: The Hunt Begins...
+491,pooja batra,Talaash: The Hunt Begins...
+492,prashant chianani,Yeh Kya Ho Raha Hai?
+493,aamir ali malik,Yeh Kya Ho Raha Hai?
+494,vaibhav jhalani,Yeh Kya Ho Raha Hai?
+495,yash pandit,Yeh Kya Ho Raha Hai?
+496,sanjay dutt,Annarth
+497,sunil shetty,Annarth
+498,ashutosh rana,Annarth
+499,preeti jhangiani,Annarth
+500,sunil shetty,Ek Se Badhkar Ek
+501,raveena tandon,Ek Se Badhkar Ek
+502,shekhar suman,Ek Se Badhkar Ek
+503,isha koppikar,Ek Se Badhkar Ek
+504,govinda,Waah! Tera Kya Kehna
+505,raveena tandon,Waah! Tera Kya Kehna
+506,preeti jhangiani,Waah! Tera Kya Kehna
+507,shakti kapoor,Waah! Tera Kya Kehna
+508,sunny deol,Jaal: The Trap
+509,tabu,Jaal: The Trap
+510,reema sen,Jaal: The Trap
+511,anupam kher,Jaal: The Trap
+512,gurdas mann,Zindagi Khoobsoorat Hai
+513,tabu,Zindagi Khoobsoorat Hai
+514,ashish vidyarthi,Zindagi Khoobsoorat Hai
+515,rajit kapoor,Zindagi Khoobsoorat Hai
+516,ajay devgn,Bhoot
+517,urmila matondkar,Bhoot
+518,nana patekar,Bhoot
+519,rekha,Bhoot
+520,sunil shetty,Maseeha
+521,namrata shirodkar,Maseeha
+522,inder kumar,Maseeha
+523,manek bedi,Maseeha
+524,anil kapoor,Rishtey
+525,karisma kapoor,Rishtey
+526,shilpa shetty,Rishtey
+527,kaivalya chheda,Rishtey
+528,raveena tandon,Satta
+529,atul kulkarni,Satta
+530,shri vallabh vyas,Satta
+531,govind namdeo,Satta
+532,sunny deol,Karz: The Burden of Truth
+533,sunil shetty,Karz: The Burden of Truth
+534,shilpa shetty,Karz: The Burden of Truth
+535,ashutosh rana,Karz: The Burden of Truth
+536,zayed khan,Chura Liyaa Hai Tumne
+537,esha deol,Chura Liyaa Hai Tumne
+538,gulshan grover,Chura Liyaa Hai Tumne
+539,rakhi sawant,Chura Liyaa Hai Tumne
+540,ashutosh rana,Danger
+541,tara deshpande,Danger
+542,jas arora,Danger
+543,shishir sharma,Danger
+544,dev anand,Love at Times Square
+545,heenee kaushik,Love at Times Square
+546,shoib khan,Love at Times Square
+547,chaitanya chaudhary,Love at Times Square
+548,aamir khan,The Rising: Ballad of Mangal Pandey
+549,rani mukerji,The Rising: Ballad of Mangal Pandey
+550,toby stephens,The Rising: Ballad of Mangal Pandey
+551,coral beed,The Rising: Ballad of Mangal Pandey
+552,akshay kumar,Andaaz
+553,lara dutta,Andaaz
+554,priyanka chopra,Andaaz
+555,rajeev verma,Andaaz
+556,ajinkya deo,Avgat
+557,nethra raghuraman,Avgat
+558,sayaji shinde,Avgat
+559,rohini hattangadi,Avgat
+560,shah rukh khan,Chalte Chalte
+561,rani mukerji,Chalte Chalte
+562,jas arora,Chalte Chalte
+563,satish shah,Chalte Chalte
+564,sunny deol,The Hero: Love Story of a Spy
+565,preity zinta,The Hero: Love Story of a Spy
+566,priyanka chopra,The Hero: Love Story of a Spy
+567,amrish puri,The Hero: Love Story of a Spy
+568,sanjay suri,Jhankaar Beats
+569,rahul bose,Jhankaar Beats
+570,juhi chawla,Jhankaar Beats
+571,rinke khanna,Jhankaar Beats
+572,shah rukh khan,Kal Ho Naa Ho
+573,preity zinta,Kal Ho Naa Ho
+574,saif ali khan,Kal Ho Naa Ho
+575,jaya bhaduri,Kal Ho Naa Ho
+576,amitabh bachchan,Khakee
+577,akshay kumar,Khakee
+578,ajay devgn,Khakee
+579,aishwarya rai bachchan,Khakee
+580,sanjay dutt,LOC: Kargil
+581,ajay devgn,LOC: Kargil
+582,saif ali khan,LOC: Kargil
+583,sunil shetty,LOC: Kargil
+584,shah rukh khan,Main Hoon Na
+585,sushmita sen,Main Hoon Na
+586,sunil shetty,Main Hoon Na
+587,zayed khan,Main Hoon Na
+588,urmila matondkar,Pinjar
+589,manoj bajpayee,Pinjar
+590,sanjay suri,Pinjar
+591,sandali sinha,Pinjar
+592,shabana azmi,Tehzeeb
+593,urmila matondkar,Tehzeeb
+594,arjun rampal,Tehzeeb
+595,dia mirza,Tehzeeb
+596,imran ahmed khan,Tere Liye
+597,sonali khare,Tere Liye
+598,neelu kohli,Tere Liye
+599,hiten paintal,Tere Liye
+600,ritesh deshmukh,Tujhe Meri Kasam
+601,shakti kapoor,Tujhe Meri Kasam
+602,supriya karnik,Tujhe Meri Kasam
+603,satish shah,Tujhe Meri Kasam
+604,pummy brar,Aapko Pehle Bhi Kahin Dekha Hai
+605,priyanshu chatterjee,Aapko Pehle Bhi Kahin Dekha Hai
+606,crystal,Aapko Pehle Bhi Kahin Dekha Hai
+607,harry,Aapko Pehle Bhi Kahin Dekha Hai
+608,fardeen khan,Khushi
+609,kareena kapoor,Khushi
+610,amrish puri,Khushi
+611,amitabh bachchan,Khushi
+612,ashay chitre,Kucch To Hai
+613,esha deol,Kucch To Hai
+614,anita hassandani,Kucch To Hai
+615,vrajesh hirjee,Kucch To Hai
+616,govinda,Chalo Ishq Ladaaye
+617,kader khan,Chalo Ishq Ladaaye
+618,rani mukerji,Chalo Ishq Ladaaye
+619,zohra segal,Chalo Ishq Ladaaye
+620,bipasha basu,Jism
+621,john abraham,Jism
+622,gulshan grover,Jism
+623,vinay pathak,Jism
+624,atul kulkarni,88 Antop Hill
+625,rahul dev,88 Antop Hill
+626,suchitra pillai-malik,88 Antop Hill
+627,shweta menon,88 Antop Hill
+628,jackie shroff,Baaz: A Bird in Danger
+629,sunil shetty,Baaz: A Bird in Danger
+630,karisma kapoor,Baaz: A Bird in Danger
+631,dino morea,Baaz: A Bird in Danger
+632,sameera reddy,Darna Mana Hai
+633,antara mali,Darna Mana Hai
+634,sohail khan,Darna Mana Hai
+635,saif ali khan,Darna Mana Hai
+636,manoj bajpayee,Inteqam: The Perfect Game
+637,isha koppikar,Inteqam: The Perfect Game
+638,nethra raghuraman,Inteqam: The Perfect Game
+639,parmita katkar,Inteqam: The Perfect Game
+640,himanshu malik,Khwahish
+641,mallika sherawat,Khwahish
+642,shivaji satam,Khwahish
+643,mahmud babai,Khwahish
+644,amitabh bachchan,Kyun! Ho Gaya Na...
+645,vivek oberoi,Kyun! Ho Gaya Na...
+646,aishwarya rai bachchan,Kyun! Ho Gaya Na...
+647,om puri,Kyun! Ho Gaya Na...
+648,saif ali khan,Ek Hasina Thi
+649,urmila matondkar,Ek Hasina Thi
+650,seema biswas,Ek Hasina Thi
+651,aditya srivastava,Ek Hasina Thi
+652,juhi babbar,Kash... Aap Hamare Hote
+653,sonu nigam,Kash... Aap Hamare Hote
+654,om puri,Kash... Aap Hamare Hote
+655,sharad s. kapoor,Kash... Aap Hamare Hote
+656,tanisha,Sssshhh...
+657,dino morea,Sssshhh...
+658,karan nath,Sssshhh...
+659,gaurav kapoor,Sssshhh...
+660,amar upadhyaya,Dhund: The Fog
+661,aditi govitrikar,Dhund: The Fog
+662,apoorva agnihotri,Dhund: The Fog
+663,divya palat,Dhund: The Fog
+664,sanjay dutt,Ek Aur Ek Gyarah: By Hook or by Crook
+665,govinda,Ek Aur Ek Gyarah: By Hook or by Crook
+666,amrita arora,Ek Aur Ek Gyarah: By Hook or by Crook
+667,nandini singh,Ek Aur Ek Gyarah: By Hook or by Crook
+668,kiran janjani,Oops!
+669,vikas sethi,Oops!
+670,adyasha,Oops!
+671,mink singh,Oops!
+672,kay kay menon,Paanch
+673,aditya srivastava,Paanch
+674,joy fernandes,Paanch
+675,vijay maurya,Paanch
+676,raveena tandon,Stumped
+677,alyy khan,Stumped
+678,salman khan,Stumped
+679,viju khote,Stumped
+680,attin bhalla,Om
+681,sandali sinha,Om
+682,smita jaykar,Om
+683,pankaj dheer,Om
+684,nandita das,Supari
+685,uday chopra,Supari
+686,rahul dev,Supari
+687,purab kohli,Supari
+688,jimmy shergill,Haasil
+689,hrishitaa bhatt,Haasil
+690,irrfan khan,Haasil
+691,ashutosh rana,Haasil
+692,shahid kapoor,Ishq Vishk
+693,amrita rao,Ishq Vishk
+694,shenaz treasury,Ishq Vishk
+695,vishal malhotra,Ishq Vishk
+696,vikas kalantri,Nayee Padosan
+697,anuj sawhney,Nayee Padosan
+698,aslam khan,Nayee Padosan
+699,mahek chahal,Nayee Padosan
+700,shatrughan sinha,Aan: Men at Work
+701,akshay kumar,Aan: Men at Work
+702,sunil shetty,Aan: Men at Work
+703,paresh rawal,Aan: Men at Work
+704,anil kapoor,Bewafaa
+705,akshay kumar,Bewafaa
+706,kareena kapoor,Bewafaa
+707,sushmita sen,Bewafaa
+708,victor banerjee,Joggers' Park
+709,perizaad zorabian,Joggers' Park
+710,divya dutta,Joggers' Park
+711,khalid siddiqui,Joggers' Park
+712,abhishek bachchan,Mumbai Se Aaya Mera Dost
+713,lara dutta,Mumbai Se Aaya Mera Dost
+714,chunky pandey,Mumbai Se Aaya Mera Dost
+715,aditya lakhia,Mumbai Se Aaya Mera Dost
+716,amitabh bachchan,Dev
+717,om puri,Dev
+718,fardeen khan,Dev
+719,kareena kapoor,Dev
+720,sanjay dutt,Plan
+721,dino morea,Plan
+722,sanjay suri,Plan
+723,bikram saluja,Plan
+724,ajay devgn,Qayamat: City Under Threat
+725,sunil shetty,Qayamat: City Under Threat
+726,sanjay kapoor,Qayamat: City Under Threat
+727,arbaaz khan,Qayamat: City Under Threat
+728,anil kapoor,Calcutta Mail
+729,rani mukerji,Calcutta Mail
+730,manisha koirala,Calcutta Mail
+731,satish kaushik,Calcutta Mail
+732,feroz khan,Janasheen
+733,fardeen khan,Janasheen
+734,celina jaitly,Janasheen
+735,pinky harwani,Janasheen
+736,sunny deol,Kaise Kahoon Ke... Pyaar Hai
+737,dharmendra,Kaise Kahoon Ke... Pyaar Hai
+738,amit hingorani,Kaise Kahoon Ke... Pyaar Hai
+739,farida jalal,Kaise Kahoon Ke... Pyaar Hai
+740,tabu,Meenaxi: Tale of 3 Cities
+741,raghuvir yadav,Meenaxi: Tale of 3 Cities
+742,nadira babbar,Meenaxi: Tale of 3 Cities
+743,kunal kapoor,Meenaxi: Tale of 3 Cities
+744,ajay devgn,Parwana
+745,ameesha patel,Parwana
+746,pooja batra,Parwana
+747,jagdeep,Parwana
+748,sanjay dutt,Rudraksh
+749,bipasha basu,Rudraksh
+750,sunil shetty,Rudraksh
+751,isha koppikar,Rudraksh
+752,shah rukh khan,Swades
+753,gayatri joshi,Swades
+754,kishori balal,Swades
+755,smith seth,Swades
+756,arjun rampal,Asambhav
+757,naseeruddin shah,Asambhav
+758,priyanka chopra,Asambhav
+759,singh surendra,Asambhav
+760,jaya bhaduri,Desh
+761,sabyasachi chakraborty,Desh
+762,subhendu chatterjee,Desh
+763,gyanesh mukherjee,Desh
+764,javed jaffrey,Jajantaram Mamantaram
+765,gulshan grover,Jajantaram Mamantaram
+766,joy fernandes,Jajantaram Mamantaram
+767,nishith dadhich,Jajantaram Mamantaram
+768,tabu,Hawa
+769,shahbaaz khan,Hawa
+770,mukesh tiwari,Hawa
+771,imran khan,Hawa
+772,aishwarya rai bachchan,Kuch Naa Kaho
+773,abhishek bachchan,Kuch Naa Kaho
+774,satish shah,Kuch Naa Kaho
+775,suhasini mulay,Kuch Naa Kaho
+776,akshaye khanna,Hungama
+777,aftab shivdasani,Hungama
+778,rimi sen,Hungama
+779,paresh rawal,Hungama
+780,sunny deol,Khel
+781,sunil shetty,Khel
+782,ajay jadeja,Khel
+783,celina jaitly,Khel
+784,john abraham,Saaya
+785,tara sharma,Saaya
+786,mahima chaudhry,Saaya
+787,zohra segal,Saaya
+788,ajay devgn,Gangaajal
+789,gracy singh,Gangaajal
+790,mohan joshi,Gangaajal
+791,yashpal sharma,Gangaajal
+792,sunil shetty,Khanjar
+793,tabu,Khanjar
+794,gulshan grover,Khanjar
+795,pankaj dheer,Khanjar
+796,govinda,Khullam Khulla Pyaar Karen
+797,preity zinta,Khullam Khulla Pyaar Karen
+798,prem chopra,Khullam Khulla Pyaar Karen
+799,sadashiv amrapurkar,Khullam Khulla Pyaar Karen
+800,salman khan,Tere Naam
+801,bhoomika chawla,Tere Naam
+802,mahima chaudhry,Tere Naam
+803,sachin khedekar,Tere Naam
+804,aftab shivdasani,Footpath
+805,bipasha basu,Footpath
+806,rahul dev,Footpath
+807,emraan hashmi,Footpath
+808,antara mali,Main Madhuri Dixit Banna Chahti Hoon!
+809,rajpal yadav,Main Madhuri Dixit Banna Chahti Hoon!
+810,asif basra,Main Madhuri Dixit Banna Chahti Hoon!
+811,rita bhaduri,Main Madhuri Dixit Banna Chahti Hoon!
+812,sunil dutt,Munnabhai M.B.B.S.
+813,sanjay dutt,Munnabhai M.B.B.S.
+814,arshad warsi,Munnabhai M.B.B.S.
+815,gracy singh,Munnabhai M.B.B.S.
+816,amitabh bachchan,Black
+817,rani mukerji,Black
+818,shernaz patel,Black
+819,ayesha kapoor,Black
+820,naseeruddin shah,Encounter: The Killing
+821,dilip prabhavalkar,Encounter: The Killing
+822,tara deshpande,Encounter: The Killing
+823,akash khurana,Encounter: The Killing
+824,sadashiv amrapurkar,Basti
+825,liyaqat bari,Basti
+826,brij gopal,Basti
+827,rajendra gupta,Basti
+828,vijay raaz,Raghu Romeo
+829,sadiya siddiqui,Raghu Romeo
+830,saurabh shukla,Raghu Romeo
+831,maria goretti,Raghu Romeo
+832,amitabh bachchan,Aetbaar
+833,john abraham,Aetbaar
+834,bipasha basu,Aetbaar
+835,supriya pilgaonkar,Aetbaar
+836,babbu mann,Hawayein
+837,ammtoje mann,Hawayein
+838,mahie gill,Hawayein
+839,mukul dev,Hawayein
+840,saif ali khan,Hum Tum
+841,rani mukerji,Hum Tum
+842,kiron kher,Hum Tum
+843,rati agnihotri,Hum Tum
+844,om puri,Kagaar: Life on the Edge
+845,nandita das,Kagaar: Life on the Edge
+846,amitabh dayal,Kagaar: Life on the Edge
+847,aditya kotdar,Kagaar: Life on the Edge
+848,sohail khan,I Proud to Be an Indian
+849,tim lawrence,I Proud to Be an Indian
+850,scott hinds,I Proud to Be an Indian
+851,phil jones,I Proud to Be an Indian
+852,rahul bose,Ek Din 24 Ghante
+853,ahmed chaudhary,Ek Din 24 Ghante
+854,nandita das,Ek Din 24 Ghante
+855,vinit kumar,Ek Din 24 Ghante
+856,zulfi sayed,Chupke Se
+857,masumeh makhija,Chupke Se
+858,rati agnihotri,Chupke Se
+859,tinnu anand,Chupke Se
+860,manisha koirala,Market
+861,suman ranganathan,Market
+862,aryan vaid,Market
+863,shweta menon,Market
+864,suneil anand,Master
+865,ting leung,Master
+866,sadashiv amrapurkar,Master
+867,leher kala,Master
+868,rahul bose,Mumbai Matinee
+869,perizaad zorabian,Mumbai Matinee
+870,vijay raaz,Mumbai Matinee
+871,saurabh shukla,Mumbai Matinee
+872,ajay devgn,Yuva
+873,abhishek bachchan,Yuva
+874,rani mukerji,Yuva
+875,vivek oberoi,Yuva
+876,ajay devgn,Zameen
+877,abhishek bachchan,Zameen
+878,bipasha basu,Zameen
+879,mukesh tiwari,Zameen
+880,sharman joshi,Xcuse Me
+881,sahil khan,Xcuse Me
+882,anil chaudhary,Xcuse Me
+883,snehal dabi,Xcuse Me
+884,sushmita sen,Samay: When Time Strikes
+885,lucy bartholomew,Samay: When Time Strikes
+886,tushar dalvi,Samay: When Time Strikes
+887,jatin karia,Samay: When Time Strikes
+888,shah rukh khan,Yeh Lamhe Judaai Ke
+889,raveena tandon,Yeh Lamhe Judaai Ke
+890,navneet nishan,Yeh Lamhe Judaai Ke
+891,avtar gill,Yeh Lamhe Judaai Ke
+892,faisal khan,Border Hindustan Ka
+893,rajat bedi,Border Hindustan Ka
+894,aditya pancholi,Border Hindustan Ka
+895,priya gill,Border Hindustan Ka
+896,nauheed cyrusi,Inteha
+897,avtar gill,Inteha
+898,vidya malvade,Inteha
+899,ashmit patel,Inteha
+900,sadashiv amrapurkar,Raja Bhaiya
+901,rakesh bedi,Raja Bhaiya
+902,kajal chakraborty,Raja Bhaiya
+903,aarti chhabria,Raja Bhaiya
+904,arjan bajwa,Woh Tera Naam Tha
+905,rajat bedi,Woh Tera Naam Tha
+906,gaurav chanana,Woh Tera Naam Tha
+907,prem chopra,Woh Tera Naam Tha
+908,om puri,Dhoop
+909,revathy,Dhoop
+910,gul panag,Dhoop
+911,preeti dayal,Dhoop
+912,rotem bar,Jodi Kya Banayi Wah Wah Ramji
+913,rakesh bedi,Jodi Kya Banayi Wah Wah Ramji
+914,avtar gill,Jodi Kya Banayi Wah Wah Ramji
+915,gulshan grover,Jodi Kya Banayi Wah Wah Ramji
+916,mukesh ahuja,Patth
+917,abhay bhargav,Patth
+918,suresh chatwal,Patth
+919,milind gunaji,Patth
+920,arshad warsi,Waisa Bhi Hota Hai Part II
+921,prashant narayanan,Waisa Bhi Hota Hai Part II
+922,sandhya mridul,Waisa Bhi Hota Hai Part II
+923,pratima kazmi,Waisa Bhi Hota Hai Part II
+924,amitabh bachchan,Deewaar: Let's Bring Our Heroes Home
+925,sanjay dutt,Deewaar: Let's Bring Our Heroes Home
+926,akshaye khanna,Deewaar: Let's Bring Our Heroes Home
+927,amrita rao,Deewaar: Let's Bring Our Heroes Home
+928,brande roderick,Out of Control
+929,noemi besedes,Out of Control
+930,hrishitaa bhatt,Out of Control
+931,ritesh deshmukh,Out of Control
+932,arun bakshi,Aanch
+933,suchindra bali,Aanch
+934,poonam jhawer,Aanch
+935,ayesha jhulka,Aanch
+936,shahbaaz khan,Taj Mahal: A Monument of Love
+937,kulbhushan kharbanda,Taj Mahal: A Monument of Love
+938,poornima pathwardhan,Taj Mahal: A Monument of Love
+939,raghu raj,Taj Mahal: A Monument of Love
+940,amitabh bachchan,Waqt: The Race Against Time
+941,akshay kumar,Waqt: The Race Against Time
+942,priyanka chopra,Waqt: The Race Against Time
+943,shefali shetty,Waqt: The Race Against Time
+944,kapil jhaveri,Dil Pardesi Ho Gayaa
+945,saloni aswani,Dil Pardesi Ho Gayaa
+946,amrish puri,Dil Pardesi Ho Gayaa
+947,ashutosh rana,Dil Pardesi Ho Gayaa
+948,devaraj,Duplicate Sholay
+949,dimple,Duplicate Sholay
+950,feroz,Duplicate Sholay
+951,reena kapoor,Duplicate Sholay
+952,kavi kumar azad,Fun2shh... Dudes in the 10th Century
+953,amitabh bachchan,Fun2shh... Dudes in the 10th Century
+954,charlie,Fun2shh... Dudes in the 10th Century
+955,sweety chhabra,Fun2shh... Dudes in the 10th Century
+956,pankaj berry,Ghaav: The Wound
+957,rahul bhat,Ghaav: The Wound
+958,seema biswas,Ghaav: The Wound
+959,gayatri,Ghaav: The Wound
+960,bobby deol,Kismat
+961,priyanka chopra,Kismat
+962,kabir bedi,Kismat
+963,sanjay narvekar,Kismat
+964,deepak bandhu,Pratha
+965,ashney shroff,Pratha
+966,vicky ahuja,Pratha
+967,ravindra bundela,Pratha
+968,beena banerjee,Ishq Hai Tumse
+969,bipasha basu,Ishq Hai Tumse
+970,mohan gokhale,Ishq Hai Tumse
+971,vikram gokhale,Ishq Hai Tumse
+972,arya babbar,Mudda: The Issue
+973,prashant narayanan,Mudda: The Issue
+974,aditya srivastava,Mudda: The Issue
+975,rajat kapoor,Mudda: The Issue
+976,shama deshpande,Hadh: Life on the Edge of Death
+977,vikram gokhale,Hadh: Life on the Edge of Death
+978,ayesha jhulka,Hadh: Life on the Edge of Death
+979,sharad s. kapoor,Hadh: Life on the Edge of Death
+980,jugal hansraj,Hum Pyar Tumhi Se Kar Baithe
+981,tina rana,Hum Pyar Tumhi Se Kar Baithe
+982,sachin khedekar,Hum Pyar Tumhi Se Kar Baithe
+983,vishnu sharma,Hum Pyar Tumhi Se Kar Baithe
+984,vivek oberoi,Kisna: The Warrior Poet
+985,isha sharvani,Kisna: The Warrior Poet
+986,antonia bernath,Kisna: The Warrior Poet
+987,sushmita sen,Kisna: The Warrior Poet
+988,manisha koirala,Paisa Vasool
+989,sushmita sen,Paisa Vasool
+990,sushant singh,Paisa Vasool
+991,mukesh ahuja,Paisa Vasool
+992,amitabh bachchan,Ab Tumhare Hawale Watan Saathiyo
+993,akshay kumar,Ab Tumhare Hawale Watan Saathiyo
+994,bobby deol,Ab Tumhare Hawale Watan Saathiyo
+995,divya khosla,Ab Tumhare Hawale Watan Saathiyo
+996,sanjay kapoor,Jaago
+997,raveena tandon,Jaago
+998,manoj bajpayee,Jaago
+999,puru rajkumar,Jaago
+1000,nana patekar,Ab Tak Chhappan
+1001,revathy,Ab Tak Chhappan
+1002,yashpal sharma,Ab Tak Chhappan
+1003,mohan agashe,Ab Tak Chhappan
+1004,aftab shivdasani,Suno Sasurjee
+1005,ameesha patel,Suno Sasurjee
+1006,gulshan grover,Suno Sasurjee
+1007,asrani,Suno Sasurjee
+1008,manisha koirala,Tum: A Dangerous Obsession
+1009,karan nath,Tum: A Dangerous Obsession
+1010,rajat kapoor,Tum: A Dangerous Obsession
+1011,nataneya singh,Tum: A Dangerous Obsession
+1012,sonakshi sinha,Action Jackson
+1013,shahid kapoor,Action Jackson
+1014,ajay devgn,Action Jackson
+1015,sunil shetty,Action Jackson
+1016,amitabh bachchan,Hum Kaun Hai?
+1017,dimple kapadia,Hum Kaun Hai?
+1018,dharmendra,Hum Kaun Hai?
+1019,moushumi chatterjee,Hum Kaun Hai?
+1020,dino morea,Insaaf: The Justice
+1021,namrata shirodkar,Insaaf: The Justice
+1022,sanjay suri,Insaaf: The Justice
+1023,henna,Insaaf: The Justice
+1024,ajay devgn,Raincoat
+1025,aishwarya rai bachchan,Raincoat
+1026,annu kapoor,Raincoat
+1027,mouli ganguly,Raincoat
+1028,mallika sherawat,Murder
+1029,ashmit patel,Murder
+1030,emraan hashmi,Murder
+1031,kashmira shah,Murder
+1032,aamir khan,Rang De Basanti
+1033,siddharth,Rang De Basanti
+1034,sharman joshi,Rang De Basanti
+1035,kunal kapoor,Rang De Basanti
+1036,aftab shivdasani,Masti
+1037,vivek oberoi,Masti
+1038,ritesh deshmukh,Masti
+1039,amrita rao,Masti
+1040,shawar ali,Hawas
+1041,tarun arora,Hawas
+1042,madina,Hawas
+1043,meghna naidu,Hawas
+1044,sohail khan,Krishna Cottage
+1045,isha koppikar,Krishna Cottage
+1046,anita hassandani,Krishna Cottage
+1047,rati agnihotri,Krishna Cottage
+1048,aftab shivdasani,Muskaan
+1049,gracy singh,Muskaan
+1050,parvin dabas,Muskaan
+1051,gulshan grover,Muskaan
+1052,sanjay dutt,Shabd
+1053,aishwarya rai bachchan,Shabd
+1054,zayed khan,Shabd
+1055,aakash pandey,Shabd
+1056,bobby deol,Bardaasht
+1057,lara dutta,Bardaasht
+1058,rahul dev,Bardaasht
+1059,ritesh deshmukh,Bardaasht
+1060,amrita arora,Shart: The Challenge
+1061,asrani,Shart: The Challenge
+1062,snehal dabi,Shart: The Challenge
+1063,vrajesh hirjee,Shart: The Challenge
+1064,abhishek bachchan,Run
+1065,bhoomika chawla,Run
+1066,mahesh manjrekar,Run
+1067,vijay raaz,Run
+1068,rasika joshi,Gayab
+1069,tusshar kapoor,Gayab
+1070,ikhlaq khan,Gayab
+1071,antara mali,Gayab
+1072,sanjay suri,Shaadi Ka Laddoo
+1073,mandira bedi,Shaadi Ka Laddoo
+1074,aashish chaudhary,Shaadi Ka Laddoo
+1075,divya dutta,Shaadi Ka Laddoo
+1076,konkona sen sharma,Amu
+1077,yashpal sharma,Amu
+1078,brinda karat,Amu
+1079,ankur khanna,Amu
+1080,amrita arora,Girlfriend
+1081,shantanu chappana,Girlfriend
+1082,aashish chaudhary,Girlfriend
+1083,isha koppikar,Girlfriend
+1084,salman khan,Garv: Pride and Honour
+1085,shilpa shetty,Garv: Pride and Honour
+1086,arbaaz khan,Garv: Pride and Honour
+1087,farida jalal,Garv: Pride and Honour
+1088,priyanshu chatterjee,WOH
+1089,cleo isaacs,WOH
+1090,kasam,WOH
+1091,ayub khan,WOH
+1092,sanjay dutt,Dus
+1093,sunil shetty,Dus
+1094,abhishek bachchan,Dus
+1095,zayed khan,Dus
+1096,ajay devgn,Kaal
+1097,vivek oberoi,Kaal
+1098,john abraham,Kaal
+1099,lara dutta,Kaal
+1100,akshay kumar,Police Force: An Inside Story
+1101,raveena tandon,Police Force: An Inside Story
+1102,amrish puri,Police Force: An Inside Story
+1103,mohan joshi,Police Force: An Inside Story
+1104,vicky ahuja,Vaastu Shastra
+1105,j.d. chakravarthi,Vaastu Shastra
+1106,ahsaas channa,Vaastu Shastra
+1107,peeya rai chowdhary,Vaastu Shastra
+1108,arjun rampal,Elaan
+1109,ameesha patel,Elaan
+1110,john abraham,Elaan
+1111,lara dutta,Elaan
+1112,sanjay dutt,Rakht
+1113,sunil shetty,Rakht
+1114,bipasha basu,Rakht
+1115,dino morea,Rakht
+1116,salman khan,Mujhse Shaadi Karogi
+1117,akshay kumar,Mujhse Shaadi Karogi
+1118,priyanka chopra,Mujhse Shaadi Karogi
+1119,amrish puri,Mujhse Shaadi Karogi
+1120,akshay kumar,Aitraaz
+1121,kareena kapoor,Aitraaz
+1122,priyanka chopra,Aitraaz
+1123,amrish puri,Aitraaz
+1124,ashutosh rana,"Chot [Aaj Isko, Kal Tereko]"
+1125,sharad s. kapoor,"Chot [Aaj Isko, Kal Tereko]"
+1126,nethra raghuraman,"Chot [Aaj Isko, Kal Tereko]"
+1127,ganesh yadav,"Chot [Aaj Isko, Kal Tereko]"
+1128,akshay kumar,Mere Jeevan Saathi
+1129,karisma kapoor,Mere Jeevan Saathi
+1130,ameesha patel,Mere Jeevan Saathi
+1131,gulshan grover,Mere Jeevan Saathi
+1132,akshay kumar,Phir Hera Pheri
+1133,sunil shetty,Phir Hera Pheri
+1134,paresh rawal,Phir Hera Pheri
+1135,bipasha basu,Phir Hera Pheri
+1136,amitabh bachchan,Baabul
+1137,salman khan,Baabul
+1138,hema malini,Baabul
+1139,john abraham,Baabul
+1140,tisca chopra,Hyderabad Blues 2
+1141,jyoti dogra,Hyderabad Blues 2
+1142,anuj gurwara,Hyderabad Blues 2
+1143,elahe hiptoola,Hyderabad Blues 2
+1144,shabana azmi,Morning Raga
+1145,prakash rao,Morning Raga
+1146,lillete dubey,Morning Raga
+1147,perizaad zorabian,Morning Raga
+1148,kashmira shah,Revati
+1149,kiran kumar,Revati
+1150,ayub khan,Revati
+1151,javed khan,Revati
+1152,amitabh bachchan,Viruddh... Family Comes First
+1153,sharmila tagore,Viruddh... Family Comes First
+1154,john abraham,Viruddh... Family Comes First
+1155,sanjay dutt,Viruddh... Family Comes First
+1156,shah rukh khan,Veer-Zaara
+1157,preity zinta,Veer-Zaara
+1158,rani mukerji,Veer-Zaara
+1159,kiron kher,Veer-Zaara
+1160,neha dhupia,Julie
+1161,priyanshu chatterjee,Julie
+1162,yash tonk,Julie
+1163,sanjay kapoor,Julie
+1164,abhishek bachchan,Dhoom
+1165,uday chopra,Dhoom
+1166,john abraham,Dhoom
+1167,esha deol,Dhoom
+1168,kareena kapoor,Fida
+1169,fardeen khan,Fida
+1170,shahid kapoor,Fida
+1171,kim sharma,Fida
+1172,salman khan,Phir Milenge
+1173,abhishek bachchan,Phir Milenge
+1174,shilpa shetty,Phir Milenge
+1175,mita vasisht,Phir Milenge
+1176,sunny deol,Rok Sako To Rok Lo
+1177,yash pandit,Rok Sako To Rok Lo
+1178,manjari phadnis,Rok Sako To Rok Lo
+1179,carran kapur,Rok Sako To Rok Lo
+1180,sunny deol,Lakeer - Forbidden Lines
+1181,sunil shetty,Lakeer - Forbidden Lines
+1182,sohail khan,Lakeer - Forbidden Lines
+1183,john abraham,Lakeer - Forbidden Lines
+1184,sudesh berry,Aakhri Inteqam
+1185,anu kashyap,Aakhri Inteqam
+1186,amit pachori,Aakhri Inteqam
+1187,jitender,Aakhri Inteqam
+1188,laxmikant berde,Tauba Tauba
+1189,bobby darling,Tauba Tauba
+1190,amin gazi,Tauba Tauba
+1191,ayub khan,Tauba Tauba
+1192,jackie shroff,Dobara
+1193,raveena tandon,Dobara
+1194,mahima chaudhry,Dobara
+1195,gulshan grover,Dobara
+1196,bipasha basu,Madhoshi
+1197,john abraham,Madhoshi
+1198,priyanshu chatterjee,Madhoshi
+1199,prakash bhardwaj,Madhoshi
+1200,anil kapoor,Musafir
+1201,sameera reddy,Musafir
+1202,aditya pancholi,Musafir
+1203,mahesh manjrekar,Musafir
+1204,akshay kapoor,Popcorn Khao! Mast Ho Jao
+1205,tanisha,Popcorn Khao! Mast Ho Jao
+1206,yash tonk,Popcorn Khao! Mast Ho Jao
+1207,deepak tijori,Popcorn Khao! Mast Ho Jao
+1208,salman khan,Shaadi Karke Phas Gaya Yaar
+1209,shilpa shetty,Shaadi Karke Phas Gaya Yaar
+1210,reema lagoo,Shaadi Karke Phas Gaya Yaar
+1211,mohnish bahl,Shaadi Karke Phas Gaya Yaar
+1212,emraan hashmi,Tumsa Nahin Dekha
+1213,dia mirza,Tumsa Nahin Dekha
+1214,anupam kher,Tumsa Nahin Dekha
+1215,sharat saxena,Tumsa Nahin Dekha
+1216,amitabh bachchan,Sarkar
+1217,abhishek bachchan,Sarkar
+1218,kay kay menon,Sarkar
+1219,supriya pathak,Sarkar
+1220,audhitya singh,AK 47
+1221,sheetal bavishi,AK 47
+1222,om puri,AK 47
+1223,ashish vidyarthi,AK 47
+1224,akshay kumar,Hatya: The Murder
+1225,varsha usgaonkar,Hatya: The Murder
+1226,navin nischol,Hatya: The Murder
+1227,reema lagoo,Hatya: The Murder
+1228,rekha,Krrish
+1229,hrithik roshan,Krrish
+1230,priyanka chopra,Krrish
+1231,sharat saxena,Krrish
+1232,antara mali,Naach
+1233,abhishek bachchan,Naach
+1234,ritesh deshmukh,Naach
+1235,priya badlani,Naach
+1236,sunil shetty,Padmashree Laloo Prasad Yadav
+1237,masumeh makhija,Padmashree Laloo Prasad Yadav
+1238,mahesh manjrekar,Padmashree Laloo Prasad Yadav
+1239,johnny lever,Padmashree Laloo Prasad Yadav
+1240,anupam kher,Shukriya: Till Death Do Us Apart
+1241,aftab shivdasani,Shukriya: Till Death Do Us Apart
+1242,shriya saran,Shukriya: Till Death Do Us Apart
+1243,indraneel,Shukriya: Till Death Do Us Apart
+1244,vatsal seth,Taarzan: The Wonder Car
+1245,ayesha takia,Taarzan: The Wonder Car
+1246,ajay devgn,Taarzan: The Wonder Car
+1247,farida jalal,Taarzan: The Wonder Car
+1248,sunny deol,Jo Bole So Nihaal
+1249,thomas tevana,Jo Bole So Nihaal
+1250,gary castro churchwell,Jo Bole So Nihaal
+1251,kamaal khan,Jo Bole So Nihaal
+1252,amitabh bachchan,Family: Ties of Blood
+1253,akshay kumar,Family: Ties of Blood
+1254,bhoomika chawla,Family: Ties of Blood
+1255,aryeman ramsay,Family: Ties of Blood
+1256,akshaye khanna,Hulchul
+1257,kareena kapoor,Hulchul
+1258,sunil shetty,Hulchul
+1259,paresh rawal,Hulchul
+1260,shilpa shetty,Khamoshh... Khauff Ki Raat
+1261,juhi chawla,Khamoshh... Khauff Ki Raat
+1262,rajiv singh,Khamoshh... Khauff Ki Raat
+1263,shawar ali,Khamoshh... Khauff Ki Raat
+1264,saif ali khan,Parineeta
+1265,vidya balan,Parineeta
+1266,sanjay dutt,Parineeta
+1267,dia mirza,Parineeta
+1268,shomendra bose,Let's Enjoy
+1269,aashish chaudhary,Let's Enjoy
+1270,roshni chopra,Let's Enjoy
+1271,arzoo govitrikar,Let's Enjoy
+1272,akshay kumar,Insan
+1273,ajay devgn,Insan
+1274,tusshar kapoor,Insan
+1275,esha deol,Insan
+1276,arshad warsi,Kisse Pyaar Karo?n
+1277,aashish chaudhary,Kisse Pyaar Karo?n
+1278,yash tonk,Kisse Pyaar Karo?n
+1279,udita goswami,Kisse Pyaar Karo?n
+1280,tabu,Silsiilay
+1281,bhoomika chawla,Silsiilay
+1282,riya sen,Silsiilay
+1283,celina jaitly,Silsiilay
+1284,aamir khan,Fanaa
+1285,kajol,Fanaa
+1286,rishi kapoor,Fanaa
+1287,tabu,Fanaa
+1288,rishi kapoor,Pyaar Mein Twist
+1289,dimple kapadia,Pyaar Mein Twist
+1290,vikas bhalla,Pyaar Mein Twist
+1291,emma bunton,Pyaar Mein Twist
+1292,arbaaz khan,Wajahh: A Reason to Kill
+1293,gracy singh,Wajahh: A Reason to Kill
+1294,shamita shetty,Wajahh: A Reason to Kill
+1295,zulfi sayed,Wajahh: A Reason to Kill
+1296,abhishek bachchan,Dhoom:2
+1297,uday chopra,Dhoom:2
+1298,hrithik roshan,Dhoom:2
+1299,aishwarya rai bachchan,Dhoom:2
+1300,vinay anand,Mulaqaat
+1301,arun bakshi,Mulaqaat
+1302,rita bhaduri,Mulaqaat
+1303,milind gunaji,Mulaqaat
+1304,amitabh bachchan,Dil Jo Bhi Kahey...
+1305,revathy,Dil Jo Bhi Kahey...
+1306,karan sharma,Dil Jo Bhi Kahey...
+1307,annabelle wallis,Dil Jo Bhi Kahey...
+1308,mallika sherawat,Kis Kis Ki Kismat
+1309,rati agnihotri,Kis Kis Ki Kismat
+1310,kurush deboo,Kis Kis Ki Kismat
+1311,tinnu anand,Kis Kis Ki Kismat
+1312,arjun rampal,Vaada
+1313,zayed khan,Vaada
+1314,ameesha patel,Vaada
+1315,alok nath,Vaada
+1316,irrfan khan,Rog
+1317,suhel seth,Rog
+1318,himanshu malik,Rog
+1319,shyamoli varma,Rog
+1320,kareena kapoor,Milenge Milenge
+1321,shahid kapoor,Milenge Milenge
+1322,aarti chhabria,Milenge Milenge
+1323,delnaaz irani,Milenge Milenge
+1324,urmila matondkar,Naina
+1325,anuj sawhney,Naina
+1326,malavikka,Naina
+1327,amardeep jha,Naina
+1328,konkona sen sharma,Page 3
+1329,atul kulkarni,Page 3
+1330,sandhya mridul,Page 3
+1331,tara sharma,Page 3
+1332,bobby deol,A Sublime Love Story: Barsaat
+1333,bipasha basu,A Sublime Love Story: Barsaat
+1334,priyanka chopra,A Sublime Love Story: Barsaat
+1335,gajendra chouhan,A Sublime Love Story: Barsaat
+1336,ajay devgn,Blackmail
+1337,sunil shetty,Blackmail
+1338,priyanka chopra,Blackmail
+1339,dia mirza,Blackmail
+1340,akshay kumar,Deewane Huye Paagal
+1341,sunil shetty,Deewane Huye Paagal
+1342,shahid kapoor,Deewane Huye Paagal
+1343,rimi sen,Deewane Huye Paagal
+1344,shilpa shetty,Fareb
+1345,manoj bajpayee,Fareb
+1346,shamita shetty,Fareb
+1347,parmeet sethi,Fareb
+1348,akshay kumar,Humko Deewana Kar Gaye
+1349,katrina kaif,Humko Deewana Kar Gaye
+1350,bipasha basu,Humko Deewana Kar Gaye
+1351,bhagyashree,Humko Deewana Kar Gaye
+1352,john abraham,Karam
+1353,priyanka chopra,Karam
+1354,bharat dabholkar,Karam
+1355,vishwajeet pradhan,Karam
+1356,ajay devgn,Main Aisa Hi Hoon
+1357,sushmita sen,Main Aisa Hi Hoon
+1358,esha deol,Main Aisa Hi Hoon
+1359,anupam kher,Main Aisa Hi Hoon
+1360,ajay devgn,Tango Charlie
+1361,bobby deol,Tango Charlie
+1362,sanjay dutt,Tango Charlie
+1363,sunil shetty,Tango Charlie
+1364,sanjay dutt,Tathastu
+1365,ameesha patel,Tathastu
+1366,jayapradha,Tathastu
+1367,gulshan grover,Tathastu
+1368,bobby deol,Jurm
+1369,lara dutta,Jurm
+1370,milind gunaji,Jurm
+1371,shakti kapoor,Jurm
+1372,neha dhupia,Sheesha
+1373,elidh macqueen,Sheesha
+1374,niju mavani,Sheesha
+1375,nares ngamseera,Sheesha
+1376,chaitanya bhosle,Kiss Kis Ko
+1377,sherrin verghese,Kiss Kis Ko
+1378,bhumika puri,Kiss Kis Ko
+1379,aparna kumesh,Kiss Kis Ko
+1380,aryan vaid,Chaahat Ek Nasha...
+1381,manisha koirala,Chaahat Ek Nasha...
+1382,preeti jhangiani,Chaahat Ek Nasha...
+1383,sharad s. kapoor,Chaahat Ek Nasha...
+1384,vinod pande,Sins
+1385,shiney ahuja,Sins
+1386,seema rahmani,Sins
+1387,amitabh bachchan,Bunty Aur Babli
+1388,rani mukerji,Bunty Aur Babli
+1389,abhishek bachchan,Bunty Aur Babli
+1390,kiran juneja,Bunty Aur Babli
+1391,urmila matondkar,Banaras
+1392,ashmit patel,Banaras
+1393,dimple kapadia,Banaras
+1394,raj babbar,Banaras
+1395,akshay kumar,Dosti: Friends Forever
+1396,bobby deol,Dosti: Friends Forever
+1397,kareena kapoor,Dosti: Friends Forever
+1398,lara dutta,Dosti: Friends Forever
+1399,salman khan,Lucky: No Time for Love
+1400,sneha ullal,Lucky: No Time for Love
+1401,mithun chakraborty,Lucky: No Time for Love
+1402,kader khan,Lucky: No Time for Love
+1403,fardeen khan,Shaadi No. 1
+1404,zayed khan,Shaadi No. 1
+1405,sharman joshi,Shaadi No. 1
+1406,esha deol,Shaadi No. 1
+1407,bipasha basu,Chehraa
+1408,dino morea,Chehraa
+1409,preeti jhangiani,Chehraa
+1410,irrfan khan,Chehraa
+1411,romit raaj,Hum Dum
+1412,anjana sukhani,Hum Dum
+1413,benjamin gilani,Hum Dum
+1414,tanvi azmi,Hum Dum
+1415,hrithik roshan,Jodhaa Akbar
+1416,aishwarya rai bachchan,Jodhaa Akbar
+1417,sonu sood,Jodhaa Akbar
+1418,poonam sinha,Jodhaa Akbar
+1419,shah rukh khan,Kabhi Alvida Naa Kehna
+1420,rani mukerji,Kabhi Alvida Naa Kehna
+1421,amitabh bachchan,Kabhi Alvida Naa Kehna
+1422,preity zinta,Kabhi Alvida Naa Kehna
+1423,ajay devgn,Apaharan
+1424,nana patekar,Apaharan
+1425,bipasha basu,Apaharan
+1426,ayub khan,Apaharan
+1427,rekha,Bachke Rehna Re Baba
+1428,mallika sherawat,Bachke Rehna Re Baba
+1429,paresh rawal,Bachke Rehna Re Baba
+1430,satish shah,Bachke Rehna Re Baba
+1431,salman khan,Kyon Ki...
+1432,kareena kapoor,Kyon Ki...
+1433,rimi sen,Kyon Ki...
+1434,jackie shroff,Kyon Ki...
+1435,salman khan,Maine Pyaar Kyun Kiya
+1436,sushmita sen,Maine Pyaar Kyun Kiya
+1437,katrina kaif,Maine Pyaar Kyun Kiya
+1438,sohail khan,Maine Pyaar Kyun Kiya
+1439,anil kapoor,My Wife's Murder
+1440,suchitra krishnamoorthi,My Wife's Murder
+1441,nandana sen,My Wife's Murder
+1442,rajesh tandon,My Wife's Murder
+1443,anil kapoor,No Entry
+1444,salman khan,No Entry
+1445,fardeen khan,No Entry
+1446,bipasha basu,No Entry
+1447,shah rukh khan,Paheli
+1448,anupam kher,Paheli
+1449,rani mukerji,Paheli
+1450,amitabh bachchan,Paheli
+1451,abhay deol,Socha Na Tha
+1452,ayesha takia,Socha Na Tha
+1453,ayesha jhulka,Socha Na Tha
+1454,apoorva jha,Socha Na Tha
+1455,emraan hashmi,Zeher
+1456,shamita shetty,Zeher
+1457,udita goswami,Zeher
+1458,sameer kochhar,Zeher
+1459,juhi chawla,7 1/2 Phere: More Than a Wedding
+1460,irrfan khan,7 1/2 Phere: More Than a Wedding
+1461,manoj pahwa,7 1/2 Phere: More Than a Wedding
+1462,nina kulkarni,7 1/2 Phere: More Than a Wedding
+1463,akshay kumar,Garam Masala
+1464,john abraham,Garam Masala
+1465,paresh rawal,Garam Masala
+1466,rimi sen,Garam Masala
+1467,naseeruddin shah,Iqbal
+1468,girish karnad,Iqbal
+1469,shreyas talpade,Iqbal
+1470,shweta prasad,Iqbal
+1471,arshad warsi,Kuchh Meetha Ho Jaye
+1472,mahima chaudhry,Kuchh Meetha Ho Jaye
+1473,parvin dabas,Kuchh Meetha Ho Jaye
+1474,sandhya mridul,Kuchh Meetha Ho Jaye
+1475,sohail khan,Aryan: Unbreakable
+1476,sneha ullal,Aryan: Unbreakable
+1477,inder kumar,Aryan: Unbreakable
+1478,farida jalal,Aryan: Unbreakable
+1479,sushmita sen,Chingaari
+1480,mithun chakraborty,Chingaari
+1481,anuj sawhney,Chingaari
+1482,ila arun,Chingaari
+1483,sanjay dutt,Lage Raho Munna Bhai
+1484,arshad warsi,Lage Raho Munna Bhai
+1485,vidya balan,Lage Raho Munna Bhai
+1486,boman irani,Lage Raho Munna Bhai
+1487,saif ali khan,Salaam Namaste
+1488,preity zinta,Salaam Namaste
+1489,arshad warsi,Salaam Namaste
+1490,tania zaetta,Salaam Namaste
+1491,sunil shetty,Fight Club: Members Only
+1492,sohail khan,Fight Club: Members Only
+1493,zayed khan,Fight Club: Members Only
+1494,dino morea,Fight Club: Members Only
+1495,salman khan,Jaan-E-Mann: Let's Fall in Love... Again
+1496,akshay kumar,Jaan-E-Mann: Let's Fall in Love... Again
+1497,preity zinta,Jaan-E-Mann: Let's Fall in Love... Again
+1498,anupam kher,Jaan-E-Mann: Let's Fall in Love... Again
+1499,tusshar kapoor,Kyaa Kool Hai Hum
+1500,ritesh deshmukh,Kyaa Kool Hai Hum
+1501,isha koppikar,Kyaa Kool Hai Hum
+1502,neha dhupia,Kyaa Kool Hai Hum
+1503,antara mali,Mr Ya Miss
+1504,ritesh deshmukh,Mr Ya Miss
+1505,divya dutta,Mr Ya Miss
+1506,aftab shivdasani,Mr Ya Miss
+1507,meera,Nazar
+1508,ashmit patel,Nazar
+1509,koel purie,Nazar
+1510,neena gupta,Nazar
+1511,amitabh bachchan,Ek Ajnabee
+1512,arjun rampal,Ek Ajnabee
+1513,perizaad zorabian,Ek Ajnabee
+1514,rucha vaidya,Ek Ajnabee
+1515,vivek oberoi,Home Delivery: Aapko... Ghar Tak
+1516,mahima chaudhry,Home Delivery: Aapko... Ghar Tak
+1517,ayesha takia,Home Delivery: Aapko... Ghar Tak
+1518,boman irani,Home Delivery: Aapko... Ghar Tak
+1519,konkona sen sharma,Mixed Doubles
+1520,ranvir shorey,Mixed Doubles
+1521,koel purie,Mixed Doubles
+1522,saurabh shukla,Mixed Doubles
+1523,seema biswas,Mumbai Godfather
+1524,vikram singh,Mumbai Godfather
+1525,bhumika,Mumbai Godfather
+1526,govind namdeo,Mumbai Godfather
+1527,ashutosh rana,Shabnam Mausi
+1528,sujeet chaubey,Shabnam Mausi
+1529,divya desai,Shabnam Mausi
+1530,jasvvant khera,Shabnam Mausi
+1531,akshaye khanna,"Gandhi, My Father"
+1532,darshan jariwala,"Gandhi, My Father"
+1533,shefali shetty,"Gandhi, My Father"
+1534,bhoomika chawla,"Gandhi, My Father"
+1535,divya dutta,Kahaani Gudiya Ki...: True Story of a Woman
+1536,arif zakaria,Kahaani Gudiya Ki...: True Story of a Woman
+1537,rajpal yadav,Kahaani Gudiya Ki...: True Story of a Woman
+1538,somed agarwal,Kahaani Gudiya Ki...: True Story of a Woman
+1539,raqesh vashisth,Naam Gum Jaayega
+1540,dia mirza,Naam Gum Jaayega
+1541,aryan vaid,Naam Gum Jaayega
+1542,mandira bedi,Naam Gum Jaayega
+1543,amitabh bachchan,Eklavya: The Royal Guard
+1544,saif ali khan,Eklavya: The Royal Guard
+1545,sanjay dutt,Eklavya: The Royal Guard
+1546,vidya balan,Eklavya: The Royal Guard
+1547,fardeen khan,Ek Khiladi Ek Haseena
+1548,koena mitra,Ek Khiladi Ek Haseena
+1549,kay kay menon,Ek Khiladi Ek Haseena
+1550,rakhi sawant,Ek Khiladi Ek Haseena
+1551,shiney ahuja,Kal: Yesterday and Tomorrow
+1552,murad ali,Kal: Yesterday and Tomorrow
+1553,ahmed chaudhary,Kal: Yesterday and Tomorrow
+1554,gopi desai,Kal: Yesterday and Tomorrow
+1555,fardeen khan,Pyare Mohan
+1556,vivek oberoi,Pyare Mohan
+1557,esha deol,Pyare Mohan
+1558,amrita rao,Pyare Mohan
+1559,shah rukh khan,Don
+1560,priyanka chopra,Don
+1561,arjun rampal,Don
+1562,isha koppikar,Don
+1563,ashutosh rana,2-Oct
+1564,saadhika,2-Oct
+1565,sharat saxena,2-Oct
+1566,rocky verma,2-Oct
+1567,kareena kapoor,Chup Chup Ke
+1568,shahid kapoor,Chup Chup Ke
+1569,paresh rawal,Chup Chup Ke
+1570,neha dhupia,Chup Chup Ke
+1571,hemant birje,Bhairav
+1572,mithun chakraborty,Bhairav
+1573,jack gaud,Bhairav
+1574,brij gopal,Bhairav
+1575,samir aftab,Chand Sa Roshan Chehra
+1576,talat aziz,Chand Sa Roshan Chehra
+1577,tamannaah bhatia,Chand Sa Roshan Chehra
+1578,kurush deboo,Chand Sa Roshan Chehra
+1579,aarti chhabria,Ssukh
+1580,jackie shroff,Ssukh
+1581,mahesh anand,Ssukh
+1582,rana jung bahadur,Ssukh
+1583,anupam kher,Khosla's Nest
+1584,boman irani,Khosla's Nest
+1585,parvin dabas,Khosla's Nest
+1586,tara sharma,Khosla's Nest
+1587,nassar abdulla,The Film
+1588,ravi baswani,The Film
+1589,rakesh bedi,The Film
+1590,mahima chaudhry,The Film
+1591,sanjay chauhan,Siskiyaan
+1592,neha dhupia,Siskiyaan
+1593,sachin khedekar,Siskiyaan
+1594,preeti puri,Siskiyaan
+1595,lucky ali,Kasak
+1596,meera,Kasak
+1597,mukesh tiwari,Kasak
+1598,nandini,Kasak
+1599,salman khan,Saawan... The Love Season
+1600,saloni aswani,Saawan... The Love Season
+1601,kapil jhaveri,Saawan... The Love Season
+1602,prem chopra,Saawan... The Love Season
+1603,konkona sen sharma,Yun Hota Toh Kya Hota: What If...?
+1604,irrfan khan,Yun Hota Toh Kya Hota: What If...?
+1605,ayesha takia,Yun Hota Toh Kya Hota: What If...?
+1606,jimmy shergill,Yun Hota Toh Kya Hota: What If...?
+1607,uday chopra,Neal 'N' Nikki
+1608,tanisha,Neal 'N' Nikki
+1609,abhishek bachchan,Neal 'N' Nikki
+1610,richa pallod,Neal 'N' Nikki
+1611,ishrat ali,Darwaza Bandh Rakho
+1612,abhay bhargav,Darwaza Bandh Rakho
+1613,snehal dabi,Darwaza Bandh Rakho
+1614,divya dutta,Darwaza Bandh Rakho
+1615,amitabh bachchan,Ram Gopal Varma's Indian Flames
+1616,mohanlal,Ram Gopal Varma's Indian Flames
+1617,ajay devgn,Ram Gopal Varma's Indian Flames
+1618,vinod jaywant,Ram Gopal Varma's Indian Flames
+1619,imran khan,Jaane Tu... Ya Jaane Na
+1620,genelia d'souza,Jaane Tu... Ya Jaane Na
+1621,manjari phadnis,Jaane Tu... Ya Jaane Na
+1622,ayaz khan,Jaane Tu... Ya Jaane Na
+1623,jimmy shergill,...Yahaan
+1624,minissha lamba,...Yahaan
+1625,yashpal sharma,...Yahaan
+1626,mukesh tiwari,...Yahaan
+1627,ajay devgn,Shikhar
+1628,shahid kapoor,Shikhar
+1629,bipasha basu,Shikhar
+1630,amrita rao,Shikhar
+1631,shahid kapoor,Vaah! Life Ho Toh Aisi!
+1632,amrita rao,Vaah! Life Ho Toh Aisi!
+1633,sanjay dutt,Vaah! Life Ho Toh Aisi!
+1634,arshad warsi,Vaah! Life Ho Toh Aisi!
+1635,abhishek bachchan,Bluffmaster!
+1636,priyanka chopra,Bluffmaster!
+1637,ritesh deshmukh,Bluffmaster!
+1638,nana patekar,Bluffmaster!
+1639,amitabh bachchan,God Tussi Great Ho
+1640,salman khan,God Tussi Great Ho
+1641,priyanka chopra,God Tussi Great Ho
+1642,anupam kher,God Tussi Great Ho
+1643,rajat bedi,Aksar
+1644,till dilumière,Aksar
+1645,udita goswami,Aksar
+1646,hendrik greis,Aksar
+1647,sunny deol,Big Brother
+1648,priyanka chopra,Big Brother
+1649,vikas anand,Big Brother
+1650,manoj bhatia,Big Brother
+1651,paresh rawal,Malamaal Weekly
+1652,om puri,Malamaal Weekly
+1653,ritesh deshmukh,Malamaal Weekly
+1654,reema sen,Malamaal Weekly
+1655,saif ali khan,Nehlle Pe Dehlla
+1656,bipasha basu,Nehlle Pe Dehlla
+1657,neha dhupia,Nehlle Pe Dehlla
+1658,sanjay dutt,Nehlle Pe Dehlla
+1659,madhavan,Ramji Londonwaley
+1660,samita bangargi,Ramji Londonwaley
+1661,satish shah,Ramji Londonwaley
+1662,akhilendra mishra,Ramji Londonwaley
+1663,nana patekar,Taxi No. 9 2 11: Nau Do Gyarah
+1664,john abraham,Taxi No. 9 2 11: Nau Do Gyarah
+1665,sonali kulkarni,Taxi No. 9 2 11: Nau Do Gyarah
+1666,sameera reddy,Taxi No. 9 2 11: Nau Do Gyarah
+1667,rakesh bedi,"Tom, Dick, and Harry"
+1668,bobby darling,"Tom, Dick, and Harry"
+1669,avtar gill,"Tom, Dick, and Harry"
+1670,gulshan grover,"Tom, Dick, and Harry"
+1671,akshaye khanna,36 China Town
+1672,kareena kapoor,36 China Town
+1673,shahid kapoor,36 China Town
+1674,paresh rawal,36 China Town
+1675,tanushree dutta,Aashiq Banaya Aapne: Love Takes Over
+1676,preeti ganguli,Aashiq Banaya Aapne: Love Takes Over
+1677,emraan hashmi,Aashiq Banaya Aapne: Love Takes Over
+1678,ashwini khalsekar,Aashiq Banaya Aapne: Love Takes Over
+1679,sandeep bedi,Bengal Tiger
+1680,mithun chakraborty,Bengal Tiger
+1681,roshini jaffery,Bengal Tiger
+1682,raushani jaffrey,Bengal Tiger
+1683,arshad warsi,Sehar
+1684,pankaj kapur,Sehar
+1685,mahima chaudhry,Sehar
+1686,sushant singh,Sehar
+1687,dia mirza,Koi Mere Dil Mein Hai
+1688,sadashiv amrapurkar,Koi Mere Dil Mein Hai
+1689,rita bhaduri,Koi Mere Dil Mein Hai
+1690,birbal,Koi Mere Dil Mein Hai
+1691,yunus parvez,Gumnam Qatil
+1692,mahesh raj,Gumnam Qatil
+1693,ghanshyam rohera,Gumnam Qatil
+1694,rakesh,Gumnam Qatil
+1695,rahul bose,Pyaar Ke Side Effects
+1696,mallika sherawat,Pyaar Ke Side Effects
+1697,ranvir shorey,Pyaar Ke Side Effects
+1698,sharat saxena,Pyaar Ke Side Effects
+1699,makrand deshpande,Ek Aur Visphot
+1700,kishori godbole,Ek Aur Visphot
+1701,raza murad,Ek Aur Visphot
+1702,mahavir shah,Ek Aur Visphot
+1703,vinay apte,Kyon?
+1704,ashok beniwal,Kyon?
+1705,chaitanya chaudhary,Kyon?
+1706,rahul dev,Kyon?
+1707,benjamin gilani,Bullet: Ek Dhamaka
+1708,natalya gudkova,Bullet: Ek Dhamaka
+1709,iqbal khan,Bullet: Ek Dhamaka
+1710,asseem merchant,Bullet: Ek Dhamaka
+1711,ishrat ali,Marshal
+1712,liyaqat bari,Marshal
+1713,mithun chakraborty,Marshal
+1714,charulatha,Marshal
+1715,priyanka chopra,Miss India: The Mystery
+1716,neha dhupia,Miss India: The Mystery
+1717,dolly,Miss India: The Mystery
+1718,supriya karnik,Miss India: The Mystery
+1719,salman khan,Salaam-E-Ishq
+1720,priyanka chopra,Salaam-E-Ishq
+1721,anil kapoor,Salaam-E-Ishq
+1722,juhi chawla,Salaam-E-Ishq
+1723,emraan hashmi,Jawani Diwani: A Youthful Joyride
+1724,celina jaitly,Jawani Diwani: A Youthful Joyride
+1725,hrishitaa bhatt,Jawani Diwani: A Youthful Joyride
+1726,mahesh manjrekar,Jawani Diwani: A Youthful Joyride
+1727,naseeruddin shah,"Main, Meri Patni... Aur Woh!"
+1728,rajpal yadav,"Main, Meri Patni... Aur Woh!"
+1729,rituparna sengupta,"Main, Meri Patni... Aur Woh!"
+1730,kay kay menon,"Main, Meri Patni... Aur Woh!"
+1731,aishwarya rai bachchan,Umrao Jaan
+1732,shabana azmi,Umrao Jaan
+1733,sunil shetty,Umrao Jaan
+1734,abhishek bachchan,Umrao Jaan
+1735,sherlyn chopra,Time Pass
+1736,tanaaz currim irani,Time Pass
+1737,adi irani,Time Pass
+1738,monica patel,Time Pass
+1739,salman khan,London Dreams
+1740,om puri,London Dreams
+1741,ajay devgn,London Dreams
+1742,dilyana bouklieva,London Dreams
+1743,mukesh ahuja,Chand Bujh Gaya
+1744,ishrat ali,Chand Bujh Gaya
+1745,aliza,Chand Bujh Gaya
+1746,neha bam,Chand Bujh Gaya
+1747,jatin grewal,Chetna: The Excitement
+1748,navneet kaur,Chetna: The Excitement
+1749,kiran kumar,Chetna: The Excitement
+1750,payal rohatgi,Chetna: The Excitement
+1751,arun mathur,Darwaza
+1752,anil nagrath,Darwaza
+1753,amit pachori,Darwaza
+1754,sapna,Darwaza
+1755,farid amiri,Mazaa Mazaa
+1756,mridula baruah,Mazaa Mazaa
+1757,pankaj berry,Mazaa Mazaa
+1758,camila bordonaba,Mazaa Mazaa
+1759,bipasha basu,Corporate
+1760,kay kay menon,Corporate
+1761,raj babbar,Corporate
+1762,rajat kapoor,Corporate
+1763,ajay devgn,Omkara
+1764,kareena kapoor,Omkara
+1765,saif ali khan,Omkara
+1766,konkona sen sharma,Omkara
+1767,akshay kumar,Welcome
+1768,nana patekar,Welcome
+1769,anil kapoor,Welcome
+1770,mallika sherawat,Welcome
+1771,archi,Hanuman
+1772,rajesh jolly,Hanuman
+1773,mukesh khanna,Hanuman
+1774,sushmita mukherjee,Hanuman
+1775,aftab shivdasani,Koi Aap Sa: But Lovers Have to Be Friends
+1776,anita hassandani,Koi Aap Sa: But Lovers Have to Be Friends
+1777,dipannita sharma,Koi Aap Sa: But Lovers Have to Be Friends
+1778,himanshu malik,Koi Aap Sa: But Lovers Have to Be Friends
+1779,sanjay dutt,Zinda
+1780,john abraham,Zinda
+1781,lara dutta,Zinda
+1782,celina jaitly,Zinda
+1783,isaiah,C U at 9
+1784,malavikka,C U at 9
+1785,kanksha,C U at 9
+1786,marlon rodrigues,C U at 9
+1787,ayesha jhulka,Double Cross: Ek Dhoka
+1788,negar khan,Double Cross: Ek Dhoka
+1789,sahil khan,Double Cross: Ek Dhoka
+1790,tusshar kapoor,"Good Boy, Bad Boy"
+1791,emraan hashmi,"Good Boy, Bad Boy"
+1792,isha sharvani,"Good Boy, Bad Boy"
+1793,tanushree dutta,"Good Boy, Bad Boy"
+1794,akshaye khanna,Shaadi Se Pehle
+1795,ayesha takia,Shaadi Se Pehle
+1796,mallika sherawat,Shaadi Se Pehle
+1797,sunil shetty,Shaadi Se Pehle
+1798,harman baweja,Love Story 2050
+1799,priyanka chopra,Love Story 2050
+1800,boman irani,Love Story 2050
+1801,archana puran singh,Love Story 2050
+1802,amitabh bachchan,Sarkar Raj
+1803,abhishek bachchan,Sarkar Raj
+1804,aishwarya rai bachchan,Sarkar Raj
+1805,ravi kale,Sarkar Raj
+1806,prithvi,Gangobai
+1807,satnam kaur,Gangobai
+1808,durgesh nandni,Gangobai
+1809,kiran kumar,Gangobai
+1810,rajat bedi,Kaaboo
+1811,sudesh berry,Kaaboo
+1812,abhay bhargav,Kaaboo
+1813,ishwar,Kaaboo
+1814,rahul roy,Meri Aashiqui
+1815,himani shivpuri,Meri Aashiqui
+1816,prithvi zutshi,Meri Aashiqui
+1817,anamika goel,Raghu More: Bachelor of Hearts
+1818,sonika kapoor,Raghu More: Bachelor of Hearts
+1819,mangala kenkre,Raghu More: Bachelor of Hearts
+1820,faraha khan,Raghu More: Bachelor of Hearts
+1821,mukesh bhatt,Prarambh
+1822,shama deshpande,Prarambh
+1823,sanjay gandhi,Prarambh
+1824,vijay gupta,Prarambh
+1825,shahid kapoor,Fool N Final
+1826,ayesha takia,Fool N Final
+1827,vivek oberoi,Fool N Final
+1828,sunny deol,Fool N Final
+1829,bobby darling,Apna Sapna Money Money
+1830,ritesh deshmukh,Apna Sapna Money Money
+1831,avtar gill,Apna Sapna Money Money
+1832,vrajesh hirjee,Apna Sapna Money Money
+1833,shahid kapoor,Vivah
+1834,amrita rao,Vivah
+1835,anupam kher,Vivah
+1836,alok nath,Vivah
+1837,aftab shivdasani,Ankahee
+1838,ameesha patel,Ankahee
+1839,esha deol,Ankahee
+1840,amin hajee,Ankahee
+1841,kangana ranaut,Gangster
+1842,shiney ahuja,Gangster
+1843,emraan hashmi,Gangster
+1844,gulshan grover,Gangster
+1845,ajay devgn,Golmaal: Fun Unlimited
+1846,arshad warsi,Golmaal: Fun Unlimited
+1847,sharman joshi,Golmaal: Fun Unlimited
+1848,tusshar kapoor,Golmaal: Fun Unlimited
+1849,kay kay menon,Dansh
+1850,sonali kulkarni,Dansh
+1851,aditya srivastava,Dansh
+1852,vijay raj,Dansh
+1853,ali asghar,Bhola in Bollywood
+1854,raj babbar,Bhola in Bollywood
+1855,suresh chatwal,Bhola in Bollywood
+1856,avtar gill,Bhola in Bollywood
+1857,kunal khemu,Kalyug
+1858,deepal shaw,Kalyug
+1859,smiley suri,Kalyug
+1860,atul parchure,Kalyug
+1861,mithun chakraborty,Guru
+1862,abhishek bachchan,Guru
+1863,aishwarya rai bachchan,Guru
+1864,madhavan,Guru
+1865,ranbir kapoor,Saawariya
+1866,sonam kapoor,Saawariya
+1867,salman khan,Saawariya
+1868,rani mukerji,Saawariya
+1869,john abraham,Kabul Express
+1870,arshad warsi,Kabul Express
+1871,salman shahid,Kabul Express
+1872,hanif hum ghum,Kabul Express
+1873,sunny deol,Teesri Aankh: The Hidden Camera
+1874,ameesha patel,Teesri Aankh: The Hidden Camera
+1875,neha dhupia,Teesri Aankh: The Hidden Camera
+1876,mukesh rishi,Teesri Aankh: The Hidden Camera
+1877,akshay kumar,Namastey London
+1878,katrina kaif,Namastey London
+1879,rishi kapoor,Namastey London
+1880,clive standen,Namastey London
+1881,dharmendra,Life in a Metro
+1882,irrfan khan,Life in a Metro
+1883,konkona sen sharma,Life in a Metro
+1884,kay kay menon,Life in a Metro
+1885,sanjay dutt,Anthony Kaun Hai?
+1886,arshad warsi,Anthony Kaun Hai?
+1887,minissha lamba,Anthony Kaun Hai?
+1888,anusha dhandekar,Anthony Kaun Hai?
+1889,akshay kumar,Bhagam Bhag
+1890,govinda,Bhagam Bhag
+1891,paresh rawal,Bhagam Bhag
+1892,lara dutta,Bhagam Bhag
+1893,akshay kumar,Heyy Babyy
+1894,vidya balan,Heyy Babyy
+1895,fardeen khan,Heyy Babyy
+1896,ritesh deshmukh,Heyy Babyy
+1897,salman khan,Partner
+1898,govinda,Partner
+1899,lara dutta,Partner
+1900,katrina kaif,Partner
+1901,ranvir shorey,Honeymoon Travels Pvt. Ltd.
+1902,dia mirza,Honeymoon Travels Pvt. Ltd.
+1903,abhay deol,Honeymoon Travels Pvt. Ltd.
+1904,minissha lamba,Honeymoon Travels Pvt. Ltd.
+1905,akshaye khanna,Aap Ki Khatir
+1906,priyanka chopra,Aap Ki Khatir
+1907,ameesha patel,Aap Ki Khatir
+1908,dino morea,Aap Ki Khatir
+1909,sanjay dutt,Shootout at Lokhandwala
+1910,amitabh bachchan,Shootout at Lokhandwala
+1911,arbaaz khan,Shootout at Lokhandwala
+1912,sunil shetty,Shootout at Lokhandwala
+1913,dev anand,Mr Prime Minister
+1914,prem chopra,Mr Prime Minister
+1915,milind gunaji,Mr Prime Minister
+1916,a.k. hangal,Mr Prime Minister
+1917,sunny deol,Naksha
+1918,vivek oberoi,Naksha
+1919,sameera reddy,Naksha
+1920,jackie shroff,Naksha
+1921,dharmendra,Apne
+1922,sunny deol,Apne
+1923,bobby deol,Apne
+1924,shilpa shetty,Apne
+1925,emraan hashmi,Dil Diya Hai
+1926,ashmit patel,Dil Diya Hai
+1927,geeta basra,Dil Diya Hai
+1928,mithun chakraborty,Dil Diya Hai
+1929,suman ranganathan,Ishq Qayamat
+1930,milind gunaji,Ishq Qayamat
+1931,deepak jethi,Ishq Qayamat
+1932,kashmira shah,Ishq Qayamat
+1933,zayed khan,Rocky
+1934,isha sharvani,Rocky
+1935,minissha lamba,Rocky
+1936,rajat bedi,Rocky
+1937,urmila matondkar,Speed
+1938,sanjay suri,Speed
+1939,zayed khan,Speed
+1940,aftab shivdasani,Speed
+1941,kunal khemu,Traffic Signal
+1942,neetu chandra,Traffic Signal
+1943,upendra limaye,Traffic Signal
+1944,ranvir shorey,Traffic Signal
+1945,sushmita sen,Zindaggi Rocks
+1946,shiney ahuja,Zindaggi Rocks
+1947,julian burkhardt,Zindaggi Rocks
+1948,ravi gossain,Zindaggi Rocks
+1949,arbaaz khan,Dus Kahaniyaan
+1950,mandira bedi,Dus Kahaniyaan
+1951,sudhanshu pandey,Dus Kahaniyaan
+1952,jimmy shergill,Dus Kahaniyaan
+1953,ayesha takia,Dor
+1954,shreyas talpade,Dor
+1955,gul panag,Dor
+1956,girish karnad,Dor
+1957,amitabh bachchan,Nishabd
+1958,jiah khan,Nishabd
+1959,revathy,Nishabd
+1960,nasser,Nishabd
+1961,ravi kishan,Raja Bhai Lagey Raho...
+1962,rajeev awasthi,Raja Bhai Lagey Raho...
+1963,chittaranjan giri,Raja Bhai Lagey Raho...
+1964,arun kumar,Raja Bhai Lagey Raho...
+1965,meghna desai,Humein Tumse Pyar Ho Gaya Chupke Chupke
+1966,siddharth dhawan,Humein Tumse Pyar Ho Gaya Chupke Chupke
+1967,dinesh hingoo,Humein Tumse Pyar Ho Gaya Chupke Chupke
+1968,shakti kapoor,Humein Tumse Pyar Ho Gaya Chupke Chupke
+1969,mohit ahlawat,Shiva
+1970,priyanka kothari,Shiva
+1971,vinod jaywant,Shiva
+1972,nagesh bhonsle,Shiva
+1973,abhay deol,Ahista Ahista
+1974,soha ali khan,Ahista Ahista
+1975,shayan munshi,Ahista Ahista
+1976,murad ali,Ahista Ahista
+1977,rocky bhatia,Stop!
+1978,dia mirza,Stop!
+1979,tejaswini kolhapure,Stop!
+1980,gauri karnik,Stop!
+1981,abhishek bachchan,Jhoom Barabar Jhoom
+1982,preity zinta,Jhoom Barabar Jhoom
+1983,bobby deol,Jhoom Barabar Jhoom
+1984,lara dutta,Jhoom Barabar Jhoom
+1985,irrfan khan,The Killer
+1986,emraan hashmi,The Killer
+1987,priyanka kothari,The Killer
+1988,bharati achrekar,The Killer
+1989,aditya bal,Mashooka
+1990,meghna naidu,Mashooka
+1991,vidya malvade,Mashooka
+1992,mahima chaudhry,Souten: The Other Woman
+1993,padmini kolhapure,Souten: The Other Woman
+1994,shakti kapoor,Souten: The Other Woman
+1995,gulshan grover,Souten: The Other Woman
+1996,saif ali khan,Ta Ra Rum Pum
+1997,rani mukerji,Ta Ra Rum Pum
+1998,mayank amin,Ta Ra Rum Pum
+1999,vic aviles,Ta Ra Rum Pum
+2000,kangana ranaut,Woh Lamhe
+2001,shiney ahuja,Woh Lamhe
+2002,shaad randhawa,Woh Lamhe
+2003,purab kohli,Woh Lamhe
+2004,mischa barton,Bhopal: A Prayer for Rain
+2005,martin sheen,Bhopal: A Prayer for Rain
+2006,kal penn,Bhopal: A Prayer for Rain
+2007,rajpal yadav,Bhopal: A Prayer for Rain
+2008,sanjay dutt,Dhamaal
+2009,ritesh deshmukh,Dhamaal
+2010,arshad warsi,Dhamaal
+2011,aashish chaudhary,Dhamaal
+2012,nikhil dwivedi,My Name Is Anthony Gonsalves
+2013,amrita rao,My Name Is Anthony Gonsalves
+2014,mithun chakraborty,My Name Is Anthony Gonsalves
+2015,anupam kher,My Name Is Anthony Gonsalves
+2016,dwij yadav,Nanhe Jaisalmer: A Dream Come True
+2017,bobby deol,Nanhe Jaisalmer: A Dream Come True
+2018,sharat saxena,Nanhe Jaisalmer: A Dream Come True
+2019,vivek shaq,Nanhe Jaisalmer: A Dream Come True
+2020,sameer dharmadhikari,Nigehbaan: The Third Eye
+2021,sandali sinha,Nigehbaan: The Third Eye
+2022,sayaji shinde,Nigehbaan: The Third Eye
+2023,govind namdeo,Nigehbaan: The Third Eye
+2024,vinod khanna,Risk
+2025,randeep hooda,Risk
+2026,tanushree dutta,Risk
+2027,madhuri bhagwat,Risk
+2028,shweta bhardwaj,Loot
+2029,mimoh chakraborty,Loot
+2030,prem chopra,Loot
+2031,sudhir s. dayma,Loot
+2032,rajesh khanna,Pyaar Zindagi Hai
+2033,mohnish bahl,Pyaar Zindagi Hai
+2034,ashima bhalla,Pyaar Zindagi Hai
+2035,asawari joshi,Pyaar Zindagi Hai
+2036,arjun rampal,I See You
+2037,vipasha agarwal,I See You
+2038,chunky pandey,I See You
+2039,boman irani,I See You
+2040,menekka arora,MP3: Mera Pehla Pehla Pyaar
+2041,sarthak bhasin,MP3: Mera Pehla Pehla Pyaar
+2042,sagar chawla,MP3: Mera Pehla Pehla Pyaar
+2043,hazel croney,MP3: Mera Pehla Pehla Pyaar
+2044,ajay devgn,Cash
+2045,sunil shetty,Cash
+2046,zayed khan,Cash
+2047,ritesh deshmukh,Cash
+2048,manisha koirala,Anjaane: The Unkown
+2049,sanjay kapoor,Anjaane: The Unkown
+2050,helen,Anjaane: The Unkown
+2051,daisy irani,Anjaane: The Unkown
+2052,tusshar kapoor,Aggar: Passion Betrayal Terror
+2053,udita goswami,Aggar: Passion Betrayal Terror
+2054,shreyas talpade,Aggar: Passion Betrayal Terror
+2055,sophiya chaudhary,Aggar: Passion Betrayal Terror
+2056,david carradine,The Golden Boys
+2057,rip torn,The Golden Boys
+2058,bruce dern,The Golden Boys
+2059,mariel hemingway,The Golden Boys
+2060,dino morea,Anamika: The Untold Story
+2061,minissha lamba,Anamika: The Untold Story
+2062,koena mitra,Anamika: The Untold Story
+2063,gulshan grover,Anamika: The Untold Story
+2064,sunny deol,Kaafila
+2065,ammtoje mann,Kaafila
+2066,sudesh berry,Kaafila
+2067,sana,Kaafila
+2068,farhan akhtar,Luck by Chance
+2069,konkona sen sharma,Luck by Chance
+2070,rishi kapoor,Luck by Chance
+2071,dimple kapadia,Luck by Chance
+2072,tusshar kapoor,Kya Love Story Hai
+2073,ayesha takia,Kya Love Story Hai
+2074,karan hukka,Kya Love Story Hai
+2075,rahul singh,Kya Love Story Hai
+2076,ajay devgn,Halla Bol
+2077,vidya balan,Halla Bol
+2078,pankaj kapur,Halla Bol
+2079,darshan jariwala,Halla Bol
+2080,ava mukherjee,Detective Naani
+2081,zain khan,Detective Naani
+2082,simran singh,Detective Naani
+2083,amrita raichand,Detective Naani
+2084,aftab shivdasani,Red: The Dark Side
+2085,celina jaitly,Red: The Dark Side
+2086,amrita arora,Red: The Dark Side
+2087,amin hajee,Red: The Dark Side
+2088,rahul khanna,Raqeeb
+2089,sharman joshi,Raqeeb
+2090,tanushree dutta,Raqeeb
+2091,jimmy shergill,Raqeeb
+2092,abhay deol,Manorama Six Feet Under
+2093,gul panag,Manorama Six Feet Under
+2094,raima sen,Manorama Six Feet Under
+2095,sarika,Manorama Six Feet Under
+2096,shawar ali,99.9 FM
+2097,jaipreet nagra,99.9 FM
+2098,raima sen,99.9 FM
+2099,dipannita sharma,99.9 FM
+2100,mithun chakraborty,Arjun Devaa
+2101,puru rajkumar,Arjun Devaa
+2102,rutika singh,Arjun Devaa
+2103,gajendra chouhan,Arjun Devaa
+2104,priyanka chopra,Fashion
+2105,kangana ranaut,Fashion
+2106,mugdha godse,Fashion
+2107,arbaaz khan,Fashion
+2108,amitabh bachchan,Cheeni Kum
+2109,tabu,Cheeni Kum
+2110,paresh rawal,Cheeni Kum
+2111,zohra segal,Cheeni Kum
+2112,nana patekar,Hattrick
+2113,danny denzongpa,Hattrick
+2114,paresh rawal,Hattrick
+2115,kunal kapoor,Hattrick
+2116,mohan azaad,Gauri: The Unborn
+2117,anupam kher,Gauri: The Unborn
+2118,atul kulkarni,Gauri: The Unborn
+2119,manasi,Gauri: The Unborn
+2120,abhishek bachchan,Laaga Chunari Mein Daag: Journey of a Woman
+2121,rani mukerji,Laaga Chunari Mein Daag: Journey of a Woman
+2122,konkona sen sharma,Laaga Chunari Mein Daag: Journey of a Woman
+2123,jaya bhaduri,Laaga Chunari Mein Daag: Journey of a Woman
+2124,madhuri dixit,Aaja Nachle
+2125,darshan jariwala,Aaja Nachle
+2126,raghuvir yadav,Aaja Nachle
+2127,divya dutta,Aaja Nachle
+2128,darsheel safary,Taare Zameen Par
+2129,aamir khan,Taare Zameen Par
+2130,tanay chheda,Taare Zameen Par
+2131,sachet engineer,Taare Zameen Par
+2132,jimmy shergill,A Flat
+2133,sanjay suri,A Flat
+2134,hazel croney,A Flat
+2135,kaveri jha,A Flat
+2136,jimmy shergill,Delhii Heights
+2137,neha dhupia,Delhii Heights
+2138,kamini khanna,Delhii Heights
+2139,madhavan,Delhii Heights
+2140,abhay bhargav,30 Days
+2141,milind gunaji,30 Days
+2142,dinesh hingoo,30 Days
+2143,mushtaq khan,30 Days
+2144,amitabh bachchan,Bhoothnath
+2145,juhi chawla,Bhoothnath
+2146,satish shah,Bhoothnath
+2147,rajpal yadav,Bhoothnath
+2148,akshay kumar,Bhool Bhulaiyaa
+2149,vidya balan,Bhool Bhulaiyaa
+2150,ameesha patel,Bhool Bhulaiyaa
+2151,shiney ahuja,Bhool Bhulaiyaa
+2152,sharman joshi,Dhol
+2153,tusshar kapoor,Dhol
+2154,kunal khemu,Dhol
+2155,rajpal yadav,Dhol
+2156,abhay deol,Ek Chalis Ki Last Local
+2157,neha dhupia,Ek Chalis Ki Last Local
+2158,amit mistry,Ek Chalis Ki Last Local
+2159,ashok samarth,Ek Chalis Ki Last Local
+2160,john abraham,No Smoking
+2161,ayesha takia,No Smoking
+2162,paresh rawal,No Smoking
+2163,ranvir shorey,No Smoking
+2164,akshay kumar,Tashan
+2165,saif ali khan,Tashan
+2166,kareena kapoor,Tashan
+2167,anil kapoor,Tashan
+2168,shiney ahuja,Khoya Khoya Chand
+2169,soha ali khan,Khoya Khoya Chand
+2170,rajat kapoor,Khoya Khoya Chand
+2171,vinay pathak,Khoya Khoya Chand
+2172,emraan hashmi,The Train: Some Lines Shoulder Never Be Crossed...
+2173,geeta basra,The Train: Some Lines Shoulder Never Be Crossed...
+2174,rajat bedi,The Train: Some Lines Shoulder Never Be Crossed...
+2175,anant mahadevan,The Train: Some Lines Shoulder Never Be Crossed...
+2176,himesh reshammiya,Aap Kaa Surroor: The Moviee - The Real Luv Story
+2177,hansika motwani,Aap Kaa Surroor: The Moviee - The Real Luv Story
+2178,mallika sherawat,Aap Kaa Surroor: The Moviee - The Real Luv Story
+2179,shravan rathod,Aap Kaa Surroor: The Moviee - The Real Luv Story
+2180,vinay pathak,Bheja Fry
+2181,rajat kapoor,Bheja Fry
+2182,sarika,Bheja Fry
+2183,milind soman,Bheja Fry
+2184,parvin dabas,Yehi Hai Zindagi
+2185,benjamin gilani,Yehi Hai Zindagi
+2186,sahil khan,Yehi Hai Zindagi
+2187,sheetal kshirsagar,Yehi Hai Zindagi
+2188,anand abhyankar,Chain Kulii Ki Main Kulii
+2189,parimal aloke,Chain Kulii Ki Main Kulii
+2190,chandan anand,Chain Kulii Ki Main Kulii
+2191,bobby bedi,Chain Kulii Ki Main Kulii
+2192,saif ali khan,Race
+2193,akshaye khanna,Race
+2194,bipasha basu,Race
+2195,katrina kaif,Race
+2196,salil acharya,Awarapan
+2197,emraan hashmi,Awarapan
+2198,j. brandon hill,Awarapan
+2199,rehan khan,Awarapan
+2200,bobby deol,Naqaab
+2201,akshaye khanna,Naqaab
+2202,urvashi sharma,Naqaab
+2203,vikas kalantri,Naqaab
+2204,aftab shivdasani,De Taali
+2205,ayesha takia,De Taali
+2206,ritesh deshmukh,De Taali
+2207,rimi sen,De Taali
+2208,anupam kher,Meerabai Not Out
+2209,mahesh manjrekar,Meerabai Not Out
+2210,mandira bedi,Meerabai Not Out
+2211,eijaz khan,Meerabai Not Out
+2212,shah rukh khan,Om Shanti Om
+2213,arjun rampal,Om Shanti Om
+2214,kiron kher,Om Shanti Om
+2215,shreyas talpade,Om Shanti Om
+2216,hrithik roshan,Krrish 3
+2217,amitabh bachchan,Krrish 3
+2218,priyanka chopra,Krrish 3
+2219,naseeruddin shah,Krrish 3
+2220,sanjay dutt,Kidnap
+2221,imran khan,Kidnap
+2222,minissha lamba,Kidnap
+2223,vidya malvade,Kidnap
+2224,ajay devgn,Sunday
+2225,ayesha takia,Sunday
+2226,arshad warsi,Sunday
+2227,irrfan khan,Sunday
+2228,ajay devgn,U Me Aur Hum
+2229,kajol,U Me Aur Hum
+2230,sumeet raghvan,U Me Aur Hum
+2231,divya dutta,U Me Aur Hum
+2232,waheeda rehman,Delhi-6
+2233,abhishek bachchan,Delhi-6
+2234,sonam kapoor,Delhi-6
+2235,rishi kapoor,Delhi-6
+2236,sikander kher,Woodstock Villa
+2237,neha uberoi,Woodstock Villa
+2238,arbaaz khan,Woodstock Villa
+2239,gulshan grover,Woodstock Villa
+2240,sherlyn chopra,Red Swastik
+2241,udayyan raathore,Red Swastik
+2242,zahid ali,Red Swastik
+2243,amrita,Red Swastik
+2244,saif ali khan,Roadside Romeo
+2245,kareena kapoor,Roadside Romeo
+2246,javed jaffrey,Roadside Romeo
+2247,vrajesh hirjee,Roadside Romeo
+2248,armaan shahabi,Chanchal
+2249,gracy singh,Chanchal
+2250,jayshree arora,Drona
+2251,veer arya,Drona
+2252,abhishek bachchan,Drona
+2253,jaya bhaduri,Drona
+2254,arun bakshi,My Friend Ganesha
+2255,ahsaas channa,My Friend Ganesha
+2256,kiran janjani,My Friend Ganesha
+2257,mushtaq khan,My Friend Ganesha
+2258,dharmendra,Johnny Gaddaar
+2259,rimi sen,Johnny Gaddaar
+2260,ashwini khalsekar,Johnny Gaddaar
+2261,neil nitin mukesh,Johnny Gaddaar
+2262,jimmy shergill,Hastey Hastey Follow Your Heart
+2263,rajpal yadav,Hastey Hastey Follow Your Heart
+2264,shakti kapoor,Hastey Hastey Follow Your Heart
+2265,ann marie seall,Hastey Hastey Follow Your Heart
+2266,mona ambegaonkar,Buddha Mar Gaya
+2267,jitender bhargava,Buddha Mar Gaya
+2268,birbal,Buddha Mar Gaya
+2269,heenaa biswas,Buddha Mar Gaya
+2270,sunil pal,Journey Bombay to Goa: Laughter Unlimited
+2271,raju srivastava,Journey Bombay to Goa: Laughter Unlimited
+2272,vijay raaz,Journey Bombay to Goa: Laughter Unlimited
+2273,ehsaan qureshi,Journey Bombay to Goa: Laughter Unlimited
+2274,salman khan,Wanted
+2275,ayesha takia,Wanted
+2276,vinod khanna,Wanted
+2277,mahesh manjrekar,Wanted
+2278,bharati achrekar,Hello
+2279,amrita arora,Hello
+2280,sharman joshi,Hello
+2281,katrina kaif,Hello
+2282,muzammil ibrahim,Dhokha
+2283,tulip joshi,Dhokha
+2284,aushima sawhney,Dhokha
+2285,bharat dabholkar,Dhokha
+2286,akshay kumar,Chandni Chowk to China
+2287,deepika padukone,Chandni Chowk to China
+2288,mithun chakraborty,Chandni Chowk to China
+2289,ranvir shorey,Chandni Chowk to China
+2290,amrita arora,Golmaal Returns
+2291,leigh barwell,Golmaal Returns
+2292,robin bhatt,Golmaal Returns
+2293,ajay devgn,Golmaal Returns
+2294,shahid kapoor,Jab We Met
+2295,kareena kapoor,Jab We Met
+2296,tarun arora,Jab We Met
+2297,dara singh,Jab We Met
+2298,brian dawson,Sab Kuch Hai Kuch Bhi Nahin
+2299,vikram gokhale,Sab Kuch Hai Kuch Bhi Nahin
+2300,puja gupta,Sab Kuch Hai Kuch Bhi Nahin
+2301,a.k. hangal,Sab Kuch Hai Kuch Bhi Nahin
+2302,anupam kher,Victoria No. 203: Diamonds Are Forever
+2303,om puri,Victoria No. 203: Diamonds Are Forever
+2304,jimmy shergill,Victoria No. 203: Diamonds Are Forever
+2305,soniya mehra,Victoria No. 203: Diamonds Are Forever
+2306,imaaduddin shah,Dil Dosti Etc
+2307,shreyas talpade,Dil Dosti Etc
+2308,smriti mishra,Dil Dosti Etc
+2309,nikita anand,Dil Dosti Etc
+2310,rahul bose,Shaurya: It Takes Courage to Make Right... Right
+2311,javed jaffrey,Shaurya: It Takes Courage to Make Right... Right
+2312,minissha lamba,Shaurya: It Takes Courage to Make Right... Right
+2313,seema biswas,Shaurya: It Takes Courage to Make Right... Right
+2314,akshay kumar,8 x 10 Tasveer
+2315,ayesha takia,8 x 10 Tasveer
+2316,javed jaffrey,8 x 10 Tasveer
+2317,girish karnad,8 x 10 Tasveer
+2318,shahid kapoor,Kismat Konnection
+2319,vidya balan,Kismat Konnection
+2320,vishal malhotra,Kismat Konnection
+2321,om puri,Kismat Konnection
+2322,salman khan,Yuvvraaj
+2323,anil kapoor,Yuvvraaj
+2324,zayed khan,Yuvvraaj
+2325,mithun chakraborty,Yuvvraaj
+2326,sohail khan,Heroes
+2327,vatsal seth,Heroes
+2328,amrita arora,Heroes
+2329,riya sen,Heroes
+2330,monalisa,Bobby: Love and Lust
+2331,usha bachani,Bobby: Love and Lust
+2332,gaurav dixit,Bobby: Love and Lust
+2333,milind gunaji,Bobby: Love and Lust
+2334,gracy singh,Aseema: Beyond Boundaries
+2335,asseem merchant,Aseema: Beyond Boundaries
+2336,neha pendse,Aseema: Beyond Boundaries
+2337,aryan singh,Aseema: Beyond Boundaries
+2338,john abraham,Dhan Dhana Dhan Goal
+2339,arshad warsi,Dhan Dhana Dhan Goal
+2340,bipasha basu,Dhan Dhana Dhan Goal
+2341,boman irani,Dhan Dhana Dhan Goal
+2342,bipasha basu,Pankh
+2343,lillete dubey,Pankh
+2344,mahesh manjrekar,Pankh
+2345,ronit roy,Pankh
+2346,govinda,Money Hai Toh Honey Hai
+2347,manoj bajpayee,Money Hai Toh Honey Hai
+2348,aftab shivdasani,Money Hai Toh Honey Hai
+2349,upen patel,Money Hai Toh Honey Hai
+2350,linda arsenio,Mumbai Salsa
+2351,shaurya chauhan,Mumbai Salsa
+2352,alisha chinoi,Mumbai Salsa
+2353,vir das,Mumbai Salsa
+2354,shiney ahuja,Hijack
+2355,mona ambegaonkar,Hijack
+2356,ishita chauhan,Hijack
+2357,mukesh chhabra,Hijack
+2358,mallika sherawat,Maan Gaye Mughall-E-Azam
+2359,rahul bose,Maan Gaye Mughall-E-Azam
+2360,paresh rawal,Maan Gaye Mughall-E-Azam
+2361,kay kay menon,Maan Gaye Mughall-E-Azam
+2362,mallika sherawat,Ugly Aur Pagli
+2363,ranvir shorey,Ugly Aur Pagli
+2364,bharati achrekar,Ugly Aur Pagli
+2365,zeenat aman,Ugly Aur Pagli
+2366,naveen bawa,Aabra Ka Daabra
+2367,satish kaushik,Aabra Ka Daabra
+2368,anupam kher,Aabra Ka Daabra
+2369,krrishna,Aabra Ka Daabra
+2370,neha dhupia,Rama Rama Kya Hai Dramaaa
+2371,amrita arora,Rama Rama Kya Hai Dramaaa
+2372,anupam kher,Rama Rama Kya Hai Dramaaa
+2373,rati agnihotri,Rama Rama Kya Hai Dramaaa
+2374,rajat bakshi,Yeh Hai Pyar Ka Mausam
+2375,rajesh bakshi,Yeh Hai Pyar Ka Mausam
+2376,prem chabra,Yeh Hai Pyar Ka Mausam
+2377,harish ghera,Yeh Hai Pyar Ka Mausam
+2378,sylvester stallone,Kambakkht Ishq
+2379,brandon routh,Kambakkht Ishq
+2380,denise richards,Kambakkht Ishq
+2381,whoopi goldberg,Kambakkht Ishq
+2382,akshay kumar,Singh Is Kinng
+2383,katrina kaif,Singh Is Kinng
+2384,om puri,Singh Is Kinng
+2385,kiron kher,Singh Is Kinng
+2386,himesh reshammiya,Karzzzz
+2387,urmila matondkar,Karzzzz
+2388,shweta kumar,Karzzzz
+2389,dino morea,Karzzzz
+2390,shreyas talpade,Bombay to Bangkok
+2391,lena christensen,Bombay to Bangkok
+2392,vijay maurya,Bombay to Bangkok
+2393,manmeet singh,Bombay to Bangkok
+2394,aamir khan,Ghajini
+2395,asin,Ghajini
+2396,jiah khan,Ghajini
+2397,tinnu anand,Ghajini
+2398,tusshar kapoor,C Kkompany
+2399,anupam kher,C Kkompany
+2400,rajpal yadav,C Kkompany
+2401,raima sen,C Kkompany
+2402,paresh rawal,Mere Baap Pehle Aap
+2403,akshaye khanna,Mere Baap Pehle Aap
+2404,genelia d'souza,Mere Baap Pehle Aap
+2405,om puri,Mere Baap Pehle Aap
+2406,harman baweja,Victory
+2407,allan border,Victory
+2408,mike hussey,Victory
+2409,simon jones,Victory
+2410,cary elwes,Delhi Safari
+2411,christopher lloyd,Delhi Safari
+2412,troy baker,Delhi Safari
+2413,tom kenny,Delhi Safari
+2414,kareena kapoor,Main Aurr Mrs Khanna
+2415,salman khan,Main Aurr Mrs Khanna
+2416,sohail khan,Main Aurr Mrs Khanna
+2417,yash tonk,Main Aurr Mrs Khanna
+2418,vikas anand,Zahreela
+2419,asrani,Zahreela
+2420,mithun chakraborty,Zahreela
+2421,gulshan grover,Zahreela
+2422,delhi ganesh,Jai Ganesh Deva
+2423,jai ganesh,Jai Ganesh Deva
+2424,nizhalgal ravi,Jai Ganesh Deva
+2425,radha ravi,Jai Ganesh Deva
+2426,rajendraprasad,Quick Gun Murugun: Misadventures of an Indian Cowboy
+2427,nasser,Quick Gun Murugun: Misadventures of an Indian Cowboy
+2428,rambha,Quick Gun Murugun: Misadventures of an Indian Cowboy
+2429,raju sundaram,Quick Gun Murugun: Misadventures of an Indian Cowboy
+2430,neetu chandra,One Two Three
+2431,esha deol,One Two Three
+2432,vrajesh hirjee,One Two Three
+2433,tusshar kapoor,One Two Three
+2434,shreyas talpade,Paying Guests
+2435,javed jaffrey,Paying Guests
+2436,aashish chaudhary,Paying Guests
+2437,vatsal seth,Paying Guests
+2438,kunal khemu,Superstar
+2439,tulip joshi,Superstar
+2440,aushima sawhney,Superstar
+2441,apoorva s. badgaiyan,Superstar
+2442,vivek oberoi,Mission Istaanbul: Darr Ke Aagey Jeet Hai!
+2443,zayed khan,Mission Istaanbul: Darr Ke Aagey Jeet Hai!
+2444,shriya saran,Mission Istaanbul: Darr Ke Aagey Jeet Hai!
+2445,shabbir ahluwalia,Mission Istaanbul: Darr Ke Aagey Jeet Hai!
+2446,ranvir shorey,Mithya
+2447,neha dhupia,Mithya
+2448,naseeruddin shah,Mithya
+2449,saurabh shukla,Mithya
+2450,sushmita sen,Dulha Mil Gaya
+2451,fardeen khan,Dulha Mil Gaya
+2452,ishita sharma,Dulha Mil Gaya
+2453,shah rukh khan,Dulha Mil Gaya
+2454,juhi chawla,Krazzy 4
+2455,irrfan khan,Krazzy 4
+2456,arshad warsi,Krazzy 4
+2457,rajpal yadav,Krazzy 4
+2458,shah rukh khan,Rab Ne Bana Di Jodi
+2459,vinay pathak,Rab Ne Bana Di Jodi
+2460,anushka sharma,Rab Ne Bana Di Jodi
+2461,m.k. raina,Rab Ne Bana Di Jodi
+2462,ranbir kapoor,Bachna Ae Haseeno
+2463,bipasha basu,Bachna Ae Haseeno
+2464,minissha lamba,Bachna Ae Haseeno
+2465,deepika padukone,Bachna Ae Haseeno
+2466,amitabh bachchan,Teen Patti
+2467,madhavan,Teen Patti
+2468,shraddha kapoor,Teen Patti
+2469,siddharth kher,Teen Patti
+2470,rekha,Sadiyaan: Boundaries Divide... Love Unites
+2471,hema malini,Sadiyaan: Boundaries Divide... Love Unites
+2472,javed sheikh,Sadiyaan: Boundaries Divide... Love Unites
+2473,avtar gill,Sadiyaan: Boundaries Divide... Love Unites
+2474,kay kay menon,The Stoneman Murders
+2475,arbaaz khan,The Stoneman Murders
+2476,rukhsar,The Stoneman Murders
+2477,veerendra saxena,The Stoneman Murders
+2478,salman khan,Veer
+2479,mithun chakraborty,Veer
+2480,jackie shroff,Veer
+2481,sohail khan,Veer
+2482,abhishek bachchan,Dostana
+2483,john abraham,Dostana
+2484,priyanka chopra,Dostana
+2485,kiron kher,Dostana
+2486,kareena kapoor,Kurbaan
+2487,saif ali khan,Kurbaan
+2488,om puri,Kurbaan
+2489,vivek oberoi,Kurbaan
+2490,aamir khan,3 Idiots
+2491,kareena kapoor,3 Idiots
+2492,madhavan,3 Idiots
+2493,sharman joshi,3 Idiots
+2494,salman khan,Jai Ho
+2495,tabu,Jai Ho
+2496,sunil shetty,Jai Ho
+2497,genelia d'souza,Jai Ho
+2498,shah rukh khan,My Name Is Khan
+2499,kajol,My Name Is Khan
+2500,katie a. keane,My Name Is Khan
+2501,kenton duty,My Name Is Khan
+2502,ajay devgn,Toonpur Ka Superrhero
+2503,sanjay dutt,Toonpur Ka Superrhero
+2504,delnaaz irani,Toonpur Ka Superrhero
+2505,chinky jaiswal,Toonpur Ka Superrhero
+2506,gul panag,Hello Darling
+2507,celina jaitly,Hello Darling
+2508,isha koppikar,Hello Darling
+2509,chunky pandey,Hello Darling
+2510,rishi kapoor,Thoda Pyaar Thoda Magic
+2511,saif ali khan,Thoda Pyaar Thoda Magic
+2512,rani mukerji,Thoda Pyaar Thoda Magic
+2513,akshat chopra,Thoda Pyaar Thoda Magic
+2514,priyanka chopra,Jaane Kahan Se Aayi Hai
+2515,akshay kumar,Jaane Kahan Se Aayi Hai
+2516,jacqueline fernandez,Jaane Kahan Se Aayi Hai
+2517,karan johar,Jaane Kahan Se Aayi Hai
+2518,nana patekar,Get Educated: Paathshaala
+2519,shahid kapoor,Get Educated: Paathshaala
+2520,ayesha takia,Get Educated: Paathshaala
+2521,sushant singh,Get Educated: Paathshaala
+2522,isha koppikar,Ek Vivaah... Aisa Bhi
+2523,sonu sood,Ek Vivaah... Aisa Bhi
+2524,anand abhyankar,Ek Vivaah... Aisa Bhi
+2525,daman baggan,Ek Vivaah... Aisa Bhi
+2526,hrithik roshan,Kites
+2527,bárbara mori,Kites
+2528,steven michael quezada,Kites
+2529,kangana ranaut,Kites
+2530,gaurav kapoor,Bad Luck Govind
+2531,hrishitaa bhatt,Bad Luck Govind
+2532,govind namdeo,Bad Luck Govind
+2533,zakir hussain,Bad Luck Govind
+2534,manisha koirala,Tulsi: Mathrudevobhava
+2535,irrfan khan,Tulsi: Mathrudevobhava
+2536,sadashiv amrapurkar,Tulsi: Mathrudevobhava
+2537,tinnu anand,Tulsi: Mathrudevobhava
+2538,fardeen khan,Acid Factory
+2539,dia mirza,Acid Factory
+2540,manoj bajpayee,Acid Factory
+2541,aftab shivdasani,Acid Factory
+2542,chetanya adeep,Ab... Bas!
+2543,shawar ali,Ab... Bas!
+2544,arun bakshi,Ab... Bas!
+2545,chitrapama,Ab... Bas!
+2546,naseeruddin shah,Barah Aana
+2547,vijay raaz,Barah Aana
+2548,arjun mathur,Barah Aana
+2549,violante placido,Barah Aana
+2550,shahid kapoor,Dil Bole Hadippa!
+2551,rani mukerji,Dil Bole Hadippa!
+2552,anupam kher,Dil Bole Hadippa!
+2553,dalip tahil,Dil Bole Hadippa!
+2554,dino morea,Bhram: An Illusion
+2555,milind soman,Bhram: An Illusion
+2556,sheetal menon,Bhram: An Illusion
+2557,simone singh,Bhram: An Illusion
+2558,ajita,26th July at Barista
+2559,himani chawla,26th July at Barista
+2560,sumeet chawla,26th July at Barista
+2561,suresh dubey,26th July at Barista
+2562,emraan hashmi,Jannat: In Search of Heaven...
+2563,sonal chauhan,Jannat: In Search of Heaven...
+2564,shakeel khan,Jannat: In Search of Heaven...
+2565,sameer kochhar,Jannat: In Search of Heaven...
+2566,amitabh bachchan,Yaar Meri Zindagi
+2567,shatrughan sinha,Yaar Meri Zindagi
+2568,sharda,Yaar Meri Zindagi
+2569,sudha chandran,Yaar Meri Zindagi
+2570,konkona sen sharma,The President Is Coming
+2571,shernaz patel,The President Is Coming
+2572,shivani tanksale,The President Is Coming
+2573,anand tiwari,The President Is Coming
+2574,irrfan khan,Dil Kabaddi
+2575,rahul bose,Dil Kabaddi
+2576,rahul khanna,Dil Kabaddi
+2577,konkona sen sharma,Dil Kabaddi
+2578,kay kay menon,Via Darjeeling
+2579,sonali kulkarni,Via Darjeeling
+2580,parvin dabas,Via Darjeeling
+2581,vinay pathak,Via Darjeeling
+2582,malaika arora,EMI: Liya Hai To Chukana Padega
+2583,arun bakshi,EMI: Liya Hai To Chukana Padega
+2584,aashish chaudhary,EMI: Liya Hai To Chukana Padega
+2585,snehal dabi,EMI: Liya Hai To Chukana Padega
+2586,shreyas talpade,Welcome to Sajjanpur
+2587,amrita rao,Welcome to Sajjanpur
+2588,ravi kishan,Welcome to Sajjanpur
+2589,ila arun,Welcome to Sajjanpur
+2590,raj singh arora,Mumbai Cutting
+2591,abhisar bose,Mumbai Cutting
+2592,neetu chandra,Mumbai Cutting
+2593,master chinmay,Mumbai Cutting
+2594,akshay kumar,Blue
+2595,sanjay dutt,Blue
+2596,lara dutta,Blue
+2597,zayed khan,Blue
+2598,kay kay menon,Sirf....: Life Looks Greener on the Other Side
+2599,manisha koirala,Sirf....: Life Looks Greener on the Other Side
+2600,ranvir shorey,Sirf....: Life Looks Greener on the Other Side
+2601,sonali kulkarni,Sirf....: Life Looks Greener on the Other Side
+2602,john abraham,Aashayein
+2603,anaitha nair,Aashayein
+2604,girish karnad,Aashayein
+2605,farida jalal,Aashayein
+2606,shubhankar atre,Aladin
+2607,amitabh bachchan,Aladin
+2608,victor banerjee,Aladin
+2609,dhaval barbhaya,Aladin
+2610,mimoh chakraborty,Jimmy
+2611,rati agnihotri,Jimmy
+2612,vikas anand,Jimmy
+2613,rahul dev,Jimmy
+2614,sunil shetty,Mr. White Mr. Black
+2615,arshad warsi,Mr. White Mr. Black
+2616,sadashiv amrapurkar,Mr. White Mr. Black
+2617,deep dhillon,Mr. White Mr. Black
+2618,nargis bagheri,Pranali: The Tradition
+2619,upendra limaye,Pranali: The Tradition
+2620,sudha chandran,Pranali: The Tradition
+2621,raman trikha,Pranali: The Tradition
+2622,arjun rampal,Rock On!!
+2623,farhan akhtar,Rock On!!
+2624,luke kenny,Rock On!!
+2625,purab kohli,Rock On!!
+2626,irrfan khan,Billu
+2627,shah rukh khan,Billu
+2628,lara dutta,Billu
+2629,om puri,Billu
+2630,sanjay dutt,Mehbooba
+2631,manisha koirala,Mehbooba
+2632,ajay devgn,Mehbooba
+2633,asrani,Mehbooba
+2634,mithun chakraborty,Phir Kabhi
+2635,dimple kapadia,Phir Kabhi
+2636,rati agnihotri,Phir Kabhi
+2637,gulshan grover,Phir Kabhi
+2638,azghar,Alibaba Aur 40 Chor
+2639,brownie,Alibaba Aur 40 Chor
+2640,divya divedi,Alibaba Aur 40 Chor
+2641,anwar fatehan,Alibaba Aur 40 Chor
+2642,jackie shroff,Dhoom Dadakka
+2643,anupam kher,Dhoom Dadakka
+2644,satish shah,Dhoom Dadakka
+2645,gulshan grover,Dhoom Dadakka
+2646,rajeev khandelwal,Aamir
+2647,aishwarya,Aamir
+2648,vasan bala,Aamir
+2649,chinkal,Aamir
+2650,kiron kher,Saas Bahu Aur Sensex
+2651,farooq shaikh,Saas Bahu Aur Sensex
+2652,ankur khanna,Saas Bahu Aur Sensex
+2653,masumeh makhija,Saas Bahu Aur Sensex
+2654,harman baweja,What's Your Raashee?
+2655,priyanka chopra,What's Your Raashee?
+2656,anjan srivastav,What's Your Raashee?
+2657,manju singh,What's Your Raashee?
+2658,mithun chakraborty,Luck
+2659,sanjay dutt,Luck
+2660,imran khan,Luck
+2661,ravi kishan,Luck
+2662,david bueno,Contract
+2663,vibha cheebur,Contract
+2664,raaj gopal,Contract
+2665,sakshi gulati,Contract
+2666,mallika sherawat,Hisss
+2667,irrfan khan,Hisss
+2668,jeff doucette,Hisss
+2669,divya dutta,Hisss
+2670,neil nitin mukesh,Jail
+2671,manoj bajpayee,Jail
+2672,arya babbar,Jail
+2673,mirza ali quli,Jail
+2674,amita pathak,Haal-e-Dil
+2675,nakuul mehta,Haal-e-Dil
+2676,adhyayan suman,Haal-e-Dil
+2677,nassar abdulla,Haal-e-Dil
+2678,rishi rehan,Khushboo: The Fragraance of Love
+2679,avantika,Khushboo: The Fragraance of Love
+2680,thomas tevana,Khushboo: The Fragraance of Love
+2681,nassar abdulla,Khushboo: The Fragraance of Love
+2682,hrishitaa bhatt,Aasma: The Sky Is the Limit
+2683,seema biswas,Aasma: The Sky Is the Limit
+2684,nauheed cyrusi,Aasma: The Sky Is the Limit
+2685,mansi dovhal,Aasma: The Sky Is the Limit
+2686,katrina kaif,Ajab Prem Ki Ghazab Kahani
+2687,ranbir kapoor,Ajab Prem Ki Ghazab Kahani
+2688,darshan jariwala,Ajab Prem Ki Ghazab Kahani
+2689,smita jaykar,Ajab Prem Ki Ghazab Kahani
+2690,kay kay menon,Sankat City
+2691,rimi sen,Sankat City
+2692,anupam kher,Sankat City
+2693,chunky pandey,Sankat City
+2694,jackie shroff,Hari Puttar: A Comedy of Terrors
+2695,sarika,Hari Puttar: A Comedy of Terrors
+2696,saurabh shukla,Hari Puttar: A Comedy of Terrors
+2697,vijay raaz,Hari Puttar: A Comedy of Terrors
+2698,akshay kumar,De Dana Dan
+2699,sunil shetty,De Dana Dan
+2700,katrina kaif,De Dana Dan
+2701,sameera reddy,De Dana Dan
+2702,navin berry,Boond
+2703,pankaj berry,Boond
+2704,birbal,Boond
+2705,sudhir dalvi,Boond
+2706,ahraz ahmed,Summer 2007
+2707,punit aneja,Summer 2007
+2708,arjan bajwa,Summer 2007
+2709,neetu chandra,Summer 2007
+2710,kay kay menon,Gulaal
+2711,raj singh chaudhary,Gulaal
+2712,jesse randhawa,Gulaal
+2713,deepak dobriyal,Gulaal
+2714,bobby khan,Mirchi: It's Hot
+2715,nilofer khan,Mirchi: It's Hot
+2716,sambhavna sheth,Mirchi: It's Hot
+2717,nirmal pandey,Mirchi: It's Hot
+2718,bobby deol,Chamku
+2719,priyanka chopra,Chamku
+2720,irrfan khan,Chamku
+2721,akhilendra mishra,Chamku
+2722,paresh rawal,Mumbai Meri Jaan
+2723,kay kay menon,Mumbai Meri Jaan
+2724,irrfan khan,Mumbai Meri Jaan
+2725,madhavan,Mumbai Meri Jaan
+2726,saahil chadha,Thodi Life Thoda Magic
+2727,arbaaz khan,Thodi Life Thoda Magic
+2728,anita raj,Thodi Life Thoda Magic
+2729,jackie shroff,Thodi Life Thoda Magic
+2730,sudeep,Phoonk
+2731,amruta khanvilkar,Phoonk
+2732,ahsaas channa,Phoonk
+2733,ashwini khalsekar,Phoonk
+2734,shahid kapoor,Kaminey: The Scoundrels
+2735,priyanka chopra,Kaminey: The Scoundrels
+2736,deb mukherjee,Kaminey: The Scoundrels
+2737,shivkumar subramaniam,Kaminey: The Scoundrels
+2738,saif ali khan,Love Aaj Kal
+2739,deepika padukone,Love Aaj Kal
+2740,rishi kapoor,Love Aaj Kal
+2741,rahul khanna,Love Aaj Kal
+2742,parzan dastur,Sikandar
+2743,ayesha kapoor,Sikandar
+2744,sanjay suri,Sikandar
+2745,madhavan,Sikandar
+2746,sahil khan,Ramaa: The Saviour
+2747,tanushree dutta,Ramaa: The Saviour
+2748,meghan jadhav,Ramaa: The Saviour
+2749,koushtuv ghosh,Ramaa: The Saviour
+2750,anupam kher,A Wednesday
+2751,naseeruddin shah,A Wednesday
+2752,jimmy shergill,A Wednesday
+2753,deepal shaw,A Wednesday
+2754,harsh chhaya,My Friend Ganesha 2
+2755,kurush deboo,My Friend Ganesha 2
+2756,bhairavi goswami,My Friend Ganesha 2
+2757,ali haji,My Friend Ganesha 2
+2758,shah rukh khan,Don 2
+2759,priyanka chopra,Don 2
+2760,hrithik roshan,Don 2
+2761,om puri,Don 2
+2762,farooq shaikh,Lahore
+2763,nafisa ali,Lahore
+2764,aanaahad,Lahore
+2765,sabyasachi chakraborty,Lahore
+2766,sammir dattani,Mukhbiir
+2767,rahul dev,Mukhbiir
+2768,om puri,Mukhbiir
+2769,alok nath,Mukhbiir
+2770,vinay pathak,Dasvidaniya
+2771,sarita joshi,Dasvidaniya
+2772,rajat kapoor,Dasvidaniya
+2773,saurabh shukla,Dasvidaniya
+2774,randeep hooda,Mere Khwabon Mein Jo Aaye
+2775,raima sen,Mere Khwabon Mein Jo Aaye
+2776,arbaaz khan,Mere Khwabon Mein Jo Aaye
+2777,javed akhtar,Mere Khwabon Mein Jo Aaye
+2778,naseeruddin shah,Raajneeti
+2779,arjun rampal,Raajneeti
+2780,nana patekar,Raajneeti
+2781,ranbir kapoor,Raajneeti
+2782,varun bhagwat,Allah Ke Banday
+2783,vikram gokhale,Allah Ke Banday
+2784,zakir hussain,Allah Ke Banday
+2785,bharat jha,Allah Ke Banday
+2786,abhay deol,Oye Lucky! Lucky Oye!
+2787,paresh rawal,Oye Lucky! Lucky Oye!
+2788,neetu chandra,Oye Lucky! Lucky Oye!
+2789,archana puran singh,Oye Lucky! Lucky Oye!
+2790,rajneesh duggal,1920
+2791,adah sharma,1920
+2792,anjori alagh,1920
+2793,rajendranath zutshi,1920
+2794,aftab shivdasani,Aloo Chaat
+2795,aamna shariff,Aloo Chaat
+2796,linda arsenio,Aloo Chaat
+2797,sanjay mishra,Aloo Chaat
+2798,alisha,Lamhaa: The Untold Story of Kashmir
+2799,asif basra,Lamhaa: The Untold Story of Kashmir
+2800,bipasha basu,Lamhaa: The Untold Story of Kashmir
+2801,burhan,Lamhaa: The Untold Story of Kashmir
+2802,sushant singh,Hulla
+2803,kartika rane,Hulla
+2804,rajat kapoor,Hulla
+2805,mandeep mazumdar,Hulla
+2806,rati agnihotri,Ru-Ba-Ru
+2807,shahana goswami,Ru-Ba-Ru
+2808,randeep hooda,Ru-Ba-Ru
+2809,kulbhushan kharbanda,Ru-Ba-Ru
+2810,sadashiv amrapurkar,Rafoo Chakkar: Fun on the Run
+2811,tinnu anand,Rafoo Chakkar: Fun on the Run
+2812,nauheed cyrusi,Rafoo Chakkar: Fun on the Run
+2813,shakti kapoor,Rafoo Chakkar: Fun on the Run
+2814,ranbir kapoor,Wake Up Sid
+2815,konkona sen sharma,Wake Up Sid
+2816,supriya pathak,Wake Up Sid
+2817,anupam kher,Wake Up Sid
+2818,arjun rampal,Fox
+2819,sunny deol,Fox
+2820,udita goswami,Fox
+2821,sagarika ghatge,Fox
+2822,brahim achabbakhe,Kal Kissne Dekha
+2823,jacky bhagnani,Kal Kissne Dekha
+2824,nushrat bharucha,Kal Kissne Dekha
+2825,david bueno,Kal Kissne Dekha
+2826,abhay deol,Dev D
+2827,mahie gill,Dev D
+2828,kalki koechlin,Dev D
+2829,dibyendu bhattacharya,Dev D
+2830,shabana azmi,Sorry Bhai!
+2831,boman irani,Sorry Bhai!
+2832,sanjay suri,Sorry Bhai!
+2833,sharman joshi,Sorry Bhai!
+2834,john abraham,New York
+2835,neil nitin mukesh,New York
+2836,katrina kaif,New York
+2837,irrfan khan,New York
+2838,naseeruddin shah,Maharathi
+2839,om puri,Maharathi
+2840,boman irani,Maharathi
+2841,paresh rawal,Maharathi
+2842,akshay kumar,Jumbo
+2843,lara dutta,Jumbo
+2844,dimple kapadia,Jumbo
+2845,rajpal yadav,Jumbo
+2846,rajit kapoor,Blue Oranges
+2847,aham sharma,Blue Oranges
+2848,pooja kanwal,Blue Oranges
+2849,richashree,Blue Oranges
+2850,abhishek bachchan,Raavan
+2851,aishwarya rai bachchan,Raavan
+2852,govinda,Raavan
+2853,'chiyaan' vikram,Raavan
+2854,ganesh acharya,Jalwa: Fun in Love
+2855,neha bhatt,Jalwa: Fun in Love
+2856,daisy,Jalwa: Fun in Love
+2857,ali g.,Jalwa: Fun in Love
+2858,kangana ranaut,Raaz: The Mystery Continues
+2859,adhyayan suman,Raaz: The Mystery Continues
+2860,emraan hashmi,Raaz: The Mystery Continues
+2861,vicky ahuja,Raaz: The Mystery Continues
+2862,govinda,Do Knot Disturb
+2863,sushmita sen,Do Knot Disturb
+2864,ritesh deshmukh,Do Knot Disturb
+2865,lara dutta,Do Knot Disturb
+2866,naseeruddin shah,Ishqiya
+2867,vidya balan,Ishqiya
+2868,arshad warsi,Ishqiya
+2869,salman shahid,Ishqiya
+2870,uday chopra,Pyaar Impossible!
+2871,priyanka chopra,Pyaar Impossible!
+2872,dino morea,Pyaar Impossible!
+2873,rahul vohra,Pyaar Impossible!
+2874,govinda,Naughty @ 40
+2875,yuvika chaudhry,Naughty @ 40
+2876,anupam kher,Naughty @ 40
+2877,smita jaykar,Naughty @ 40
+2878,sanjay dutt,Chatur Singh Two Star
+2879,ameesha patel,Chatur Singh Two Star
+2880,anupam kher,Chatur Singh Two Star
+2881,satish kaushik,Chatur Singh Two Star
+2882,dev anand,Chargesheet
+2883,divya dutta,Chargesheet
+2884,devshi khanduri,Chargesheet
+2885,hansal mehta,Chargesheet
+2886,rakesh bedi,Jai Veeru: Friends Forever
+2887,mahek chahal,Jai Veeru: Friends Forever
+2888,suraj godambe,Jai Veeru: Friends Forever
+2889,dinesh hingoo,Jai Veeru: Friends Forever
+2890,kunal khemu,99
+2891,boman irani,99
+2892,soha ali khan,99
+2893,cyrus broacha,99
+2894,jackie shroff,Kisaan
+2895,sohail khan,Kisaan
+2896,arbaaz khan,Kisaan
+2897,nauheed cyrusi,Kisaan
+2898,rajesh khanna,Wafaa
+2899,shahib chopra,Wafaa
+2900,laila khan,Wafaa
+2901,ahad khan,Wafaa
+2902,neil nitin mukesh,Aa Dekhen Zara
+2903,bipasha basu,Aa Dekhen Zara
+2904,biswajeet chatterjee,Aa Dekhen Zara
+2905,sophiya chaudhary,Aa Dekhen Zara
+2906,dino morea,Gumnaam: The Mystery
+2907,mahima chaudhry,Gumnaam: The Mystery
+2908,suman ranganathan,Gumnaam: The Mystery
+2909,arun bali,Gumnaam: The Mystery
+2910,farhan akhtar,Karthik Calling Karthik
+2911,deepika padukone,Karthik Calling Karthik
+2912,ram kapoor,Karthik Calling Karthik
+2913,vivan bhatena,Karthik Calling Karthik
+2914,anil kapoor,Race 2
+2915,saif ali khan,Race 2
+2916,john abraham,Race 2
+2917,deepika padukone,Race 2
+2918,madhavan,13B: Fear Has a New Address
+2919,neetu chandra,13B: Fear Has a New Address
+2920,poonam dhillon,13B: Fear Has a New Address
+2921,sachin khedekar,13B: Fear Has a New Address
+2922,aashish chaudhary,Three: Love Lies Betrayal
+2923,akshay kapoor,Three: Love Lies Betrayal
+2924,nausheen ali sardar,Three: Love Lies Betrayal
+2925,achint kaur,Three: Love Lies Betrayal
+2926,arunoday singh,Mirch
+2927,boman irani,Mirch
+2928,ila arun,Mirch
+2929,konkona sen sharma,Mirch
+2930,paresh rawal,Dhoondte Reh Jaoge
+2931,kunal khemu,Dhoondte Reh Jaoge
+2932,sonu sood,Dhoondte Reh Jaoge
+2933,soha ali khan,Dhoondte Reh Jaoge
+2934,rajat kapoor,Siddharth: The Prisoner
+2935,sachin nayak,Siddharth: The Prisoner
+2936,pradip sagar,Siddharth: The Prisoner
+2937,pradeep kabra,Siddharth: The Prisoner
+2938,shahid kapoor,Chance Pe Dance
+2939,genelia d'souza,Chance Pe Dance
+2940,mohnish bahl,Chance Pe Dance
+2941,satish shah,Chance Pe Dance
+2942,kareena kapoor,Agent Vinod
+2943,saif ali khan,Agent Vinod
+2944,adil hussain,Agent Vinod
+2945,gulshan grover,Agent Vinod
+2946,ajay devgn,Once Upon a Time in Mumbai
+2947,randeep hooda,Once Upon a Time in Mumbai
+2948,kangana ranaut,Once Upon a Time in Mumbai
+2949,emraan hashmi,Once Upon a Time in Mumbai
+2950,akshay kumar,Action Replayy
+2951,aishwarya rai bachchan,Action Replayy
+2952,om puri,Action Replayy
+2953,kiron kher,Action Replayy
+2954,vinay pathak,Straight
+2955,gul panag,Straight
+2956,anuj chaudhary,Straight
+2957,siddharth makkar,Straight
+2958,sunil shetty,Daddy Cool: Join the Fun
+2959,aarti chhabria,Daddy Cool: Join the Fun
+2960,aashish chaudhary,Daddy Cool: Join the Fun
+2961,kim sharma,Daddy Cool: Join the Fun
+2962,jahan bloch,Krantiveer: The Revolution
+2963,samir aftab,Krantiveer: The Revolution
+2964,aditya rajput,Krantiveer: The Revolution
+2965,harsh rajput,Krantiveer: The Revolution
+2966,nitin,Agyaat: The Unknown
+2967,priyanka kothari,Agyaat: The Unknown
+2968,rasika dugal,Agyaat: The Unknown
+2969,gautam rode,Agyaat: The Unknown
+2970,anita,Ek Se Bure Do
+2971,snehal dabi,Ek Se Bure Do
+2972,anita hassandani,Ek Se Bure Do
+2973,jagdeep,Ek Se Bure Do
+2974,rohit roy,Apartment: Rent at Your Own Risk
+2975,tanushree dutta,Apartment: Rent at Your Own Risk
+2976,neetu chandra,Apartment: Rent at Your Own Risk
+2977,mushtaq khan,Apartment: Rent at Your Own Risk
+2978,kareena kapoor,We Are Family
+2979,kajol,We Are Family
+2980,arjun rampal,We Are Family
+2981,amrita prakash,We Are Family
+2982,anil kapoor,No Problem
+2983,sanjay dutt,No Problem
+2984,kangana ranaut,No Problem
+2985,sunil shetty,No Problem
+2986,sonali kulkarni,Mohandas
+2987,sharbani mukherji,Mohandas
+2988,sushant singh,Mohandas
+2989,nakul vaid,Mohandas
+2990,prateik,Mumbai Diaries
+2991,monica dogra,Mumbai Diaries
+2992,kriti malhotra,Mumbai Diaries
+2993,aamir khan,Mumbai Diaries
+2994,sanjay dutt,All the Best: Fun Begins
+2995,ajay devgn,All the Best: Fun Begins
+2996,fardeen khan,All the Best: Fun Begins
+2997,bipasha basu,All the Best: Fun Begins
+2998,ranbir kapoor,Rocket Singh: Salesman of the Year
+2999,prem chopra,Rocket Singh: Salesman of the Year
+3000,gauhar khan,Rocket Singh: Salesman of the Year
+3001,mukesh bhatt,Rocket Singh: Salesman of the Year
+3002,hrithik roshan,Guzaarish
+3003,aishwarya rai bachchan,Guzaarish
+3004,shernaz patel,Guzaarish
+3005,aditya roy kapoor,Guzaarish
+3006,asrani,Chal Chala Chal
+3007,asif basra,Chal Chala Chal
+3008,govinda,Chal Chala Chal
+3009,manoj joshi,Chal Chala Chal
+3010,vinod khanna,Fast Forward
+3011,akshay kapoor,Fast Forward
+3012,rehan khan,Fast Forward
+3013,bhavna pani,Fast Forward
+3014,nana patekar,Tum Milo Toh Sahi
+3015,dimple kapadia,Tum Milo Toh Sahi
+3016,sunil shetty,Tum Milo Toh Sahi
+3017,vidya malvade,Tum Milo Toh Sahi
+3018,mithun chakraborty,Don Muthu Swami
+3019,ali asghar,Don Muthu Swami
+3020,arun bakshi,Don Muthu Swami
+3021,rakesh bedi,Don Muthu Swami
+3022,omkar das manikpuri,Peepli (Live)
+3023,raghuvir yadav,Peepli (Live)
+3024,shalini vatsa,Peepli (Live)
+3025,farrukh jaffar,Peepli (Live)
+3026,amitabh bachchan,Rann
+3027,ritesh deshmukh,Rann
+3028,gul panag,Rann
+3029,paresh rawal,Rann
+3030,rana jung bahadur,Ek: The Power of One
+3031,jaspal bhatti,Ek: The Power of One
+3032,preeti bhutani,Ek: The Power of One
+3033,bobby deol,Ek: The Power of One
+3034,sohail khan,Team: The Force
+3035,amrita arora,Team: The Force
+3036,yash tonk,Team: The Force
+3037,vrajesh hirjee,Team: The Force
+3038,akshay kumar,Khatta Meetha
+3039,rajpal yadav,Khatta Meetha
+3040,aruna irani,Khatta Meetha
+3041,kulbhushan kharbanda,Khatta Meetha
+3042,vivek oberoi,Prince
+3043,isaiah,Prince
+3044,aruna shields,Prince
+3045,nandana sen,Prince
+3046,jackie shroff,Anubhav: An Actor's Tale
+3047,sanjay suri,Anubhav: An Actor's Tale
+3048,gul panag,Anubhav: An Actor's Tale
+3049,shruti seth,Anubhav: An Actor's Tale
+3050,anay,Happy Husbands
+3051,kurush deboo,Happy Husbands
+3052,mohit ghai,Happy Husbands
+3053,ahwaan,Happy Husbands
+3054,arshad warsi,Hum Tum Aur Ghost
+3055,dia mirza,Hum Tum Aur Ghost
+3056,boman irani,Hum Tum Aur Ghost
+3057,sandhya mridul,Hum Tum Aur Ghost
+3058,paresh rawal,Road to Sangam
+3059,om puri,Road to Sangam
+3060,pavan malhotra,Road to Sangam
+3061,javed sheikh,Road to Sangam
+3062,randeep hooda,Love Khichdi
+3063,rituparna sengupta,Love Khichdi
+3064,sada,Love Khichdi
+3065,divya dutta,Love Khichdi
+3066,shreyas talpade,Aagey Se Right
+3067,bharati achrekar,Aagey Se Right
+3068,shaukat baig,Aagey Se Right
+3069,rakesh bedi,Aagey Se Right
+3070,meghan jadhav,Zor Lagaa Ke... Haiya!
+3071,mithun chakraborty,Zor Lagaa Ke... Haiya!
+3072,riya sen,Zor Lagaa Ke... Haiya!
+3073,seema biswas,Zor Lagaa Ke... Haiya!
+3074,ruslaan mumtaz,Teree Sang: A Kidult Love Story
+3075,sheena shahabadi,Teree Sang: A Kidult Love Story
+3076,rajat kapoor,Teree Sang: A Kidult Love Story
+3077,neena gupta,Teree Sang: A Kidult Love Story
+3078,priyanka chopra,Anjaana Anjaani
+3079,carl marino,Anjaana Anjaani
+3080,ranbir kapoor,Anjaana Anjaani
+3081,aubrey k. miller,Anjaana Anjaani
+3082,nargis bagheri,Morning Walk
+3083,divya dutta,Morning Walk
+3084,avika gor,Morning Walk
+3085,rajit kapoor,Morning Walk
+3086,himesh reshammiya,Damadamm!
+3087,sonal sehgal,Damadamm!
+3088,purbi joshi,Damadamm!
+3089,rajesh khattar,Damadamm!
+3090,joseph armillas,I Am Singh
+3091,anto boghokian,I Am Singh
+3092,elissa brentano,I Am Singh
+3093,gerald brodin,I Am Singh
+3094,sudhanshu pandey,Dhara
+3095,hrishitaa bhatt,Dhara
+3096,anuj punj,Dhara
+3097,suman agarwal,Dhara
+3098,mithun chakraborty,Baabarr
+3099,om puri,Baabarr
+3100,sohum shah,Baabarr
+3101,urvashi sharma,Baabarr
+3102,sonam kapoor,Aisha
+3103,abhay deol,Aisha
+3104,amrita puri,Aisha
+3105,cyrus sahukar,Aisha
+3106,prateik,My Friend Pinto
+3107,kalki koechlin,My Friend Pinto
+3108,arjun mathur,My Friend Pinto
+3109,shruti seth,My Friend Pinto
+3110,bobby deol,Vaada Raha... I Promise
+3111,dwij yadav,Vaada Raha... I Promise
+3112,kangana ranaut,Vaada Raha... I Promise
+3113,mohnish bahl,Vaada Raha... I Promise
+3114,mantra,Tum Mile
+3115,prerna chawla,Tum Mile
+3116,emraan hashmi,Tum Mile
+3117,j. brandon hill,Tum Mile
+3118,amitabh bachchan,Paa
+3119,abhishek bachchan,Paa
+3120,vidya balan,Paa
+3121,paresh rawal,Paa
+3122,rishi kapoor,Patiala House
+3123,dimple kapadia,Patiala House
+3124,akshay kumar,Patiala House
+3125,anushka sharma,Patiala House
+3126,aftab shivdasani,Aao Wish Karein
+3127,aamna shariff,Aao Wish Karein
+3128,rati agnihotri,Aao Wish Karein
+3129,tiku talsania,Aao Wish Karein
+3130,sanjay dutt,Knock Out
+3131,irrfan khan,Knock Out
+3132,kangana ranaut,Knock Out
+3133,gulshan grover,Knock Out
+3134,gayatri patel bahl,Let's Dance
+3135,aqib afzaal,Let's Dance
+3136,ajay chaudhary,Let's Dance
+3137,aabhas yadav,Let's Dance
+3138,mithun chakraborty,Golmaal 3
+3139,ajay devgn,Golmaal 3
+3140,kareena kapoor,Golmaal 3
+3141,tusshar kapoor,Golmaal 3
+3142,arjun rampal,Ra.One
+3143,shah rukh khan,Ra.One
+3144,kareena kapoor,Ra.One
+3145,shahana goswami,Ra.One
+3146,katrina kaif,Zindagi Na Milegi Dobara
+3147,hrithik roshan,Zindagi Na Milegi Dobara
+3148,naseeruddin shah,Zindagi Na Milegi Dobara
+3149,farhan akhtar,Zindagi Na Milegi Dobara
+3150,bobby bahal,"U, Bomsi n Me"
+3151,kenny desai,"U, Bomsi n Me"
+3152,vivek madan,"U, Bomsi n Me"
+3153,vidya malvade,"U, Bomsi n Me"
+3154,farooq shaikh,Accident on Hill Road
+3155,celina jaitly,Accident on Hill Road
+3156,abhimanyu singh,Accident on Hill Road
+3157,rukhsar,Accident on Hill Road
+3158,katrina kaif,Tees Maar Khan
+3159,salman khan,Tees Maar Khan
+3160,akshay kumar,Tees Maar Khan
+3161,farah khan,Tees Maar Khan
+3162,akshay kumar,Housefull
+3163,arjun rampal,Housefull
+3164,deepika padukone,Housefull
+3165,lara dutta,Housefull
+3166,siddharth,Striker
+3167,ankur vikal,Striker
+3168,anupam kher,Striker
+3169,vidya malvade,Striker
+3170,ajay devgn,Atithi Tum Kab Jaoge?
+3171,konkona sen sharma,Atithi Tum Kab Jaoge?
+3172,paresh rawal,Atithi Tum Kab Jaoge?
+3173,satish kaushik,Atithi Tum Kab Jaoge?
+3174,deepika padukone,Break Ke Baad
+3175,imran khan,Break Ke Baad
+3176,lillete dubey,Break Ke Baad
+3177,shahana goswami,Break Ke Baad
+3178,ravi kapoor,World Cupp 2011
+3179,master sagar punjabi,World Cupp 2011
+3180,suresh oberoi,World Cupp 2011
+3181,prem chopra,World Cupp 2011
+3182,anuj saxena,Chase
+3183,udita goswami,Chase
+3184,tarina patel,Chase
+3185,sameer kochhar,Chase
+3186,tinnu anand,Shola: Fire of Love
+3187,rajeev awasthi,Shola: Fire of Love
+3188,mohnish bahl,Shola: Fire of Love
+3189,beena banerjee,Shola: Fire of Love
+3190,shreyas talpade,Click
+3191,sada,Click
+3192,sneha ullal,Click
+3193,rehan khan,Click
+3194,aditya narayan,Shaapit: The Cursed
+3195,shweta agarwal,Shaapit: The Cursed
+3196,shubh joshi,Shaapit: The Cursed
+3197,natasha sinha,Shaapit: The Cursed
+3198,shahid kapoor,Badmaa$h Company
+3199,anushka sharma,Badmaa$h Company
+3200,meiyang chang,Badmaa$h Company
+3201,vir das,Badmaa$h Company
+3202,shahana goswami,Jashnn: The Music Within
+3203,natasha jain,Jashnn: The Music Within
+3204,atul kinagi,Jashnn: The Music Within
+3205,keshav nadkarni,Jashnn: The Music Within
+3206,tabu,Toh Baat Pakki!
+3207,sharman joshi,Toh Baat Pakki!
+3208,yuvika chaudhry,Toh Baat Pakki!
+3209,vatsal seth,Toh Baat Pakki!
+3210,anupam kher,Zokkomon
+3211,manjari phadnis,Zokkomon
+3212,tinnu anand,Zokkomon
+3213,sheeba chaddha,Zokkomon
+3214,paul sidhu,Aakhari Decision
+3215,sumona chakravarti,Aakhari Decision
+3216,anant jog,Aakhari Decision
+3217,nagesh bhonsle,Aakhari Decision
+3218,neil nitin mukesh,Lafangey Parindey
+3219,deepika padukone,Lafangey Parindey
+3220,vijay adhav,Lafangey Parindey
+3221,manish chaudhary,Lafangey Parindey
+3222,arun govil,Lava Kusa: The Warrior Twins
+3223,robert lang,Lava Kusa: The Warrior Twins
+3224,vindu dara singh,Lava Kusa: The Warrior Twins
+3225,gary tantony,Lava Kusa: The Warrior Twins
+3226,mukesh bhatt,Muskurake Dekh Zara
+3227,rajshree choudhary,Muskurake Dekh Zara
+3228,arijit sen gupta,Muskurake Dekh Zara
+3229,om katare,Muskurake Dekh Zara
+3230,hazel croney,Mittal v/s Mittal
+3231,gulshan grover,Mittal v/s Mittal
+3232,iravati harshe,Mittal v/s Mittal
+3233,suchitra krishnamoorthi,Mittal v/s Mittal
+3234,sachin khedekar,City of Gold - Mumbai 1982: Ek Ankahee Kahani
+3235,seema biswas,City of Gold - Mumbai 1982: Ek Ankahee Kahani
+3236,ankush choudhary,City of Gold - Mumbai 1982: Ek Ankahee Kahani
+3237,satish kaushik,City of Gold - Mumbai 1982: Ek Ankahee Kahani
+3238,nushrat bharucha,"LSD: Love, Sex Aur Dhokha"
+3239,anshuman jha,"LSD: Love, Sex Aur Dhokha"
+3240,neha chauhan,"LSD: Love, Sex Aur Dhokha"
+3241,rajkummar rao,"LSD: Love, Sex Aur Dhokha"
+3242,arbaaz khan,Prem Kaa Game
+3243,madhuri bhattacharya,Prem Kaa Game
+3244,tara sharma,Prem Kaa Game
+3245,johnny lever,Prem Kaa Game
+3246,ranveer singh,Wedding Planners
+3247,anushka sharma,Wedding Planners
+3248,manu rishi chadha,Wedding Planners
+3249,manish chaudhary,Wedding Planners
+3250,tanushree dutta,Rokkk
+3251,udita goswami,Rokkk
+3252,shaad randhawa,Rokkk
+3253,sachin khedekar,Rokkk
+3254,vikram aditya,Sanam Hum Aapke Hain...
+3255,narendra bedi,Sanam Hum Aapke Hain...
+3256,chandan,Sanam Hum Aapke Hain...
+3257,aradhana deshpande,Sanam Hum Aapke Hain...
+3258,sudeep,Phoonk 2
+3259,amruta khanvilkar,Phoonk 2
+3260,ahsaas channa,Phoonk 2
+3261,anu ansari,Phoonk 2
+3262,sushant singh,Idiot Box
+3263,hrishitaa bhatt,Idiot Box
+3264,milind gunaji,Idiot Box
+3265,upasna singh,Idiot Box
+3266,abhishek bachchan,Dum Maaro Dum
+3267,bipasha basu,Dum Maaro Dum
+3268,rana daggubati,Dum Maaro Dum
+3269,prateik,Dum Maaro Dum
+3270,rahul bose,The Japanese Wife
+3271,chigusa takaku,The Japanese Wife
+3272,raima sen,The Japanese Wife
+3273,moushumi chatterjee,The Japanese Wife
+3274,madhu acharya,Bhavnao Ko Samjho
+3275,nitin anand,Bhavnao Ko Samjho
+3276,dinesh bawara,Bhavnao Ko Samjho
+3277,narendra bedi,Bhavnao Ko Samjho
+3278,salman khan,Dabangg
+3279,sonakshi sinha,Dabangg
+3280,vinod khanna,Dabangg
+3281,dimple kapadia,Dabangg
+3282,om puri,Na Ghar Ke Na Ghaat Ke
+3283,paresh rawal,Na Ghar Ke Na Ghaat Ke
+3284,neena gupta,Na Ghar Ke Na Ghaat Ke
+3285,ravi kishan,Na Ghar Ke Na Ghaat Ke
+3286,kitu gidwani,Hello Zindagi
+3287,milind gunaji,Hello Zindagi
+3288,neena gupta,Hello Zindagi
+3289,mrunmayee lagoo,Hello Zindagi
+3290,shahid kapoor,Mausam
+3291,sonam kapoor,Mausam
+3292,anupam kher,Mausam
+3293,supriya pathak,Mausam
+3294,atul kulkarni,Bumm Bumm Bole
+3295,rituparna sengupta,Bumm Bumm Bole
+3296,darsheel safary,Bumm Bumm Bole
+3297,ziyah vastani,Bumm Bumm Bole
+3298,bhushan agarwal,Ek Second... Jo Zindagi Badal De...
+3299,nikita anand,Ek Second... Jo Zindagi Badal De...
+3300,venita anand,Ek Second... Jo Zindagi Badal De...
+3301,bedi,Ek Second... Jo Zindagi Badal De...
+3302,priyanka chopra,7 Khoon Maaf
+3303,vivaan shah,7 Khoon Maaf
+3304,manuj bhaskar,7 Khoon Maaf
+3305,sanjay verma,7 Khoon Maaf
+3306,ali zafar,Tere Bin Laden
+3307,pradhuman singh,Tere Bin Laden
+3308,piyush mishra,Tere Bin Laden
+3309,nikhil ratnaparkhi,Tere Bin Laden
+3310,vikrum kumar,Trump Card
+3311,haidar ali,Trump Card
+3312,urvashi chaudhary,Trump Card
+3313,mansi dovhal,Trump Card
+3314,anupam kher,Sahi Dhandhe Galat Bande
+3315,sharat saxena,Sahi Dhandhe Galat Bande
+3316,parvin dabas,Sahi Dhandhe Galat Bande
+3317,vansh bhardwaj,Sahi Dhandhe Galat Bande
+3318,gurpreet chadha,Kya Yahi Sach Hai
+3319,shalini chandran,Kya Yahi Sach Hai
+3320,t.k. chowdhary,Kya Yahi Sach Hai
+3321,kishore dhingra,Kya Yahi Sach Hai
+3322,barkha madan,Soch Lo
+3323,iris maity,Soch Lo
+3324,nishan nanaiah,Soch Lo
+3325,sartaj singh pannu,Soch Lo
+3326,himesh reshammiya,Kajraare
+3327,sara loren,Kajraare
+3328,amrita singh,Kajraare
+3329,gulshan grover,Kajraare
+3330,jackie shroff,Musaa: The Most Wanted
+3331,samir aftab,Musaa: The Most Wanted
+3332,akhilendra mishra,Musaa: The Most Wanted
+3333,sushant singh,Musaa: The Most Wanted
+3334,rikkee,Swaha: Life Beyond Superstition
+3335,manoylo svitlana,Swaha: Life Beyond Superstition
+3336,ishrat ali,Swaha: Life Beyond Superstition
+3337,jiten mukhi,Swaha: Life Beyond Superstition
+3338,abhishek bachchan,Khelein Hum Jee Jaan Sey
+3339,deepika padukone,Khelein Hum Jee Jaan Sey
+3340,sikander kher,Khelein Hum Jee Jaan Sey
+3341,maninder singh,Khelein Hum Jee Jaan Sey
+3342,rajat barmecha,Udaan
+3343,sanjay gandhi,Udaan
+3344,ronit roy,Udaan
+3345,manjot singh,Udaan
+3346,deepti naval,Trapped in Tradition: Rivaaz
+3347,vijay raaz,Trapped in Tradition: Rivaaz
+3348,meghna naidu,Trapped in Tradition: Rivaaz
+3349,saadhika randhawa,Trapped in Tradition: Rivaaz
+3350,prashant narayanan,Mr. Singh/Mrs. Mehta
+3351,aruna shields,Mr. Singh/Mrs. Mehta
+3352,naved aslam,Mr. Singh/Mrs. Mehta
+3353,lucy hassan,Mr. Singh/Mrs. Mehta
+3354,ranvir shorey,The Film Emotional Atyachar
+3355,vinay pathak,The Film Emotional Atyachar
+3356,ravi kishan,The Film Emotional Atyachar
+3357,mohit ahlawat,The Film Emotional Atyachar
+3358,bobby deol,Help
+3359,mugdha godse,Help
+3360,shreyas talpade,Help
+3361,sophie handa,Help
+3362,gul panag,Turning 30!!!
+3363,purab kohli,Turning 30!!!
+3364,sid makkar,Turning 30!!!
+3365,jeneva talwar,Turning 30!!!
+3366,ritesh deshmukh,F.A.L.T.U
+3367,jacky bhagnani,F.A.L.T.U
+3368,puja gupta,F.A.L.T.U
+3369,chandan roy sanyal,F.A.L.T.U
+3370,caterina lopez,Bhindi Baazaar
+3371,pavan malhotra,Bhindi Baazaar
+3372,kay kay menon,Bhindi Baazaar
+3373,piyush mishra,Bhindi Baazaar
+3374,imran khan,I Hate Luv Storys
+3375,sonam kapoor,I Hate Luv Storys
+3376,sammir dattani,I Hate Luv Storys
+3377,samir soni,I Hate Luv Storys
+3378,deepak dobriyal,Daayen Ya Baayen
+3379,manav kaul,Daayen Ya Baayen
+3380,badrul islam,Daayen Ya Baayen
+3381,bharti bhatt,Daayen Ya Baayen
+3382,rajpal yadav,Hello Hum Lallann Bol Rahe Hain
+3383,preeti mehra,Hello Hum Lallann Bol Rahe Hain
+3384,makarand anaspure,Hello Hum Lallann Bol Rahe Hain
+3385,ketki dave,Hello Hum Lallann Bol Rahe Hain
+3386,rajpal yadav,Kushti
+3387,nargis bagheri,Kushti
+3388,om puri,Kushti
+3389,sharat saxena,Kushti
+3390,sonali gulati,I Am
+3391,madhavan,Tanu Weds Manu
+3392,kangana ranaut,Tanu Weds Manu
+3393,jimmy shergill,Tanu Weds Manu
+3394,deepak dobriyal,Tanu Weds Manu
+3395,vinay pathak,Tere Mere Phere
+3396,riya sen,Tere Mere Phere
+3397,jagrat desai,Tere Mere Phere
+3398,sasha goradia,Tere Mere Phere
+3399,kareena kapoor,Ek Main Aur Ekk Tu
+3400,boman irani,Ek Main Aur Ekk Tu
+3401,imran khan,Ek Main Aur Ekk Tu
+3402,ratna pathak,Ek Main Aur Ekk Tu
+3403,anil kapoor,Tezz
+3404,ajay devgn,Tezz
+3405,mohanlal,Tezz
+3406,kangana ranaut,Tezz
+3407,ajay devgn,Aakrosh
+3408,akshaye khanna,Aakrosh
+3409,bipasha basu,Aakrosh
+3410,jaideep ahlawat,Aakrosh
+3411,salman khan,Ready
+3412,asin,Ready
+3413,paresh rawal,Ready
+3414,mahesh manjrekar,Ready
+3415,rishi kapoor,Do Dooni Chaar
+3416,neetu singh,Do Dooni Chaar
+3417,aditi vasudev,Do Dooni Chaar
+3418,archit krishna,Do Dooni Chaar
+3419,akshay kumar,Thank You
+3420,bobby deol,Thank You
+3421,sonam kapoor,Thank You
+3422,sunil shetty,Thank You
+3423,ajay devgn,Dil Toh Baccha Hai Ji
+3424,emraan hashmi,Dil Toh Baccha Hai Ji
+3425,omi vaidya,Dil Toh Baccha Hai Ji
+3426,shazahn padamsee,Dil Toh Baccha Hai Ji
+3427,ajay devgn,Bol Bachchan
+3428,asin,Bol Bachchan
+3429,abhishek bachchan,Bol Bachchan
+3430,prachi desai,Bol Bachchan
+3431,salman khan,Bodyguard
+3432,kareena kapoor,Bodyguard
+3433,raj babbar,Bodyguard
+3434,asrani,Bodyguard
+3435,rani mukerji,No One Killed Jessica
+3436,vidya balan,No One Killed Jessica
+3437,myra karn,No One Killed Jessica
+3438,neil bhoopalam,No One Killed Jessica
+3439,supriya pathak,Khichdi: The Movie
+3440,anang desai,Khichdi: The Movie
+3441,rajeev mehta,Khichdi: The Movie
+3442,nimisha vakharia,Khichdi: The Movie
+3443,gulshan grover,Payback
+3444,munish khan,Payback
+3445,zakir hussain,Payback
+3446,mukesh tiwari,Payback
+3447,ravi kishan,Chitkabrey
+3448,rahul singh,Chitkabrey
+3449,rajesh shringarpore,Chitkabrey
+3450,sanjay swaraj,Chitkabrey
+3451,kay kay menon,Benny and Babloo
+3452,rajpal yadav,Benny and Babloo
+3453,aashif sheikh,Benny and Babloo
+3454,shweta tiwari,Benny and Babloo
+3455,manoj bajpayee,Dus Tola
+3456,aarti chhabria,Dus Tola
+3457,dilip prabhavalkar,Dus Tola
+3458,govind namdeo,Dus Tola
+3459,imran khan,Mere Brother Ki Dulhan
+3460,katrina kaif,Mere Brother Ki Dulhan
+3461,ali zafar,Mere Brother Ki Dulhan
+3462,tara d'souza,Mere Brother Ki Dulhan
+3463,zeenat aman,Dunno Y Na Jaane Kyun...
+3464,kabir bedi,Dunno Y Na Jaane Kyun...
+3465,hazel croney,Dunno Y Na Jaane Kyun...
+3466,helen,Dunno Y Na Jaane Kyun...
+3467,manoj bajpayee,Ramayana: The Epic
+3468,juhi chawla,Ramayana: The Epic
+3469,ashutosh rana,Ramayana: The Epic
+3470,mukesh rishi,Ramayana: The Epic
+3471,rituparna sengupta,Life Express
+3472,kiran janjani,Life Express
+3473,yashpal sharma,Life Express
+3474,alok nath,Life Express
+3475,emraan hashmi,Crook: It's Good to Be Bad
+3476,neha sharma,Crook: It's Good to Be Bad
+3477,arjan bajwa,Crook: It's Good to Be Bad
+3478,mashhoor amrohi,Crook: It's Good to Be Bad
+3479,irrfan khan,Yeh Saali Zindagi
+3480,chitrangda singh,Yeh Saali Zindagi
+3481,arunoday singh,Yeh Saali Zindagi
+3482,aditi rao hydari,Yeh Saali Zindagi
+3483,aniruddh agarwal,Bachao - Inside Bhoot Hai...
+3484,sadashiv amrapurkar,Bachao - Inside Bhoot Hai...
+3485,anisshka,Bachao - Inside Bhoot Hai...
+3486,amit behl,Bachao - Inside Bhoot Hai...
+3487,abhishek bachchan,Game
+3488,kangana ranaut,Game
+3489,anupam kher,Game
+3490,boman irani,Game
+3491,rajat kapoor,Phas Gaye Re Obama
+3492,neha dhupia,Phas Gaye Re Obama
+3493,sanjay mishra,Phas Gaye Re Obama
+3494,manu rishi chadha,Phas Gaye Re Obama
+3495,suzanne bernert,Shahrukh Bola 'Khoobsurat Hai Tu'... And She Believed in It
+3496,nagesh bhonsle,Shahrukh Bola 'Khoobsurat Hai Tu'... And She Believed in It
+3497,pritika chawla,Shahrukh Bola 'Khoobsurat Hai Tu'... And She Believed in It
+3498,sanjay dadheech,Shahrukh Bola 'Khoobsurat Hai Tu'... And She Believed in It
+3499,nafisa ali,Yamla Pagla Deewana
+3500,madhuri bhattacharya,Yamla Pagla Deewana
+3501,emma brown garett,Yamla Pagla Deewana
+3502,mahek chahal,Yamla Pagla Deewana
+3503,sohrab ardeshir,Love You to Death
+3504,abhro banerjee,Love You to Death
+3505,kallol banerjee,Love You to Death
+3506,nicholas brown,Love You to Death
+3507,akshay oberoi,Isi Life Mein...!
+3508,sandeepa dhar,Isi Life Mein...!
+3509,mohnish bahl,Isi Life Mein...!
+3510,prachi shah,Isi Life Mein...!
+3511,luna rioumina,Players
+3512,abhishek bachchan,Players
+3513,bipasha basu,Players
+3514,shweta bhardwaj,Players
+3515,manoj bajpayee,Chittagong
+3516,barry john,Chittagong
+3517,delzad hiwale,Chittagong
+3518,vega tamotia,Chittagong
+3519,aamir khan,Talaash
+3520,kareena kapoor,Talaash
+3521,rani mukerji,Talaash
+3522,nawazuddin siddiqui,Talaash
+3523,makarand anaspure,My Friend Ganesha 3
+3524,krishna bhatt,My Friend Ganesha 3
+3525,sonika gill,My Friend Ganesha 3
+3526,eva grover,My Friend Ganesha 3
+3527,rachita bhattacharya,Yeh Faasley
+3528,seema biswas,Yeh Faasley
+3529,sudha chandran,Yeh Faasley
+3530,sanjiv chopra,Yeh Faasley
+3531,rahul jaiswal,Khap
+3532,raj arjun,Khap
+3533,mohnish bahl,Khap
+3534,yuvika chaudhry,Khap
+3535,kashmira shah,9 Eleven
+3536,devasish ray,9 Eleven
+3537,jyoti singh,9 Eleven
+3538,sonny chatrath,9 Eleven
+3539,ashish kattar,Bhoot and Friends
+3540,aditya lakhia,Bhoot and Friends
+3541,akash nair,Bhoot and Friends
+3542,ishita panchal,Bhoot and Friends
+3543,aditya srivastava,Kaalo
+3544,swini khara,Kaalo
+3545,aditya lakhia,Kaalo
+3546,raj arjun,Kaalo
+3547,vinay pathak,Utt Pataang
+3548,saurabh shukla,Utt Pataang
+3549,mahie gill,Utt Pataang
+3550,mona singh,Utt Pataang
+3551,ishaan manhaas,Aashiqui.in
+3552,dheeraj miglani,Aashiqui.in
+3553,priti gandwani,Aashiqui.in
+3554,shubhi ahuja,Aashiqui.in
+3555,nassar abdulla,Diary of a Butterfly
+3556,rati agnihotri,Diary of a Butterfly
+3557,udita goswami,Diary of a Butterfly
+3558,sofia hayat,Diary of a Butterfly
+3559,vidya balan,Kahaani
+3560,parambrata chatterjee,Kahaani
+3561,dhritiman chatterjee,Kahaani
+3562,saswata chatterjee,Kahaani
+3563,brahim achabbakhe,United Six
+3564,russell geoffrey banks,United Six
+3565,leigh barwell,United Six
+3566,isha batwe,United Six
+3567,sumit arora,Angel
+3568,arun,Angel
+3569,raakesh babu,Angel
+3570,prem kishen dwivedi,Angel
+3571,vatsal seth,Hostel
+3572,tulip joshi,Hostel
+3573,mukesh tiwari,Hostel
+3574,nagesh bhonsle,Hostel
+3575,nana patekar,Shagird
+3576,mohit ahlawat,Shagird
+3577,rimi sen,Shagird
+3578,anurag kashyap,Shagird
+3579,ajay devgn,Rascals
+3580,sanjay dutt,Rascals
+3581,kangana ranaut,Rascals
+3582,lisa haydon,Rascals
+3583,aamir khan,Dhoom: 3
+3584,katrina kaif,Dhoom: 3
+3585,tabrett bethell,Dhoom: 3
+3586,abhishek bachchan,Dhoom: 3
+3587,bhairavi goswami,Kaccha Limboo
+3588,iravati harshe,Kaccha Limboo
+3589,chinmay kambli,Kaccha Limboo
+3590,rajesh khattar,Kaccha Limboo
+3591,kalki koechlin,Shaitan
+3592,shiv pandit,Shaitan
+3593,gulshan devaiah,Shaitan
+3594,rajeev khandelwal,Shaitan
+3595,ranbir kapoor,RockStar
+3596,nargis fakhri,RockStar
+3597,shammi kapoor,RockStar
+3598,kumud mishra,RockStar
+3599,aarav khanna,Chillar Party
+3600,chinmai chandranshuh,Chillar Party
+3601,divji handa,Chillar Party
+3602,irfan khan,Chillar Party
+3603,mikaal,U R My Jaan
+3604,preeti,U R My Jaan
+3605,himani shivpuri,U R My Jaan
+3606,anil dhawan,U R My Jaan
+3607,amitabh bachchan,Aarakshan
+3608,saif ali khan,Aarakshan
+3609,manoj bajpayee,Aarakshan
+3610,deepika padukone,Aarakshan
+3611,hrithik roshan,Agneepath
+3612,priyanka chopra,Agneepath
+3613,sanjay dutt,Agneepath
+3614,rishi kapoor,Agneepath
+3615,faith,Qasam Se Qasam Se
+3616,farhan,Qasam Se Qasam Se
+3617,satish kaushik,Qasam Se Qasam Se
+3618,omkar das manikpuri,Qasam Se Qasam Se
+3619,om puri,Teen Thay Bhai
+3620,deepak dobriyal,Teen Thay Bhai
+3621,ragini khanna,Teen Thay Bhai
+3622,naresh gosain,Teen Thay Bhai
+3623,amitabh bachchan,Bbuddah Hoga Terra Baap
+3624,hema malini,Bbuddah Hoga Terra Baap
+3625,sonu sood,Bbuddah Hoga Terra Baap
+3626,sonal chauhan,Bbuddah Hoga Terra Baap
+3627,zayed khan,Love Breakups Zindagi
+3628,dia mirza,Love Breakups Zindagi
+3629,cyrus sahukar,Love Breakups Zindagi
+3630,tisca chopra,Love Breakups Zindagi
+3631,sara arjun,404: Error Not Found
+3632,rajvvir aroraa,404: Error Not Found
+3633,aditya banerjee,404: Error Not Found
+3634,mukesh bhatt,404: Error Not Found
+3635,vinay pathak,Chalo Dilli
+3636,lara dutta,Chalo Dilli
+3637,yana gupta,Chalo Dilli
+3638,akshay kumar,Chalo Dilli
+3639,sanjay mishra,Satrangee Parachute
+3640,zakir hussain,Satrangee Parachute
+3641,lilliput,Satrangee Parachute
+3642,rupali ganguly,Satrangee Parachute
+3643,tia bajpai,Haunted - 3D
+3644,krishna bhatt,Haunted - 3D
+3645,mimoh chakraborty,Haunted - 3D
+3646,nikita janjani,Haunted - 3D
+3647,ashutosh rana,Monica
+3648,divya dutta,Monica
+3649,rajit kapoor,Monica
+3650,yashpal sharma,Monica
+3651,kainaz motivala,Ragini MMS
+3652,rajkummar rao,Ragini MMS
+3653,rajat kaul,Ragini MMS
+3654,janice,Ragini MMS
+3655,akshay kumar,Once Upon a Time in Mumbai Dobaara!
+3656,pitobash,Once Upon a Time in Mumbai Dobaara!
+3657,sonakshi sinha,Once Upon a Time in Mumbai Dobaara!
+3658,imran khan,Once Upon a Time in Mumbai Dobaara!
+3659,jatin khurana,Ye Stupid Pyar
+3660,noopur patwardhan,Ye Stupid Pyar
+3661,akansha,Ye Stupid Pyar
+3662,sahil vaid,Ye Stupid Pyar
+3663,rajpal yadav,Masti Express
+3664,johnny lever,Masti Express
+3665,divya dutta,Masti Express
+3666,jaikumar banotia,Masti Express
+3667,pankaj berry,Vikalp
+3668,abhay joshi,Vikalp
+3669,jyoti joshi,Vikalp
+3670,abhijeet leheri,Vikalp
+3671,mohsin,Mumbai Mast Kallander
+3672,muzzi,Mumbai Mast Kallander
+3673,shilpa shukla,Mumbai Mast Kallander
+3674,luna,Mumbai Mast Kallander
+3675,vipinno,Tum Hi To Ho...
+3676,madhavi sharma,Tum Hi To Ho...
+3677,sarvar ahuja,Tum Hi To Ho...
+3678,vivek shaq,Tum Hi To Ho...
+3679,gaurav chopra,Men Will Be Men
+3680,zeenal kamdar,Men Will Be Men
+3681,rajesh khattar,Men Will Be Men
+3682,rohit khuranna,Men Will Be Men
+3683,harish raj,Bengaloored
+3684,meghana mudiyam,Bengaloored
+3685,srinivasa prabhu,Bengaloored
+3686,lakshmi chandrashekar,Bengaloored
+3687,sonali kulkarni,The Camp
+3688,sanjay mishra,The Camp
+3689,rakesh bedi,The Camp
+3690,krishna bhatt,The Camp
+3691,sendhil ramamurthy,Shor in the City
+3692,tusshar kapoor,Shor in the City
+3693,nikhil dwivedi,Shor in the City
+3694,preeti desai,Shor in the City
+3695,akash,5ters: Castle of Dark Master
+3696,avinash,5ters: Castle of Dark Master
+3697,gagan,5ters: Castle of Dark Master
+3698,hithaishaini,5ters: Castle of Dark Master
+3699,gunjan bakshi,A Strange Love Story
+3700,snehal dabi,A Strange Love Story
+3701,milind gunaji,A Strange Love Story
+3702,ehsan khan,A Strange Love Story
+3703,asrani,Joker
+3704,avtar gill,Joker
+3705,gurpreet guggi,Joker
+3706,greg heffernan,Joker
+3707,riya bamniyal,Luv Ka the End
+3708,bumpy,Luv Ka the End
+3709,sreejita de,Luv Ka the End
+3710,shraddha kapoor,Luv Ka the End
+3711,jacqueline fernandez,Murder 2
+3712,yana gupta,Murder 2
+3713,emraan hashmi,Murder 2
+3714,amardeep jha,Murder 2
+3715,beena banerjee,Khuda Kasam
+3716,sunny deol,Khuda Kasam
+3717,farida jalal,Khuda Kasam
+3718,raza murad,Khuda Kasam
+3719,seema biswas,Queens! Destiny of Dance
+3720,raayo s. bakhirta,Pyaar Ka Punchnama
+3721,nushrat bharucha,Pyaar Ka Punchnama
+3722,padam bhola,Pyaar Ka Punchnama
+3723,sonalli sehgal,Pyaar Ka Punchnama
+3724,anirudh agarwal,Mallika
+3725,puja ballutia,Mallika
+3726,sammir dattani,Mallika
+3727,dunger,Mallika
+3728,imran khan,Delhi Belly
+3729,vir das,Delhi Belly
+3730,kunaal roy kapur,Delhi Belly
+3731,shenaz treasury,Delhi Belly
+3732,malaika arora,Nakshatra
+3733,suresh chatwal,Nakshatra
+3734,gajendra chouhan,Nakshatra
+3735,anant jog,Nakshatra
+3736,lillete dubey,Always Kabhi Kabhi
+3737,satyajeet dubey,Always Kabhi Kabhi
+3738,ali fazal,Always Kabhi Kabhi
+3739,manoj joshi,Always Kabhi Kabhi
+3740,raj singh arora,Vroom
+3741,gaurav bajaj,Vroom
+3742,kalpana bora,Vroom
+3743,kishore chougule,Vroom
+3744,vinay pathak,Bheja Fry 2
+3745,kay kay menon,Bheja Fry 2
+3746,minissha lamba,Bheja Fry 2
+3747,rukhsar,Bheja Fry 2
+3748,rajeev khandelwal,Soundtrack
+3749,soha ali khan,Soundtrack
+3750,mrinalini sharma,Soundtrack
+3751,mohan kapoor,Soundtrack
+3752,shefali shetty,Kucch Luv Jaisaa
+3753,om puri,Kucch Luv Jaisaa
+3754,rahul bose,Kucch Luv Jaisaa
+3755,neetu chandra,Kucch Luv Jaisaa
+3756,rati agnihotri,Bin Bulaye Baraati
+3757,shweta bhardwaj,Bin Bulaye Baraati
+3758,gulshan grover,Bin Bulaye Baraati
+3759,manoj joshi,Bin Bulaye Baraati
+3760,vivek sudershan,Impatient Vivek
+3761,sayali bhagat,Impatient Vivek
+3762,ronnaoq ahuja,Impatient Vivek
+3763,chari asopa,Impatient Vivek
+3764,ajay devgn,Singham
+3765,kajal agarwal,Singham
+3766,prakash raj,Singham
+3767,sonali kulkarni,Singham
+3768,raj singh chaudhary,The Waiting Room
+3769,radhika apte,The Waiting Room
+3770,sandeep kulkarni,The Waiting Room
+3771,prateeksha lonkar,The Waiting Room
+3772,kareena kapoor,Heroine
+3773,arjun rampal,Heroine
+3774,randeep hooda,Heroine
+3775,shahana goswami,Heroine
+3776,vidya balan,The Dirty Picture
+3777,emraan hashmi,The Dirty Picture
+3778,tusshar kapoor,The Dirty Picture
+3779,naseeruddin shah,The Dirty Picture
+3780,manoj bajpayee,Gangs of Wasseypur
+3781,richa chadda,Gangs of Wasseypur
+3782,nawazuddin siddiqui,Gangs of Wasseypur
+3783,tigmanshu dhulia,Gangs of Wasseypur
+3784,ranveer singh,Ladies vs. Ricky Bahl
+3785,anushka sharma,Ladies vs. Ricky Bahl
+3786,parineeti chopra,Ladies vs. Ricky Bahl
+3787,dipannita sharma,Ladies vs. Ricky Bahl
+3788,asrani,Ata Pata Lapatta
+3789,amit behl,Ata Pata Lapatta
+3790,krishna bhatt,Ata Pata Lapatta
+3791,raja bherwani,Ata Pata Lapatta
+3792,aryeman ramsay,Good Luck!
+3793,sayali bhagat,Good Luck!
+3794,sharat saxena,Good Luck!
+3795,archana puran singh,Good Luck!
+3796,dharmendra,Tell Me O Kkhuda
+3797,vinod khanna,Tell Me O Kkhuda
+3798,rishi kapoor,Tell Me O Kkhuda
+3799,farooq shaikh,Tell Me O Kkhuda
+3800,sahil mehta,Love Express
+3801,mannat ravi,Love Express
+3802,vikas katyal,Love Express
+3803,priyam galav,Love Express
+3804,tara sharma,Suno Na.. Ek Nanhi Aawaz
+3805,makrand shukla,Suno Na.. Ek Nanhi Aawaz
+3806,rajendra chawla,Suno Na.. Ek Nanhi Aawaz
+3807,rinku patel,Suno Na.. Ek Nanhi Aawaz
+3808,deven bhojani,Chala Mussaddi - Office Office
+3809,makrand deshpande,Chala Mussaddi - Office Office
+3810,vinay jain,Chala Mussaddi - Office Office
+3811,farida jalal,Chala Mussaddi - Office Office
+3812,raghuvir yadav,Gandhi to Hitler
+3813,neha dhupia,Gandhi to Hitler
+3814,aman verma,Gandhi to Hitler
+3815,nassar abdulla,Gandhi to Hitler
+3816,akshay kumar,Housefull 2
+3817,asin,Housefull 2
+3818,john abraham,Housefull 2
+3819,jacqueline fernandez,Housefull 2
+3820,gracy singh,Dekh Bhai Dekh: Laughter Behind Darkness
+3821,siddharth koirala,Dekh Bhai Dekh: Laughter Behind Darkness
+3822,raghuvir yadav,Dekh Bhai Dekh: Laughter Behind Darkness
+3823,vijay raaz,Dekh Bhai Dekh: Laughter Behind Darkness
+3824,bruna abdullah,Desi Boyz
+3825,john abraham,Desi Boyz
+3826,shekhar bassi,Desi Boyz
+3827,peter brown,Desi Boyz
+3828,preity zinta,Ishkq in Paris
+3829,isabelle adjani,Ishkq in Paris
+3830,gaurav chanana,Ishkq in Paris
+3831,fanny carbonnel,Ishkq in Paris
+3832,javed abedi,Chal Chalein
+3833,anand abhyankar,Chal Chalein
+3834,adityansh,Chal Chalein
+3835,lalit agarwal,Chal Chalein
+3836,john abraham,Force
+3837,genelia d'souza,Force
+3838,raj babbar,Force
+3839,mohnish bahl,Force
+3840,rannvijay singh,Toss: A Flip of Destiny
+3841,madhurima banerjee,Toss: A Flip of Destiny
+3842,prashant raj,Toss: A Flip of Destiny
+3843,ashmit patel,Toss: A Flip of Destiny
+3844,vega tamotia,Aamras: The Sweet Taste of Friendship
+3845,ntasha bhardwaj,Aamras: The Sweet Taste of Friendship
+3846,maanvi gagroo,Aamras: The Sweet Taste of Friendship
+3847,aanchal sabharwal,Aamras: The Sweet Taste of Friendship
+3848,jimmy shergill,Bachelor Party
+3849,arbaaz khan,Bachelor Party
+3850,nauheed cyrusi,Bachelor Party
+3851,sharat saxena,Bachelor Party
+3852,nishan nanaiah,Cycle Kick
+3853,sunny hinduja,Cycle Kick
+3854,girija oak,Cycle Kick
+3855,ishita sharma,Cycle Kick
+3856,rohit g. banawlikar,Not a Love Story
+3857,deepak dobriyal,Not a Love Story
+3858,ajay gehi,Not a Love Story
+3859,mahie gill,Not a Love Story
+3860,rajan verma,Ashok Chakra: Tribute to Real Heroes
+3861,sudesh berry,Ashok Chakra: Tribute to Real Heroes
+3862,arun bakshi,Ashok Chakra: Tribute to Real Heroes
+3863,sandip munde,Ashok Chakra: Tribute to Real Heroes
+3864,apoorva arora,Bubble Gum
+3865,apporva arora,Bubble Gum
+3866,tanvi azmi,Bubble Gum
+3867,delzad hiwale,Bubble Gum
+3868,ila arun,Aagaah: The Warning
+3869,anang desai,Aagaah: The Warning
+3870,zakir hussain,Aagaah: The Warning
+3871,satish kaushik,Aagaah: The Warning
+3872,salman khan,Ek Tha Tiger
+3873,katrina kaif,Ek Tha Tiger
+3874,ranvir shorey,Ek Tha Tiger
+3875,girish karnad,Ek Tha Tiger
+3876,mohan agashe,Phhir
+3877,kasturi banerjee,Phhir
+3878,roshni chopra,Phhir
+3879,rajneesh duggal,Phhir
+3880,anupam kher,Kyaa Super Kool Hain Hum
+3881,ritesh deshmukh,Kyaa Super Kool Hain Hum
+3882,rohit shetty,Kyaa Super Kool Hain Hum
+3883,tusshar kapoor,Kyaa Super Kool Hain Hum
+3884,siddharth kher,Stand By
+3885,sachin khedekar,Stand By
+3886,dalip tahil,Stand By
+3887,nagesh bhonsle,Stand By
+3888,isha koppikar,Shabri
+3889,raj arjun,Shabri
+3890,manish wadhwa,Shabri
+3891,pradeep singh rawat,Shabri
+3892,rajesh bhardwaj,Hair is Falling: A Serious Comedy Film
+3893,sanjana tiwari,Hair is Falling: A Serious Comedy Film
+3894,priyanka,Hair is Falling: A Serious Comedy Film
+3895,mahender singh bist,Hair is Falling: A Serious Comedy Film
+3896,sachiin joshi,Aazaan
+3897,candice boucher,Aazaan
+3898,arya babbar,Aazaan
+3899,samy gharbi,Aazaan
+3900,tusshar kapoor,Hum Tum Shabana
+3901,shreyas talpade,Hum Tum Shabana
+3902,minissha lamba,Hum Tum Shabana
+3903,mantra,Hum Tum Shabana
+3904,naresh kaura,Hum Do Anjaane
+3905,ankita bhargava,Hum Do Anjaane
+3906,jackie shroff,Hum Do Anjaane
+3907,avtar gill,Hum Do Anjaane
+3908,ayesha takia,Mod
+3909,rannvijay singh,Mod
+3910,raghuvir yadav,Mod
+3911,tanvi azmi,Mod
+3912,birbal,Jaana Pehchana
+3913,pushkar jog,Jaana Pehchana
+3914,ranjeeta kaur,Jaana Pehchana
+3915,neelu kohli,Jaana Pehchana
+3916,saqib saleem,Mujhse Fraaandship Karoge
+3917,saba azaad,Mujhse Fraaandship Karoge
+3918,nishant dahiya,Mujhse Fraaandship Karoge
+3919,tara d'souza,Mujhse Fraaandship Karoge
+3920,shahbaaz khan,Maruti Mera Dosst
+3921,sushmita mukherjee,Maruti Mera Dosst
+3922,erik a. nanda,Maruti Mera Dosst
+3923,ritika shah,Maruti Mera Dosst
+3924,vijay raaz,Kya Dilli Kya Lahore
+3925,manu rishi chadha,Kya Dilli Kya Lahore
+3926,rajendranath zutshi,Kya Dilli Kya Lahore
+3927,vishwajeet pradhan,Kya Dilli Kya Lahore
+3928,john abraham,"I, Me aur Main"
+3929,chitrangda singh,"I, Me aur Main"
+3930,prachi desai,"I, Me aur Main"
+3931,mini mathur,"I, Me aur Main"
+3932,ali zafar,London Paris New York
+3933,aditi rao hydari,London Paris New York
+3934,candice pereira,London Paris New York
+3935,scherrikar bell,London Paris New York
+3936,abhijeet,Lottery
+3937,rucha gujrati,Lottery
+3938,manisha kelkar,Lottery
+3939,nassar abdulla,Lottery
+3940,neil nitin mukesh,Shortcut Romeo
+3941,ameesha patel,Shortcut Romeo
+3942,puja gupta,Shortcut Romeo
+3943,jatin grewal,Shortcut Romeo
+3944,manoj bajpayee,Jugaad
+3945,hrishitaa bhatt,Jugaad
+3946,vijay raaz,Jugaad
+3947,govind namdeo,Jugaad
+3948,kiron kher,Mummy Punjabi: Superman Ki Bhi Maa!!
+3949,kanwaljit singh,Mummy Punjabi: Superman Ki Bhi Maa!!
+3950,jackie shroff,Mummy Punjabi: Superman Ki Bhi Maa!!
+3951,anju mahendru,Mummy Punjabi: Superman Ki Bhi Maa!!
+3952,emraan hashmi,Shanghai
+3953,abhay deol,Shanghai
+3954,prasenjit chatterjee,Shanghai
+3955,kalki koechlin,Shanghai
+3956,randeep hooda,Saheb Biwi Aur Gangster
+3957,mahie gill,Saheb Biwi Aur Gangster
+3958,jimmy shergill,Saheb Biwi Aur Gangster
+3959,shreya narayan,Saheb Biwi Aur Gangster
+3960,akshay kumar,Rowdy Rathore
+3961,sonakshi sinha,Rowdy Rathore
+3962,nasser,Rowdy Rathore
+3963,paresh ganatra,Rowdy Rathore
+3964,ranbir kapoor,Barfi!
+3965,priyanka chopra,Barfi!
+3966,ileana,Barfi!
+3967,saurabh shukla,Barfi!
+3968,anand tiwari,Jo Dooba So Paar: It's Love in Bihar!
+3969,rajat kapoor,Jo Dooba So Paar: It's Love in Bihar!
+3970,sita spada,Jo Dooba So Paar: It's Love in Bihar!
+3971,dadhi raj,Jo Dooba So Paar: It's Love in Bihar!
+3972,arjun rampal,Inkaar
+3973,chitrangda singh,Inkaar
+3974,vipin sharma,Inkaar
+3975,mithun rodwittiya,Inkaar
+3976,anupam kher,Hum Hai Raahi CAR Ke
+3977,sanjay dutt,Hum Hai Raahi CAR Ke
+3978,juhi chawla,Hum Hai Raahi CAR Ke
+3979,rati agnihotri,Hum Hai Raahi CAR Ke
+3980,chirag paswan,Miley - Naa Miley - Hum
+3981,kangana ranaut,Miley - Naa Miley - Hum
+3982,neeru bajwa,Miley - Naa Miley - Hum
+3983,sagarika ghatge,Miley - Naa Miley - Hum
+3984,imran khan,Matru ki Bijlee ka Mandola
+3985,anushka sharma,Matru ki Bijlee ka Mandola
+3986,pankaj kapur,Matru ki Bijlee ka Mandola
+3987,lekha washington,Matru ki Bijlee ka Mandola
+3988,shubh,Shakal Pe Mat Ja
+3989,pratik katare,Shakal Pe Mat Ja
+3990,harsh parekh,Shakal Pe Mat Ja
+3991,chitrak bandyopadhyay,Shakal Pe Mat Ja
+3992,deepika padukone,Chennai Express
+3993,shah rukh khan,Chennai Express
+3994,satyaraj,Chennai Express
+3995,nikitin dheer,Chennai Express
+3996,salman khan,Dabangg 2
+3997,sonakshi sinha,Dabangg 2
+3998,prakash raj,Dabangg 2
+3999,vinod khanna,Dabangg 2
+4000,sunny gill,Jo Hum Chahein
+4001,simran kaur mundi,Jo Hum Chahein
+4002,alyy khan,Jo Hum Chahein
+4003,achint kaur,Jo Hum Chahein
+4004,sharman joshi,Ferrari Ki Sawaari
+4005,boman irani,Ferrari Ki Sawaari
+4006,ritwik sahore,Ferrari Ki Sawaari
+4007,paresh rawal,Ferrari Ki Sawaari
+4008,prateik,Ekk Deewana Tha
+4009,amy jackson,Ekk Deewana Tha
+4010,sachin khedekar,Ekk Deewana Tha
+4011,manu rishi chadha,Ekk Deewana Tha
+4012,ritesh deshmukh,Tere Naal Love Ho Gaya
+4013,genelia d'souza,Tere Naal Love Ho Gaya
+4014,om puri,Tere Naal Love Ho Gaya
+4015,tinnu anand,Tere Naal Love Ho Gaya
+4016,manoj bajpayee,Lanka
+4017,arjan bajwa,Lanka
+4018,tia bajpai,Lanka
+4019,yashpal sharma,Lanka
+4020,hrishitaa bhatt,3 Nights 4 Days
+4021,anuj sawhney,3 Nights 4 Days
+4022,emraan hashmi,Raaz 3: The Third Dimension
+4023,bipasha basu,Raaz 3: The Third Dimension
+4024,esha gupta,Raaz 3: The Third Dimension
+4025,manish chaudhary,Raaz 3: The Third Dimension
+4026,aman verma,Koi Hai
+4027,shweta menon,Koi Hai
+4028,rinku ghosh,Koi Hai
+4029,roop kumar rathod,Koi Hai
+4030,rati agnihotri,Yeh Jo Mohabbat Hai
+4031,mohnish bahl,Yeh Jo Mohabbat Hai
+4032,nazia hussain,Yeh Jo Mohabbat Hai
+4033,farida jalal,Yeh Jo Mohabbat Hai
+4034,mithun chakraborty,Zindagi Tere Naam
+4035,ranjeeta kaur,Zindagi Tere Naam
+4036,sajid ali,Zindagi Tere Naam
+4037,supriya karnik,Zindagi Tere Naam
+4038,akshay kumar,Khiladi 786
+4039,asin,Khiladi 786
+4040,raj babbar,Khiladi 786
+4041,vipin bakshi,Khiladi 786
+4042,deepika padukone,Cocktail
+4043,saif ali khan,Cocktail
+4044,randeep hooda,Cocktail
+4045,boman irani,Cocktail
+4046,sidharth malhotra,Student of the Year
+4047,alia bhatt,Student of the Year
+4048,varun dhawan,Student of the Year
+4049,rishi kapoor,Student of the Year
+4050,shiney ahuja,Ghost
+4051,sayali bhagat,Ghost
+4052,julia bliss,Ghost
+4053,tabrez khan,Ghost
+4054,shah rukh khan,Jab Tak Hai Jaan
+4055,katrina kaif,Jab Tak Hai Jaan
+4056,anushka sharma,Jab Tak Hai Jaan
+4057,june smith,Jab Tak Hai Jaan
+4058,ranbir kapoor,Yeh Jawaani Hai Deewani
+4059,deepika padukone,Yeh Jawaani Hai Deewani
+4060,aditya roy kapoor,Yeh Jawaani Hai Deewani
+4061,kalki koechlin,Yeh Jawaani Hai Deewani
+4062,ajay devgn,Son of Sardaar
+4063,sanjay dutt,Son of Sardaar
+4064,sonakshi sinha,Son of Sardaar
+4065,juhi chawla,Son of Sardaar
+4066,sridevi,English Vinglish
+4067,adil hussain,English Vinglish
+4068,mehdi nebbou,English Vinglish
+4069,priya anand,English Vinglish
+4070,trimala adhikari,Hansa
+4071,abhay joshi,Hansa
+4072,ashish kumar,Hansa
+4073,kumud mishra,Hansa
+4074,shweta bhardwaj,Chaalis Chauraasi
+4075,reetu jain,Chaalis Chauraasi
+4076,arbaaz ali khan,Chaalis Chauraasi
+4077,ravi kishan,Chaalis Chauraasi
+4078,bidita bag,From Sydney with Love
+4079,ronjini chakraborty,From Sydney with Love
+4080,sabyasachi chakraborty,From Sydney with Love
+4081,prateek chakravorty,From Sydney with Love
+4082,amitabh bachchan,Department
+4083,rana daggubati,Department
+4084,sanjay dutt,Department
+4085,nathalia kaur,Department
+4086,kunal kapoor,Luv Shuv Tey Chicken Khurana
+4087,huma qureshi,Luv Shuv Tey Chicken Khurana
+4088,vinod nagpal,Luv Shuv Tey Chicken Khurana
+4089,rajesh sharma,Luv Shuv Tey Chicken Khurana
+4090,usha bachani,Unforgettable
+4091,hazel croney,Unforgettable
+4092,pablo gonzalez,Unforgettable
+4093,patrick haider,Unforgettable
+4094,kavin dave,Shirin Farhad Ki Toh Nikal Padi
+4095,kurush deboo,Shirin Farhad Ki Toh Nikal Padi
+4096,boman irani,Shirin Farhad Ki Toh Nikal Padi
+4097,daisy irani,Shirin Farhad Ki Toh Nikal Padi
+4098,mohit baghet,Gali Gali Chor Hai
+4099,sahaj bradoria,Gali Gali Chor Hai
+4100,mugdha godse,Gali Gali Chor Hai
+4101,shalin gupta,Gali Gali Chor Hai
+4102,himanshu bhatt,Login
+4103,roy radhika,Login
+4104,akkash basnet,Login
+4105,rashmi gautam,Login
+4106,khan jahangir khan,Staying Alive
+4107,anant mahadevan,Staying Alive
+4108,navni parihar,Staying Alive
+4109,chandan sanyal,Staying Alive
+4110,anand balraj,Daal Mein kuch kaala hai
+4111,sudesh berry,Daal Mein kuch kaala hai
+4112,kishore anand bhanushali,Daal Mein kuch kaala hai
+4113,raj singh chaudhary,Daal Mein kuch kaala hai
+4114,kanika batra,Station
+4115,gulshan grover,Station
+4116,rohiet nair,Station
+4117,sameer kevin roy,Station
+4118,rana jung bahadur,Chaar Din Ki Chandni
+4119,mukul dev,Chaar Din Ki Chandni
+4120,harish,Chaar Din Ki Chandni
+4121,farida jalal,Chaar Din Ki Chandni
+4122,bipasha basu,Jodi Breakers
+4123,helen,Jodi Breakers
+4124,pradeep kharab,Jodi Breakers
+4125,madhavan,Jodi Breakers
+4126,narayan singh sisodia,Maharana Pratap: The First Freedom Fighter
+4127,kuldeep chaturvedi,Maharana Pratap: The First Freedom Fighter
+4128,payal kumawat,Maharana Pratap: The First Freedom Fighter
+4129,naveen jinger,Maharana Pratap: The First Freedom Fighter
+4130,aditya roy kapoor,Aashiqui 2
+4131,shraddha kapoor,Aashiqui 2
+4132,shaad randhawa,Aashiqui 2
+4133,salil acharya,Aashiqui 2
+4134,abishek anand,Chakradhaar
+4135,zakir hussain,Chakradhaar
+4136,darshan jariwala,Chakradhaar
+4137,vidya malvade,Chakradhaar
+4138,swara bhaskar,Machhli Jal Ki Rani Hai
+4139,reema debnath,Machhli Jal Ki Rani Hai
+4140,saurabh dubey,Machhli Jal Ki Rani Hai
+4141,hritu,Machhli Jal Ki Rani Hai
+4142,kanwaljit singh,Myoho
+4143,yashpal sharma,Myoho
+4144,malay chakrabarty,Myoho
+4145,brijendra kala,Myoho
+4146,asif basra,Kai po che!
+4147,digvijay deshmukh,Kai po che!
+4148,manav kaul,Kai po che!
+4149,amrita puri,Kai po che!
+4150,malini awasthi,Issaq
+4151,sandeep bose,Issaq
+4152,amyra dastur,Issaq
+4153,makrand deshpande,Issaq
+4154,deepika padukone,Goliyon Ki Rasleela Ram-Leela
+4155,ranveer singh,Goliyon Ki Rasleela Ram-Leela
+4156,supriya pathak,Goliyon Ki Rasleela Ram-Leela
+4157,sharad kelkar,Goliyon Ki Rasleela Ram-Leela
+4158,barun sobti,Main Aur Mr. Riight
+4159,shenaz treasury,Main Aur Mr. Riight
+4160,kavi shastri,Main Aur Mr. Riight
+4161,danny sura,Main Aur Mr. Riight
+4162,tia bajpai,Identity Card
+4163,brijendra kala,Identity Card
+4164,prashaant kumar,Identity Card
+4165,vipin sharma,Identity Card
+4166,vicky ahuja,1920: Evil Returns
+4167,tia bajpai,1920: Evil Returns
+4168,sharad kelkar,1920: Evil Returns
+4169,vidya malvade,1920: Evil Returns
+4170,anisa butt,Baat Bann Gayi
+4171,ali fazal,Baat Bann Gayi
+4172,gulshan grover,Baat Bann Gayi
+4173,razzak khan,Baat Bann Gayi
+4174,sharman joshi,3 Bachelors
+4175,negar khan,3 Bachelors
+4176,nigaar khan,3 Bachelors
+4177,manish nagpal,3 Bachelors
+4178,farooq shaikh,Listen... Amaya
+4179,deepti naval,Listen... Amaya
+4180,swara bhaskar,Listen... Amaya
+4181,amala akkineni,Listen... Amaya
+4182,ranveer singh,Lootera
+4183,sonakshi sinha,Lootera
+4184,adil hussain,Lootera
+4185,vikrant massey,Lootera
+4186,sidhant kapur,Tutiya Dil
+4187,iris maity,Tutiya Dil
+4188,suzanna mukherjee,Tutiya Dil
+4189,nikhil sabharwal,Tutiya Dil
+4190,randeep hooda,Jism 2
+4191,sunny leone,Jism 2
+4192,arunoday singh,Jism 2
+4193,junayeed bin fakhrul,Jism 2
+4194,paresh rawal,Table No. 21
+4195,rajeev khandelwal,Table No. 21
+4196,tina desai,Table No. 21
+4197,dhruv ganesh,Table No. 21
+4198,sunil shetty,Mere Dost Picture Abhi Baaki Hai
+4199,udita goswami,Mere Dost Picture Abhi Baaki Hai
+4200,rajpal yadav,Mere Dost Picture Abhi Baaki Hai
+4201,mukesh ahuja,Mere Dost Picture Abhi Baaki Hai
+4202,habeeb aidroos,Siyaah..
+4203,zarine ali,Siyaah..
+4204,madhulagna das,Siyaah..
+4205,faheem ul haq,Siyaah..
+4206,habib aazmi,Shudra the Rising
+4207,priya annatram,Shudra the Rising
+4208,pravin baby,Shudra the Rising
+4209,mahesh balraj,Shudra the Rising
+4210,asrani,Cheenti Cheenti Bang Bang
+4211,mahesh manjrekar,Cheenti Cheenti Bang Bang
+4212,anjan srivastav,Cheenti Cheenti Bang Bang
+4213,ashish vidyarthi,Cheenti Cheenti Bang Bang
+4214,omkar das manikpuri,Aalaap
+4215,ashish patil,Aalaap
+4216,pitobash,Aalaap
+4217,amit purohit,Aalaap
+4218,hemant pandey,2 Nights in Soul Valley
+4219,sumeet sharma,2 Nights in Soul Valley
+4220,sumeet sharma,2 Nights in Soul Valley
+4221,aakshi khari,2 Nights in Soul Valley
+4222,manish chaudhary,Blood Money
+4223,kunal khemu,Blood Money
+4224,amrita puri,Blood Money
+4225,teeshay shah,Blood Money
+4226,vidya balan,Ghanchakkar
+4227,emraan hashmi,Ghanchakkar
+4228,parvin dabas,Ghanchakkar
+4229,rajesh sharma,Ghanchakkar
+4230,vickrant mahajan,Challo Driver
+4231,kainaz motivala,Challo Driver
+4232,prem chopra,Challo Driver
+4233,deepak arora,Challo Driver
+4234,sanjay amar,Future to Bright Hai Ji
+4235,asrani,Future to Bright Hai Ji
+4236,neelima azim,Future to Bright Hai Ji
+4237,aamir bashir,Future to Bright Hai Ji
+4238,rani mukerji,Aiyyaa
+4239,prithviraj sukumaran,Aiyyaa
+4240,nirmiti sawant,Aiyyaa
+4241,subodh bhave,Aiyyaa
+4242,emraan hashmi,Rush
+4243,aditya pancholi,Rush
+4244,sagarika ghatge,Rush
+4245,neha dhupia,Rush
+4246,kavin dave,Bumboo
+4247,shailesh hejmady,Bumboo
+4248,bikramjeet kanwarpal,Bumboo
+4249,sumit kaul,Bumboo
+4250,imran khan,Gori Tere Pyaar Mein
+4251,kareena kapoor,Gori Tere Pyaar Mein
+4252,nizhalgal ravi,Gori Tere Pyaar Mein
+4253,anupam kher,Gori Tere Pyaar Mein
+4254,kareena kapoor,Satyagraha
+4255,amitabh bachchan,Satyagraha
+4256,ajay devgn,Satyagraha
+4257,arjun rampal,Satyagraha
+4258,asrani,Kamaal Dhamaal Malamaal
+4259,madhurima banerjee,Kamaal Dhamaal Malamaal
+4260,shakti kapoor,Kamaal Dhamaal Malamaal
+4261,pratima kazmi,Kamaal Dhamaal Malamaal
+4262,rajesh khanna,Riyasat
+4263,aryeman ramsay,Riyasat
+4264,raza murad,Riyasat
+4265,aryan vaid,Riyasat
+4266,arjun rampal,Chakravyuh
+4267,abhay deol,Chakravyuh
+4268,manoj bajpayee,Chakravyuh
+4269,esha gupta,Chakravyuh
+4270,ravi kishan,Jeena Hai Toh Thok Daal
+4271,manish vatsalya,Jeena Hai Toh Thok Daal
+4272,yashpal sharma,Jeena Hai Toh Thok Daal
+4273,rahul kumar,Jeena Hai Toh Thok Daal
+4274,john abraham,Shootout at Wadala
+4275,kangana ranaut,Shootout at Wadala
+4276,anil kapoor,Shootout at Wadala
+4277,vineet sharma,Shootout at Wadala
+4278,subhash ahuja,Second Marriage Dot Com
+4279,syna anand,Second Marriage Dot Com
+4280,raman atre,Second Marriage Dot Com
+4281,rajat bhalla,Second Marriage Dot Com
+4282,arjun kapoor,Born to Hate... Destined to Love
+4283,parineeti chopra,Born to Hate... Destined to Love
+4284,gauhar khan,Born to Hate... Destined to Love
+4285,anil rastogi,Born to Hate... Destined to Love
+4286,divya divedi,Milta Hai Chance by Chance
+4287,sana govil,Milta Hai Chance by Chance
+4288,jawahar jairath,Milta Hai Chance by Chance
+4289,vishal kaushik,Milta Hai Chance by Chance
+4290,kareena kapoor,Singham Returns
+4291,ajay devgn,Singham Returns
+4292,anupam kher,Singham Returns
+4293,yo yo honey singh,Singham Returns
+4294,paoli dam,Hate Story
+4295,nikhil dwivedi,Hate Story
+4296,gulshan devaiah,Hate Story
+4297,saurabh dubey,Hate Story
+4298,sunidhi chauhan,Sons of Ram
+4299,ettienne couthino,Sons of Ram
+4300,devansh doshi,Sons of Ram
+4301,saptharishi ghosh,Sons of Ram
+4302,nikhil dwivedi,Tamanchey
+4303,richa chadda,Tamanchey
+4304,mahesh balraj,Tamanchey
+4305,kislaya dwivedi,Tamanchey
+4306,ayushmann khurrana,Vicky Donor
+4307,yami gautam,Vicky Donor
+4308,annu kapoor,Vicky Donor
+4309,dolly ahluwalia,Vicky Donor
+4310,manisha kelkar,Bandook
+4311,arshad khan,Bandook
+4312,ashish kotwal,Bandook
+4313,aditya om,Bandook
+4314,mohammed zeeshan ayyub,Jannat 2
+4315,viren basoya,Jannat 2
+4316,manish chaudhary,Jannat 2
+4317,esha gupta,Jannat 2
+4318,prabhudheva,ABCD (Any Body Can Dance)
+4319,ganesh acharya,ABCD (Any Body Can Dance)
+4320,kay kay menon,ABCD (Any Body Can Dance)
+4321,lauren gottlieb,ABCD (Any Body Can Dance)
+4322,manoj bajpayee,Krishna Aur Kans
+4323,harish bhimani,Krishna Aur Kans
+4324,neetu chaudhary,Krishna Aur Kans
+4325,juhi chawla,Krishna Aur Kans
+4326,saqib saleem,Mere Dad Ki Maruti
+4327,rhea chakraborty,Mere Dad Ki Maruti
+4328,ram kapoor,Mere Dad Ki Maruti
+4329,prabal panjabi,Mere Dad Ki Maruti
+4330,kay kay menon,Life Ki Toh Lag Gayi
+4331,ranvir shorey,Life Ki Toh Lag Gayi
+4332,pradhuman singh,Life Ki Toh Lag Gayi
+4333,neha bhasin,Life Ki Toh Lag Gayi
+4334,rani agrawal,Love Recipe
+4335,frank m. ahearn,Love Recipe
+4336,suzanne bernert,Love Recipe
+4337,sudha chandran,Love Recipe
+4338,deepak dobriyal,Chor chor super chor
+4339,priya bhatija,Chor chor super chor
+4340,anshul kataria,Chor chor super chor
+4341,paru uma,Chor chor super chor
+4342,aamir khan,PK
+4343,anushka sharma,PK
+4344,sanjay dutt,PK
+4345,boman irani,PK
+4346,mohan agashe,Maximum
+4347,arya babbar,Maximum
+4348,neha dhupia,Maximum
+4349,rajendra gupta,Maximum
+4350,ayushmann khurrana,Nautanki Saala!
+4351,kunaal roy kapur,Nautanki Saala!
+4352,pooja salvi,Nautanki Saala!
+4353,gaelyn mendonca,Nautanki Saala!
+4354,barkha bisht,Chhodo Kal Ki Baatein
+4355,balaji iyer,Chhodo Kal Ki Baatein
+4356,raghavendra kadkol,Chhodo Kal Ki Baatein
+4357,sachin khedekar,Chhodo Kal Ki Baatein
+4358,ajay devgn,Himmatwala
+4359,tamannaah bhatia,Himmatwala
+4360,mahesh manjrekar,Himmatwala
+4361,paresh rawal,Himmatwala
+4362,ashok banthia,Cigarette Ki Tarah
+4363,sudesh berry,Cigarette Ki Tarah
+4364,yuvika chaudhry,Cigarette Ki Tarah
+4365,prashant narayanan,Cigarette Ki Tarah
+4366,pulkit samrat,Bittoo Boss
+4367,rajesh bakshi,Bittoo Boss
+4368,wamiqa gabbi,Bittoo Boss
+4369,amita pathak,Bittoo Boss
+4370,irrfan khan,The Lunchbox
+4371,nimrat kaur,The Lunchbox
+4372,nawazuddin siddiqui,The Lunchbox
+4373,lillete dubey,The Lunchbox
+4374,shona chabra,Janleva 555
+4375,raja hasan,Janleva 555
+4376,akash hora,Janleva 555
+4377,mann hora,Janleva 555
+4378,rahul bairagi,Mumbai's King
+4379,dhanshree jain,Mumbai's King
+4380,arbaaz khan,Mumbai's King
+4381,salman khan,Mumbai's King
+4382,shahid kapoor,Teri Meri Kahaani
+4383,priyanka chopra,Teri Meri Kahaani
+4384,prachi desai,Teri Meri Kahaani
+4385,neha sharma,Teri Meri Kahaani
+4386,farhan akhtar,Bhaag Milkha Bhaag
+4387,sonam kapoor,Bhaag Milkha Bhaag
+4388,pavan malhotra,Bhaag Milkha Bhaag
+4389,art malik,Bhaag Milkha Bhaag
+4390,jacky bhagnani,Ajab Gazabb Love
+4391,nidhi subbaiah,Ajab Gazabb Love
+4392,darshan jariwala,Ajab Gazabb Love
+4393,kiron kher,Ajab Gazabb Love
+4394,ram charan,Zanjeer
+4395,priyanka chopra,Zanjeer
+4396,sanjay dutt,Zanjeer
+4397,prakash raj,Zanjeer
+4398,shruti k. haasan,Ramaiya Vastavaiya
+4399,girish taurani,Ramaiya Vastavaiya
+4400,randhir kapoor,Ramaiya Vastavaiya
+4401,sonu sood,Ramaiya Vastavaiya
+4402,'chiyaan' vikram,David
+4403,neil nitin mukesh,David
+4404,vinay virmani,David
+4405,tabu,David
+4406,dhanush,Raanjhanaa
+4407,sonam kapoor,Raanjhanaa
+4408,mohammed zeeshan ayyub,Raanjhanaa
+4409,swara bhaskar,Raanjhanaa
+4410,farooq shaikh,Club 60
+4411,sarika,Club 60
+4412,raghuvir yadav,Club 60
+4413,satish shah,Club 60
+4414,raj babbar,Saheb Biwi Aur Gangster Returns
+4415,mahie gill,Saheb Biwi Aur Gangster Returns
+4416,mugdha godse,Saheb Biwi Aur Gangster Returns
+4417,rajiv gupta,Saheb Biwi Aur Gangster Returns
+4418,sagar bhangade,Chal Pichchur Banate Hain
+4419,mukesh bhatt,Chal Pichchur Banate Hain
+4420,vipul bhatt,Chal Pichchur Banate Hain
+4421,manmeet dhanjal,Chal Pichchur Banate Hain
+4422,shahid kapoor,R... Rajkumar
+4423,sonakshi sinha,R... Rajkumar
+4424,sonu sood,R... Rajkumar
+4425,ashish vidyarthi,R... Rajkumar
+4426,salman khan,Kick
+4427,jacqueline fernandez,Kick
+4428,nawazuddin siddiqui,Kick
+4429,randeep hooda,Kick
+4430,arjun kapoor,2 States
+4431,alia bhatt,2 States
+4432,amrita singh,2 States
+4433,revathy,2 States
+4434,akshay kumar,Special 26
+4435,kajal agarwal,Special 26
+4436,manoj bajpayee,Special 26
+4437,jimmy shergill,Special 26
+4438,kiran bhatia,?: A Question Mark
+4439,yaman chatwal,?: A Question Mark
+4440,maanvi gagroo,?: A Question Mark
+4441,chirag jain,?: A Question Mark
+4442,harish chabbra,Jalpari: The Desert Mermaid
+4443,tannishtha chatterjee,Jalpari: The Desert Mermaid
+4444,parvin dabas,Jalpari: The Desert Mermaid
+4445,rajendra gupta,Jalpari: The Desert Mermaid
+4446,asha bhosle,Mai
+4447,kshitee jog,Mai
+4448,shivani joshi,Mai
+4449,ram kapoor,Mai
+4450,jaideep ahlawat,Aatma
+4451,bipasha basu,Aatma
+4452,padam bhola,Aatma
+4453,darshan jariwala,Aatma
+4454,chandan roy sanyal,Prague
+4455,arfi lamba,Prague
+4456,kumar mayank,Prague
+4457,sonia bindra,Prague
+4458,vivek oberoi,Kismet Love Paisa Dilli
+4459,mallika sherawat,Kismet Love Paisa Dilli
+4460,neha dhupia,Kismet Love Paisa Dilli
+4461,anshuman jha,Kismet Love Paisa Dilli
+4462,parimal aloke,Saari Raat
+4463,paru gambhir,Saari Raat
+4464,yuddvir bakolia,Arjun: The Warrior Prince
+4465,ila arun,Arjun: The Warrior Prince
+4466,anjan srivastav,Arjun: The Warrior Prince
+4467,sachin khedekar,Arjun: The Warrior Prince
+4468,akash,Bloody Isshq
+4469,shilpa anand,Bloody Isshq
+4470,karan mehra,Bloody Isshq
+4471,tripta parashar,Bloody Isshq
+4472,neil nitin mukesh,3G - A Killer Connection
+4473,sonal chauhan,3G - A Killer Connection
+4474,himani chauhan,3G - A Killer Connection
+4475,devraj das,3G - A Killer Connection
+4476,frank m. ahearn,Overtime
+4477,ramnita chaudhry,Overtime
+4478,preeti chauhan,Overtime
+4479,divya dutta,Overtime
+4480,j.d. chakravarthi,Bhoot Returns
+4481,nitin jadhav,Bhoot Returns
+4482,manisha koirala,Bhoot Returns
+4483,madhu shalini,Bhoot Returns
+4484,emraan hashmi,Ek Thi Daayan
+4485,konkona sen sharma,Ek Thi Daayan
+4486,kalki koechlin,Ek Thi Daayan
+4487,huma qureshi,Ek Thi Daayan
+4488,tinnu anand,Rabba Main Kya Karoon
+4489,raj babbar,Rabba Main Kya Karoon
+4490,akash chopra,Rabba Main Kya Karoon
+4491,shakti kapoor,Rabba Main Kya Karoon
+4492,nushrat bharucha,Akaash Vani
+4493,kiran kumar,Akaash Vani
+4494,gautam mehra,Akaash Vani
+4495,sunny singh nijjar,Akaash Vani
+4496,randeep hooda,Murder 3
+4497,aditi rao hydari,Murder 3
+4498,sara loren,Murder 3
+4499,rajesh shringarpore,Murder 3
+4500,nafisa ali,Khwaabb
+4501,simer motiani,Khwaabb
+4502,bajrangbali singh,Khwaabb
+4503,navdip singh,Khwaabb
+4504,saif ali khan,Go Goa Gone
+4505,kunal khemu,Go Goa Gone
+4506,vir das,Go Goa Gone
+4507,anand tiwari,Go Goa Gone
+4508,sunny deol,Singh Saab the Great
+4509,amrita rao,Singh Saab the Great
+4510,urvashi rautela,Singh Saab the Great
+4511,prakash raj,Singh Saab the Great
+4512,kangana ranaut,Rajjo
+4513,prakash raj,Rajjo
+4514,mahesh manjrekar,Rajjo
+4515,paras arora,Rajjo
+4516,shah rukh khan,Happy New Year
+4517,deepika padukone,Happy New Year
+4518,vivaan shah,Happy New Year
+4519,kareena kapoor,Happy New Year
+4520,ritesh deshmukh,Grand Masti
+4521,vivek oberoi,Grand Masti
+4522,aftab shivdasani,Grand Masti
+4523,suresh menon,Grand Masti
+4524,dharmendra,Yamla Pagla Deewana 2
+4525,sunny deol,Yamla Pagla Deewana 2
+4526,bobby deol,Yamla Pagla Deewana 2
+4527,neha sharma,Yamla Pagla Deewana 2
+4528,mohammed zeeshan ayyub,Maazii
+4529,ashok banthia,Maazii
+4530,devender chaudhary,Maazii
+4531,manish chaudhary,Maazii
+4532,akshay kumar,Holiday
+4533,sonakshi sinha,Holiday
+4534,freddy daruwala,Holiday
+4535,sumeet raghvan,Holiday
+4536,ishrat ali,Rajdhani Express
+4537,nishant balgovind,Rajdhani Express
+4538,sayali bhagat,Rajdhani Express
+4539,puja bose,Rajdhani Express
+4540,akshay kumar,Boss
+4541,shiv pandit,Boss
+4542,mithun chakraborty,Boss
+4543,ronit roy,Boss
+4544,madhuri dixit,Gulaab Gang
+4545,juhi chawla,Gulaab Gang
+4546,divya jagdale,Gulaab Gang
+4547,priyanka bose,Gulaab Gang
+4548,ranveer singh,Gunday
+4549,arjun kapoor,Gunday
+4550,priyanka chopra,Gunday
+4551,irrfan khan,Gunday
+4552,ranbir kapoor,Besharam
+4553,pallavi sharda,Besharam
+4554,rishi kapoor,Besharam
+4555,neetu singh,Besharam
+4556,aadil abedi,Mere Haule Dost
+4557,catherine fallows,Mere Haule Dost
+4558,kiran gadalay,Mere Haule Dost
+4559,raghuvardhan garlapati,Mere Haule Dost
+4560,sunny leone,Ragini MMS 2
+4561,saahil prem,Ragini MMS 2
+4562,parvin dabas,Ragini MMS 2
+4563,sandhya mridul,Ragini MMS 2
+4564,nivedita bhattacharya,Sona Spa
+4565,devyani,Sona Spa
+4566,shailesh hejmady,Sona Spa
+4567,neha iyyer,Sona Spa
+4568,shradha das,Lucky Kabootar
+4569,eijaz khan,Lucky Kabootar
+4570,ravi kishan,Lucky Kabootar
+4571,atul mathur,Lucky Kabootar
+4572,vikas anand,Pehli Nazar Ka Pyaar
+4573,sweety chhabra,Pehli Nazar Ka Pyaar
+4574,farida dadi,Pehli Nazar Ka Pyaar
+4575,raja duggal,Pehli Nazar Ka Pyaar
+4576,rati agnihotri,Dehraadun Diary
+4577,neelima azim,Dehraadun Diary
+4578,rohit bakshi,Dehraadun Diary
+4579,vishal bhosle,Dehraadun Diary
+4580,shahid kapoor,Phata Poster Nikhla Hero
+4581,ileana,Phata Poster Nikhla Hero
+4582,padmini kolhapure,Phata Poster Nikhla Hero
+4583,mukesh tiwari,Phata Poster Nikhla Hero
+4584,arshad warsi,Jolly LLB
+4585,amrita rao,Jolly LLB
+4586,boman irani,Jolly LLB
+4587,saurabh shukla,Jolly LLB
+4588,zakir hussain,Jayantabhai Ki Luv Story
+4589,nasser,Jayantabhai Ki Luv Story
+4590,vivek oberoi,Jayantabhai Ki Luv Story
+4591,neha sharma,Jayantabhai Ki Luv Story
+4592,sarita joshi,Gangoobai
+4593,purab kohli,Gangoobai
+4594,mita vasisht,Gangoobai
+4595,rajendranath zutshi,Gangoobai
+4596,rekha,Super Nani
+4597,sharman joshi,Super Nani
+4598,randhir kapoor,Super Nani
+4599,anupam kher,Super Nani
+4600,benjamin gilani,Rise of the Zombie
+4601,luke kenny,Rise of the Zombie
+4602,kirti kulhari,Rise of the Zombie
+4603,ashwin mushran,Rise of the Zombie
+4604,nana patekar,The Attacks of 26/11
+4605,atul kulkarni,The Attacks of 26/11
+4606,ganesh yadav,The Attacks of 26/11
+4607,ferzad jehani,The Attacks of 26/11
+4608,naseeruddin shah,Dedh Ishqiya
+4609,madhuri dixit,Dedh Ishqiya
+4610,arshad warsi,Dedh Ishqiya
+4611,huma qureshi,Dedh Ishqiya
+4612,naveen kasturia,Sulemani Keeda
+4613,mayank tewari,Sulemani Keeda
+4614,aditi vasudev,Sulemani Keeda
+4615,karan mirchandani,Sulemani Keeda
+4616,aparna bajpai,Mumbai 125 KM 3D
+4617,karanvir bohra,Mumbai 125 KM 3D
+4618,joe debroy,Mumbai 125 KM 3D
+4619,veena malik,Mumbai 125 KM 3D
+4620,naseeruddin shah,John Day
+4621,randeep hooda,John Day
+4622,taran bajaj,John Day
+4623,harsh chhaya,John Day
+4624,jacky bhagnani,Rangrezz
+4625,priya anand,Rangrezz
+4626,rajpal yadav,Rangrezz
+4627,amitosh nagpal,Rangrezz
+4628,ali zafar,Total Chaos
+4629,yami gautam,Total Chaos
+4630,anupam kher,Total Chaos
+4631,kiron kher,Total Chaos
+4632,salman khan,Main Tera Hero
+4633,ileana,Main Tera Hero
+4634,anupam kher,Main Tera Hero
+4635,varun dhawan,Main Tera Hero
+4636,annu kapoor,Badlapur Boys
+4637,anupam maanav,Badlapur Boys
+4638,saranya mohan,Badlapur Boys
+4639,nishan,Badlapur Boys
+4640,manish paul,Mickey Virus
+4641,dean alexandrou,Mickey Virus
+4642,elli avram,Mickey Virus
+4643,varun badola,Mickey Virus
+4644,rani mukerji,Bombay Talkies
+4645,randeep hooda,Bombay Talkies
+4646,saqib saleem,Bombay Talkies
+4647,nawazuddin siddiqui,Bombay Talkies
+4648,jigna bhardwaj,Chhota Bheem and the Curse of Damyaan
+4649,chutki,Chhota Bheem and the Curse of Damyaan
+4650,kaustav ghosh,Chhota Bheem and the Curse of Damyaan
+4651,rajesh kava,Chhota Bheem and the Curse of Damyaan
+4652,arjun kapoor,Aurangzeb
+4653,prithviraj sukumaran,Aurangzeb
+4654,jackie shroff,Aurangzeb
+4655,rishi kapoor,Aurangzeb
+4656,priya anand,Fukrey
+4657,richa chadda,Fukrey
+4658,kapil dubey,Fukrey
+4659,ali fazal,Fukrey
+4660,divya dutta,Gippi
+4661,arbaz kadwani,Gippi
+4662,taaha shah,Gippi
+4663,doorva tripathi,Gippi
+4664,hussain kuwajerwala,Shree
+4665,paresh ganatra,Shree
+4666,rio kapadia,Shree
+4667,shivani tanksale,Shree
+4668,tusshar kapoor,Bajatey Raho
+4669,vinay pathak,Bajatey Raho
+4670,ranvir shorey,Bajatey Raho
+4671,vishakha singh,Bajatey Raho
+4672,john abraham,Madras Cafe
+4673,nargis fakhri,Madras Cafe
+4674,rashi khanna,Madras Cafe
+4675,avijit dutt,Madras Cafe
+4676,sanjai mishra,Saare Jahaan Se Mehnga...
+4677,vishwa s. badola,Saare Jahaan Se Mehnga...
+4678,ranjan chhabra,Saare Jahaan Se Mehnga...
+4679,zakir hussain,Saare Jahaan Se Mehnga...
+4680,sanjay dutt,Policegiri
+4681,prachi desai,Policegiri
+4682,prakash raj,Policegiri
+4683,om puri,Policegiri
+4684,rhea chakraborty,Sonali Cable
+4685,ali fazal,Sonali Cable
+4686,smita jaykar,Sonali Cable
+4687,raghav juyal,Sonali Cable
+4688,arshad warsi,Mr Joe B. Carvalho
+4689,soha ali khan,Mr Joe B. Carvalho
+4690,rajesh balwani,Mr Joe B. Carvalho
+4691,geeta basra,Mr Joe B. Carvalho
+4692,hrithik roshan,Bang Bang
+4693,katrina kaif,Bang Bang
+4694,pavan malhotra,Bang Bang
+4695,danny denzongpa,Bang Bang
+4696,mohinder gujral,Paranthe Wali Gali
+4697,yuvraj haral,Paranthe Wali Gali
+4698,vijayant kohli,Paranthe Wali Gali
+4699,neha pawar,Paranthe Wali Gali
+4700,tisca chopra,Ankur Arora Murder Case
+4701,paoli dam,Ankur Arora Murder Case
+4702,arjun mathur,Ankur Arora Murder Case
+4703,kay kay menon,Ankur Arora Murder Case
+4704,swati aggarwal,Zindagi 50 50
+4705,arya babbar,Zindagi 50 50
+4706,kurush deboo,Zindagi 50 50
+4707,adi irani,Zindagi 50 50
+4708,mimoh chakraborty,Enemmy
+4709,mithun chakraborty,Enemmy
+4710,yuvika chaudhry,Enemmy
+4711,zakir hussain,Enemmy
+4712,asrani,It's Rocking: Dard-E-Disco
+4713,arun bakshi,It's Rocking: Dard-E-Disco
+4714,dinesh hingoo,It's Rocking: Dard-E-Disco
+4715,preeti jain,It's Rocking: Dard-E-Disco
+4716,abhay deol,One by Two
+4717,preeti desai,One by Two
+4718,lillete dubey,One by Two
+4719,rati agnihotri,One by Two
+4720,wamiqa gabbi,Sixteen
+4721,izabelle liete,Sixteen
+4722,mehak manwani,Sixteen
+4723,highphill mathew,Sixteen
+4724,vibha chhibber,Lakshmi
+4725,ram kapoor,Lakshmi
+4726,satish kaushik,Lakshmi
+4727,gulfam khan,Lakshmi
+4728,akshay kumar,Entertainment
+4729,tamannaah bhatia,Entertainment
+4730,johnny lever,Entertainment
+4731,prakash raj,Entertainment
+4732,alia bhatt,Highway
+4733,randeep hooda,Highway
+4734,durgesh kumar,Highway
+4735,arjun malhotra,Highway
+4736,sushant singh rajput,Shuddh Desi Romance
+4737,parineeti chopra,Shuddh Desi Romance
+4738,vaani kapoor,Shuddh Desi Romance
+4739,rishi kapoor,Shuddh Desi Romance
+4740,siddharth gupta,Kuku Mathur Ki Jhand Ho Gayi
+4741,simran kaur mundi,Kuku Mathur Ki Jhand Ho Gayi
+4742,pallavi batra,Kuku Mathur Ki Jhand Ho Gayi
+4743,roopa ganguly,Kuku Mathur Ki Jhand Ho Gayi
+4744,priyanka chopra,Mary Kom
+4745,zachary coffin,Mary Kom
+4746,darshan kumaar,Mary Kom
+4747,darshan kumar,Mary Kom
+4748,tinnu anand,Sooper Se Ooper
+4749,mahesh balraj,Sooper Se Ooper
+4750,mithilesh chaturvedi,Sooper Se Ooper
+4751,vir das,Sooper Se Ooper
+4752,saif ali khan,Happy Ending
+4753,ileana,Happy Ending
+4754,kalki koechlin,Happy Ending
+4755,ranvir shorey,Happy Ending
+4756,soha ali khan,Chaarfutiya Chhokare
+4757,zakir hussain,Chaarfutiya Chhokare
+4758,seema biswas,Chaarfutiya Chhokare
+4759,mukesh tiwari,Chaarfutiya Chhokare
+4760,vicky ahuja,Lakeer ka Fakeer
+4761,ajaz khan,Lakeer ka Fakeer
+4762,maarisha,Lakeer ka Fakeer
+4763,javed rizvi,Lakeer ka Fakeer
+4764,saif ali khan,Humshakals
+4765,ritesh deshmukh,Humshakals
+4766,ram kapoor,Humshakals
+4767,bipasha basu,Humshakals
+4768,kartik tiwari,Kaanchi
+4769,mishti,Kaanchi
+4770,rishi kapoor,Kaanchi
+4771,mithun chakraborty,Kaanchi
+4772,ranbir chakma,Nasha
+4773,nikhil desai,Nasha
+4774,raj kesaria,Nasha
+4775,rohan khurana,Nasha
+4776,brijesh kori,Tara: The Journey of Love and Passion
+4777,sapna choubisa,Tara: The Journey of Love and Passion
+4778,shreechand makhija,Tara: The Journey of Love and Passion
+4779,rohit raj,Tara: The Journey of Love and Passion
+4780,anjori alagh,Manjunath
+4781,karan ashar,Manjunath
+4782,asif basra,Manjunath
+4783,seema biswas,Manjunath
+4784,puneet singh ratn,Satya 2
+4785,sharvanand,Satya 2
+4786,anaika soti,Satya 2
+4787,mahesh thakur,Satya 2
+4788,santosh barmola,Warning
+4789,jitin gulati,Warning
+4790,manjari phadnis,Warning
+4791,suzana rodrigues,Warning
+4792,tiger shroff,Heropanti
+4793,kriti sanon,Heropanti
+4794,parth akerkar,Heropanti
+4795,anuradha chandan,Heropanti
+4796,deepika padukone,Finding Fanny
+4797,arjun kapoor,Finding Fanny
+4798,naseeruddin shah,Finding Fanny
+4799,dimple kapadia,Finding Fanny
+4800,buali shah,Ooops a Desi
+4801,pragathi yadhati,Ooops a Desi
+4802,adnan khalid,Ooops a Desi
+4803,c. jenner jose,Ooops a Desi
+4804,raghuvir yadav,Meinu Ek Ladki Chaahiye
+4805,zakir hussain,Meinu Ek Ladki Chaahiye
+4806,yatin karyekar,Meinu Ek Ladki Chaahiye
+4807,irfan raza khan,Meinu Ek Ladki Chaahiye
+4808,shweta bhardwaj,Raqt
+4809,gulshan grover,Raqt
+4810,adi irani,Raqt
+4811,farida jalal,Raqt
+4812,sidharth malhotra,Hasee Toh Phasee
+4813,parineeti chopra,Hasee Toh Phasee
+4814,adah sharma,Hasee Toh Phasee
+4815,manoj joshi,Hasee Toh Phasee
+4816,aparna bajpai,Horror Story
+4817,ravish desai,Horror Story
+4818,karan kundra,Horror Story
+4819,nandini vaid,Horror Story
+4820,shahbaz baweja,Le Gaya Saddam
+4821,umesh gautam,Le Gaya Saddam
+4822,nandini jumani,Le Gaya Saddam
+4823,ravindra kale,Le Gaya Saddam
+4824,nazia hussain,Say Yes to Love
+4825,salim khan,Say Yes to Love
+4826,aasad mirza,Say Yes to Love
+4827,saira mirza,Say Yes to Love
+4828,satyakam anand,Shorts
+4829,aparajit bhattacharjee,Shorts
+4830,richa chadda,Shorts
+4831,aditi khanna,Shorts
+4832,ashrita agarwal,Bin Phere Free Me Tere
+4833,arsh deol,Bin Phere Free Me Tere
+4834,manoj joshi,Bin Phere Free Me Tere
+4835,hemant pandey,Bin Phere Free Me Tere
+4836,kangana ranaut,Revolver Rani
+4837,vir das,Revolver Rani
+4838,zakir hussain,Revolver Rani
+4839,jami jafry,Revolver Rani
+4840,farhan akhtar,Shaadi Ke Side Effects
+4841,vidya balan,Shaadi Ke Side Effects
+4842,vir das,Shaadi Ke Side Effects
+4843,ram kapoor,Shaadi Ke Side Effects
+4844,indrapal ahuja,Ya Rab
+4845,neha baam,Ya Rab
+4846,vikram dahiya,Ya Rab
+4847,rakesh deewana,Ya Rab
+4848,naseeruddin shah,Jackpot
+4849,sunny leone,Jackpot
+4850,sachiin joshi,Jackpot
+4851,bharath niwas,Jackpot
+4852,nishant dahiya,Titoo MBA
+4853,pragya jaiswal,Titoo MBA
+4854,kangana ranaut,Queen
+4855,rajkummar rao,Queen
+4856,lisa haydon,Queen
+4857,mish boyko,Queen
+4858,rupa bhimani,Chhota Bheem and the Throne of Bali
+4859,vivaan bhimani,Chhota Bheem and the Throne of Bali
+4860,parignya pandya shah,Chhota Bheem and the Throne of Bali
+4861,adhyayan suman,Heartless
+4862,ariana ayam,Heartless
+4863,deepti naval,Heartless
+4864,om puri,Heartless
+4865,manu rishi chadha,What the Fish
+4866,naresh gosain,What the Fish
+4867,dimple kapadia,What the Fish
+4868,deepti pujari,What the Fish
+4869,vidya balan,Bobby Jasoos
+4870,ali fazal,Bobby Jasoos
+4871,mahima a,Bobby Jasoos
+4872,abhishek c,Bobby Jasoos
+4873,emraan hashmi,Ungli
+4874,kangana ranaut,Ungli
+4875,sanjay dutt,Ungli
+4876,randeep hooda,Ungli
+4877,farooq shaikh,Children of War
+4878,victor banerjee,Children of War
+4879,pavan malhotra,Children of War
+4880,indraneil sengupta,Children of War
+4881,ranveer singh,Kill Dil
+4882,ali zafar,Kill Dil
+4883,parineeti chopra,Kill Dil
+4884,govinda,Kill Dil
+4885,himansh kohli,Yaariyan
+4886,vivek bhatnagar,Yaariyan
+4887,nicole faria,Yaariyan
+4888,gulshan grover,Yaariyan
+4889,tabu,Haider
+4890,shahid kapoor,Haider
+4891,shraddha kapoor,Haider
+4892,kay kay menon,Haider
+4893,aditya roy kapoor,Daawat-e-Ishq
+4894,parineeti chopra,Daawat-e-Ishq
+4895,anupam kher,Daawat-e-Ishq
+4896,amitabh bachchan,Mahabharat
+4897,ajay devgn,Mahabharat
+4898,vidya balan,Mahabharat
+4899,sunny deol,Mahabharat
+4900,sahil anand,Babloo Happy Hai
+4901,parvin dabas,Babloo Happy Hai
+4902,erica fernandes,Babloo Happy Hai
+4903,preet kamal,Babloo Happy Hai
+4904,jimmy shergill,Darr @ the Mall
+4905,nushrat bharucha,Darr @ the Mall
+4906,arif zakaria,Darr @ the Mall
+4907,asif basra,Darr @ the Mall
+4908,shiv darshan,Karle Pyaar Karle
+4909,hasleen kaur,Karle Pyaar Karle
+4910,aham sharma,Karle Pyaar Karle
+4911,tanya malik,Karle Pyaar Karle
+4912,pulkit samrat,O Teri
+4913,bilal amrohi,O Teri
+4914,sarah-jane dias,O Teri
+4915,mandira bedi,O Teri
+4916,ayushmann khurrana,Bewakoofiyaan
+4917,sonam kapoor,Bewakoofiyaan
+4918,rishi kapoor,Bewakoofiyaan
+4919,swedha singh,Bewakoofiyaan
+4920,mohammed zeeshan ayyub,Raja Natwarlal
+4921,tarun dudeja,Raja Natwarlal
+4922,emraan hashmi,Raja Natwarlal
+4923,narendra jetley,Raja Natwarlal
+4924,rani mukerji,Mardaani
+4925,tahir raj bhasin,Mardaani
+4926,gautam babbar,Mardaani
+4927,probir dutt,Mardaani
+4928,sanjiv chopra,Mokssh
+4929,chinmay mandlekar,Mokssh
+4930,suhas sirsat,Mokssh
+4931,sukhada yash,Mokssh
+4932,omkar das manikpuri,Ebn-e-Batuta
+4933,rajeev verma,Ebn-e-Batuta
+4934,dev gohar,Ebn-e-Batuta
+4935,satya khare,Ebn-e-Batuta
+4936,mahesh balraj,Hawaa Hawaai
+4937,bugs bhargava,Hawaa Hawaai
+4938,hardik bothra,Hawaa Hawaai
+4939,makrand deshpande,Hawaa Hawaai
+4940,jacky bhagnani,Youngistaan
+4941,neha sharma,Youngistaan
+4942,farooq shaikh,Youngistaan
+4943,boman irani,Youngistaan
+4944,asif basra,Yeh Hai Bakrapur
+4945,anshuman jha,Yeh Hai Bakrapur
+4946,yoshika verma,Yeh Hai Bakrapur
+4947,amit sial,Yeh Hai Bakrapur
+4948,sanjay chauhan,The Dirty Relation
+4949,jasleen matharu,The Dirty Relation
+4950,kanwaljeet matharu,The Dirty Relation
+4951,kesar matharu,The Dirty Relation
+4952,sharman joshi,Gang of Ghosts
+4953,mahie gill,Gang of Ghosts
+4954,asrani,Gang of Ghosts
+4955,parambrata chatterjee,Gang of Ghosts
+4956,amitabh bachchan,Bhoothnath Returns
+4957,boman irani,Bhoothnath Returns
+4958,parth bhalerao,Bhoothnath Returns
+4959,sanjay mishra,Bhoothnath Returns
+4960,harman baweja,Dishkiyaoon
+4961,harsh chhaya,Dishkiyaoon
+4962,sunny deol,Dishkiyaoon
+4963,rajit kapoor,Dishkiyaoon
+4964,deepak dobriyal,Chal Bhaag
+4965,keeya khanna,Chal Bhaag
+4966,sanjay mishra,Chal Bhaag
+4967,yashpal sharma,Chal Bhaag
+4968,ashok banthia,Khoobsurat
+4969,rishabh chaddha,Khoobsurat
+4970,badrul islam,Khoobsurat
+4971,simran jehani,Khoobsurat
+4972,jyoti rana,Karar: The Deal
+4973,shashi wadia,Karar: The Deal
+4974,tarun arora,Karar: The Deal
+4975,mahek chahal,Karar: The Deal
+4976,gajendra chouhan,Kahin Hai Mera Pyar
+4977,shroff jackie,Kahin Hai Mera Pyar
+4978,sanjay kapoor,Kahin Hai Mera Pyar
+4979,sonia mann,Kahin Hai Mera Pyar
+4980,hritu,Neighbours
+4981,sunny singh,Neighbours
+4982,gavie chahal,Neighbours
+4983,arbaaz ali khan,Neighbours
+4984,ajay sinh rathod,Angry Young Man
+4985,prachi sinha,Angry Young Man
+4986,sushant singh,Hate Story 2
+4987,surveen chawla,Hate Story 2
+4988,jay bhanushali,Hate Story 2
+4989,siddharth kher,Hate Story 2
+4990,bipasha basu,Creature
+4991,imran abbas,Creature
+4992,mukul dev,Creature
+4993,deepraj rana,Creature
+4994,ramgopal bajaj,Samrat & Co.
+4995,ajay bhandari,Samrat & Co.
+4996,barkha bisht,Samrat & Co.
+4997,priyanshu chatterjee,Samrat & Co.
+4998,kannan arunachalam,Koyelaanchal
+4999,vinod khanna,Koyelaanchal
+5000,roopali krishnarao,Koyelaanchal
+5001,sunil shetty,Koyelaanchal
+5002,himesh reshammiya,The Xpose
+5003,yo yo honey singh,The Xpose
+5004,irrfan khan,The Xpose
+5005,zoya afroz,The Xpose
+5006,satish kaushik,Dekh Tamasha Dekh
+5007,tanvi azmi,Dekh Tamasha Dekh
+5008,vinay jain,Dekh Tamasha Dekh
+5009,sharad ponkshe,Dekh Tamasha Dekh
+5010,varun dhawan,Humpty Sharma Ki Dulhania
+5011,alia bhatt,Humpty Sharma Ki Dulhania
+5012,sidharth shukla,Humpty Sharma Ki Dulhania
+5013,ashutosh rana,Humpty Sharma Ki Dulhania
+5014,rati agnihotri,Purani Jeans
+5015,param baidwaan,Purani Jeans
+5016,kashika chopra,Purani Jeans
+5017,sammy durrani,Purani Jeans
+5018,jimmy shergill,Fugly
+5019,mohit marwah,Fugly
+5020,kiara advani,Fugly
+5021,vijender singh,Fugly
+5022,rajkummar rao,CityLights
+5023,mallhar goenka,CityLights
+5024,manav kaul,CityLights
+5025,patralekhaa,CityLights
+5026,armaan jain,Lekar Hum Deewana Dil
+5027,deeksha seth,Lekar Hum Deewana Dil
+5028,nikita dutta,Lekar Hum Deewana Dil
+5029,rohini hattangadi,Lekar Hum Deewana Dil
+5030,salil acharya,3 AM: A Paranormal Experience
+5031,kavin dave,3 AM: A Paranormal Experience
+5032,anindita nayar,3 AM: A Paranormal Experience
+5033,rannvijay singh,3 AM: A Paranormal Experience
+5034,sonam arora,Bollywood Villa
+5035,arun bakshi,Bollywood Villa
+5036,piyush bhalodiya,Bollywood Villa
+5037,deepak bhatia,Bollywood Villa
+5038,akshay oberoi,Pizza
+5039,parvathy omanakuttan,Pizza
+5040,dipannita sharma,Pizza
+5041,arunoday singh,Pizza
+5042,saahil prem,M.A.D: Mad About Dance
+5043,amrit maghera,M.A.D: Mad About Dance
+5044,salah benlemqawanssa,M.A.D: Mad About Dance
+5045,akilesh unnitan,M.A.D: Mad About Dance
+5046,vir das,Amit Sahni Ki List
+5047,anindita nayar,Amit Sahni Ki List
+5048,natasha rastogi,Amit Sahni Ki List
+5049,kavi shastri,Amit Sahni Ki List
+5050,anupam kher,Ekkees Toppon Ki Salaami
+5051,neha dhupia,Ekkees Toppon Ki Salaami
+5052,divyendu sharma,Ekkees Toppon Ki Salaami
+5053,manu rishi chadha,Ekkees Toppon Ki Salaami
+5054,akshay kumar,The Shaukeens
+5055,lisa haydon,The Shaukeens
+5056,rati agnihotri,The Shaukeens
+5057,cyrus broacha,The Shaukeens
+5058,rajesh bakshi,Desi Kattey
+5059,jay bhanushali,Desi Kattey
+5060,claudia ciesla,Desi Kattey
+5061,akhil kapur,Desi Kattey
+5062,manoj amarnani,Life Is Beautiful
+5063,nancy brunetta,Life Is Beautiful
+5064,anokhi dalvi,Life Is Beautiful
+5065,parth naik,Life Is Beautiful
+5066,rati agnihotri,Spark
+5067,mansha bahl,Spark
+5068,rajneesh duggal,Spark
+5069,shubhashree ganguli,Spark
+5070,deepak chadha,Jigariyaa
+5071,harshvardhan deo,Jigariyaa
+5072,sneha deori,Jigariyaa
+5073,vineeta malik,Jigariyaa
+5074,shiv pandit,Mumbai Delhi Mumbai
+5075,piaa bajpai,Mumbai Delhi Mumbai
+5076,mohan joshi,Love U Crazy Girl
+5077,shakti kapoor,Love U Crazy Girl
+5078,nitika sharma,Love U Crazy Girl
+5079,aryan vaid,Love U Crazy Girl
+5080,kaivalya chheda,Shuruaat Ka Interval
+5081,rajsekhar aningi,Shuruaat Ka Interval
+5082,avidant bhagat,Shuruaat Ka Interval
+5083,bramha,Shuruaat Ka Interval
+5084,manish choudhary,Trip to Bhangarh
+5085,suzanna mukherjee,Trip to Bhangarh
+5086,poonam pandey,Trip to Bhangarh
+5087,adil hussain,Zed Plus
+5088,ekavali khanna,Zed Plus
+5089,kulbhushan kharbanda,Zed Plus
+5090,sanjay mishra,Zed Plus
+5091,vir das,Gollu aur Pappu
+5092,sandeepa dhar,Gollu aur Pappu
+5093,rahul handa,Gollu aur Pappu
+5094,dimple kapadia,Gollu aur Pappu
+5095,shradha das,Zid
+5096,mohan kapoor,Zid
+5097,mannara,Zid
+5098,karanvir sharma,Zid
