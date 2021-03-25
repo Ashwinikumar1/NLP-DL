@@ -2,7 +2,8 @@
 # coding: utf-8
 
 # In[6]:
-
+import time
+time.sleep(100)
 
 import sys
 from random import random
